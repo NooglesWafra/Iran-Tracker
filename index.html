@@ -218,6 +218,52 @@
     #map-container { flex: 1; position: relative; }
     #map { width: 100%; height: 100%; }
 
+    #map-tabs {
+      position: absolute;
+      top: 12px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      display: flex;
+      gap: 4px;
+      background: rgba(13,18,32,0.92);
+      border: 1px solid #1e2d4a;
+      border-radius: 6px;
+      padding: 4px;
+      backdrop-filter: blur(4px);
+    }
+
+    .map-tab {
+      padding: 6px 18px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      background: transparent;
+      color: #4a6fa5;
+      transition: all 0.15s;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+    }
+
+    .map-tab.active { background: #1e2d4a; color: #e8f0fe; }
+    .map-tab:hover:not(.active) { color: #7aafff; }
+
+    #maritime-panel {
+      position: absolute;
+      inset: 0;
+      z-index: 500;
+      display: none;
+      background: #080c18;
+    }
+
+    #maritime-panel iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
     /* Loading overlay */
     #loading-overlay {
       position: absolute;
@@ -342,11 +388,22 @@
   </div>
 
   <div id="map-container">
+    <div id="map-tabs">
+      <button class="map-tab active" onclick="switchTab('threat', this)">🎯 Threat Map</button>
+      <button class="map-tab" onclick="switchTab('maritime', this)">🚢 Hormuz Shipping</button>
+    </div>
     <div id="loading-overlay">
       <div class="loading-spinner"></div>
       <div class="loading-text">Fetching intelligence data...</div>
     </div>
     <div id="map"></div>
+    <div id="maritime-panel">
+      <iframe
+        src="https://www.marinetraffic.com/en/ais/embed/zoom:8/centery:26.5/centerx:56.5/maptype:4/shownames:true/mmsi:0/shipid:0/fleet:/fleet_id:/vtypes:/showmenu:/remember:false"
+        loading="lazy"
+        title="Strait of Hormuz Live Ship Traffic">
+      </iframe>
+    </div>
   </div>
 </div>
 
@@ -357,6 +414,18 @@
 
 <script>
   const DATA_URL = 'https://raw.githubusercontent.com/NooglesWafra/Iran-Tracker/main/events.json';
+
+  function switchTab(tab, btn) {
+    document.querySelectorAll('.map-tab').forEach(t => t.classList.remove('active'));
+    btn.classList.add('active');
+    if (tab === 'threat') {
+      document.getElementById('map').style.display = 'block';
+      document.getElementById('maritime-panel').style.display = 'none';
+    } else {
+      document.getElementById('map').style.display = 'none';
+      document.getElementById('maritime-panel').style.display = 'block';
+    }
+  }
 
   const typeColors = {
     kinetic:    '#f44336',
