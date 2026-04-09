@@ -181,6 +181,17 @@
     .event-card .event-title { font-size: 12px; color: #c8d6e8; line-height: 1.4; margin-bottom: 4px; }
     .event-card .event-location { font-size: 10px; color: #4a6fa5; }
 
+    .source-link {
+      display: inline-block;
+      margin-top: 5px;
+      font-size: 10px;
+      color: #4a6fa5;
+      text-decoration: none;
+      letter-spacing: 0.5px;
+      transition: color 0.15s;
+    }
+    .source-link:hover { color: #7aafff; text-decoration: underline; }
+
     .escalation-flag {
       display: inline-flex;
       align-items: center;
@@ -454,8 +465,12 @@
         <div class="event-title">${ev.title}</div>
         <div class="event-location">📍 ${ev.location}</div>
         ${ev.escalation ? '<div class="escalation-flag">⚠️ ESCALATION</div>' : ''}
+        ${ev.url ? `<a class="source-link" href="${ev.url}" target="_blank" rel="noopener">↗ Source</a>` : ''}
       `;
-      card.addEventListener('click', () => map.setView([ev.lat, ev.lng], 6, { animate: true }));
+      card.addEventListener('click', e => {
+        if (e.target.classList.contains('source-link')) return;
+        map.setView([ev.lat, ev.lng], 6, { animate: true });
+      });
       feed.appendChild(card);
     });
 
@@ -470,6 +485,7 @@
           <div class="popup-title">${ev.title}</div>
           <div class="popup-desc">${ev.desc}</div>
           <div class="popup-date">📍 ${ev.location} · ${ev.date}</div>
+          ${ev.url ? `<a href="${ev.url}" target="_blank" rel="noopener" style="color:#4a6fa5;font-size:10px;display:inline-block;margin-top:6px;text-decoration:none;" onmouseover="this.style.color='#7aafff'" onmouseout="this.style.color='#4a6fa5'">↗ View Source</a>` : ''}
         `, { maxWidth: 300 });
     });
 
