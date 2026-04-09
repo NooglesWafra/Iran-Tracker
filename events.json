@@ -1,1 +1,152 @@
-{object}
+{
+  "lastUpdated": "2024-07-26T10:00:00Z",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 5,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Israeli Airstrikes in Beirut and Southern Lebanon",
+      "desc": "Following a US-Iran ceasefire announcement, Israel launched significant airstrikes across Lebanon, including the southern suburbs of Beirut, southern Lebanon, and the eastern Bekaa Valley. These attacks resulted in at least 182 fatalities and 890 injuries, drawing condemnation from Iran and raising concerns about the fragility of the ceasefire.",
+      "location": "Lebanon",
+      "lat": 33.8547,
+      "lng": 35.8623,
+      "date": "Jul 25, 2024",
+      "escalation": true
+    },
+    {
+      "id": 2,
+      "type": "diplomatic",
+      "title": "US-Iran Ceasefire Agreement Announced",
+      "desc": "A conditional two-week ceasefire agreement has been reached between the US and Iran, brokered in part by Pakistan. While offering respite to civilians and leading to a drop in oil prices, the ceasefire is viewed as fragile and has unsettled hardliners within Iran. Key war objectives for the US and Israel remain unfulfilled.",
+      "location": "Middle East",
+      "lat": 25.0000,
+      "lng": 55.0000,
+      "date": "Jul 24, 2024",
+      "escalation": false
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israeli Strike on Gaza Journalist",
+      "desc": "Al Jazeera condemned an Israeli strike in Gaza that killed journalist Mohammed Wishah. The Israeli military claimed Wishah was a 'Hamas terrorist', a designation previously denied by the Qatar-based network, highlighting ongoing tensions and the risks faced by media personnel in conflict zones.",
+      "location": "Gaza",
+      "lat": 31.5000,
+      "lng": 34.4667,
+      "date": "Jul 23, 2024",
+      "escalation": false
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "WHO Suspends Gaza Medical Evacuations",
+      "desc": "The World Health Organization (WHO) has suspended medical evacuations in Gaza after Israeli troops killed a contractor. Israel claims troops perceived the vehicle as an 'immediate threat,' underscoring the dangerous conditions for humanitarian operations and medical personnel.",
+      "location": "Gaza",
+      "lat": 31.5000,
+      "lng": 34.4667,
+      "date": "Jul 22, 2024",
+      "escalation": false
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Israeli Consulate Shooting in Istanbul",
+      "desc": "One gunman was killed and two others injured in a shooting incident at the Israeli consulate in Istanbul. Notably, the consulate has been unoccupied by Israeli diplomats for the past two and a half years, raising questions about the motive and target of the attack.",
+      "location": "Istanbul",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "date": "Jul 21, 2024",
+      "escalation": false
+    },
+    {
+      "id": 6,
+      "type": "diplomatic",
+      "title": "French Couple Released from Iran",
+      "desc": "A French couple, Cecile Kohler and Jacques Paris, have been released from Iran and are en route home after more than three years of detention. This release follows diplomatic efforts by the French president.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Jul 20, 2024",
+      "escalation": false
+    },
+    {
+      "id": 7,
+      "type": "diplomatic",
+      "title": "US Journalist Kidnapped in Iraq Released",
+      "desc": "US journalist Shelly Kittleson has been released after being kidnapped in Iraq. US officials are reportedly working to ensure her safe departure from the country.",
+      "location": "Iraq",
+      "lat": 33.0000,
+      "lng": 44.0000,
+      "date": "Jul 19, 2024",
+      "escalation": false
+    },
+    {
+      "id": 8,
+      "type": "diplomatic",
+      "title": "US and Iran Peace Proposals Exchanged",
+      "desc": "Negotiators face a significant challenge in reconciling the US's 15-point peace plan with Iran's 10 proposals, aimed at ending the ongoing conflict. The success of these talks is crucial for a lasting resolution.",
+      "location": "Middle East",
+      "lat": 25.0000,
+      "lng": 55.0000,
+      "date": "Jul 18, 2024",
+      "escalation": false
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Lebanon Reports Ceasefire Violations by Israel",
+      "desc": "Lebanon reported that Israel continued deadly airstrikes in Beirut, violating the terms of a US-brokered ceasefire. Iran's deputy foreign minister stated that the US must choose between war and peace, indicating a tense standoff.",
+      "location": "Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "date": "Jul 25, 2024",
+      "escalation": true
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Shipping Cautious Near Strait of Hormuz",
+      "desc": "Following the US-Iran ceasefire deal, maritime traffic through the Strait of Hormuz remains subdued, with only a few vessels crossing. This indicates lingering caution among shipping companies despite the provisional truce.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0500,
+      "lng": 56.4500,
+      "date": "Jul 26, 2024",
+      "escalation": false
+    },
+    {
+      "id": 11,
+      "type": "cyber",
+      "title": "Cyber Incident Affecting Iranian Children's Welfare Services",
+      "desc": "Reports indicate a cyber incident that has had lasting detrimental effects on services aimed at supporting children in Iran who have endured the distress of war. The full extent of the damage and its long-term consequences are still being assessed.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Jul 10, 2024",
+      "escalation": false
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Israeli Strikes Target Southern Lebanon",
+      "desc": "Israeli airstrikes targeted areas in southern Lebanon, hours after the announcement of a US-Iran ceasefire. These strikes underscore the immediate challenges to maintaining the truce and the ongoing conflict dynamics in the region.",
+      "location": "Southern Lebanon",
+      "lat": 33.2000,
+      "lng": 35.5000,
+      "date": "Jul 25, 2024",
+      "escalation": true
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
