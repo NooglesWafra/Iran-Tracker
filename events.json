@@ -1,0 +1,152 @@
+{
+  "lastUpdated": "2026-04-09T17:00:00Z",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 7,
+    "cyber": 3,
+    "nuclear": 1
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Israel launches extensive strikes across Lebanon",
+      "desc": "Hours after US-Iran ceasefire announcement, Israel struck Beirut southern suburbs, South Lebanon, and eastern Bekaa Valley. At least 182 killed, 890 wounded. Ceasefire does not appear to include Israeli operations.",
+      "location": "Beirut & South Lebanon",
+      "lat": 33.8938,
+      "lng": 35.5018,
+      "date": "Apr 9, 2026",
+      "escalation": true
+    },
+    {
+      "id": 2,
+      "type": "diplomatic",
+      "title": "US-Iran ceasefire announced — described as 'fragile'",
+      "desc": "A conditional pause in hostilities brokered with Pakistani involvement. US claims war objectives met — stopping Iran nuclear acquisition and degrading arsenal. Negotiators face significant gaps between 15-point US plan and Iran's 10-point counter.",
+      "location": "Diplomatic",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "date": "Apr 9, 2026",
+      "escalation": false
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "WHO suspends medical evacuations in Gaza",
+      "desc": "An Israeli strike killed a contractor driving a vehicle believed by IDF to pose an immediate threat. WHO halted all medical evacuation operations.",
+      "location": "Gaza Strip",
+      "lat": 31.3547,
+      "lng": 34.3088,
+      "date": "Apr 8, 2026",
+      "escalation": false
+    },
+    {
+      "id": 4,
+      "type": "proxy",
+      "title": "Regional spillover — Lebanese ceasefire scope disputed",
+      "desc": "Iran's deputy FM describes Israeli strikes in Lebanon as a 'grave violation' of the ceasefire. Lebanon believed it was included in the US-Iran deal. Israel's continued operations indicate otherwise.",
+      "location": "Lebanon",
+      "lat": 33.8547,
+      "lng": 35.8623,
+      "date": "Apr 9, 2026",
+      "escalation": true
+    },
+    {
+      "id": 5,
+      "type": "diplomatic",
+      "title": "Strait of Hormuz — reduced vessel traffic",
+      "desc": "Ships proceeding with caution. Only a few vessels have crossed the Strait since ceasefire announcement. Oil prices fell 15% but remain above pre-war levels.",
+      "location": "Strait of Hormuz",
+      "lat": 26.5833,
+      "lng": 56.25,
+      "date": "Apr 9, 2026",
+      "escalation": false
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Shooting at Israeli consulate in Istanbul",
+      "desc": "One gunman killed, two injured. Israeli diplomatic personnel had not been present at the consulate for two-and-a-half years.",
+      "location": "Istanbul, Turkey",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "date": "Apr 8, 2026",
+      "escalation": false
+    },
+    {
+      "id": 7,
+      "type": "cyber",
+      "title": "APT34 / OilRig — phishing campaign targeting Gulf financial sector",
+      "desc": "IRGC-linked threat group conducting credential harvesting ops against financial services entities in the Gulf region. Spearphishing lures themed around ceasefire announcements. Targets include asset management and banking institutions.",
+      "location": "Gulf Region (cyber)",
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "date": "Apr 7, 2026",
+      "escalation": true
+    },
+    {
+      "id": 8,
+      "type": "cyber",
+      "title": "Mint Sandstorm — infrastructure reconnaissance activity",
+      "desc": "IRGC-affiliated group observed conducting reconnaissance against energy sector targets. Consistent with pre-positioning behavior ahead of potential escalation. No confirmed exploitation.",
+      "location": "Multiple (cyber)",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "date": "Apr 6, 2026",
+      "escalation": false
+    },
+    {
+      "id": 9,
+      "type": "nuclear",
+      "title": "Iran nuclear program — IAEA access update",
+      "desc": "Following ceasefire, IAEA inspectors remain restricted from Fordow. Enrichment status at 60% purity unconfirmed since last reporting period. US stated objective of degrading arsenal — verification ongoing.",
+      "location": "Fordow, Iran",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "date": "Apr 7, 2026",
+      "escalation": false
+    },
+    {
+      "id": 10,
+      "type": "proxy",
+      "title": "Houthi maritime operations — Red Sea posture",
+      "desc": "Despite ceasefire, Houthi forces maintain capability posture in Red Sea. Commercial shipping rerouting continues. No new confirmed attacks since ceasefire announcement.",
+      "location": "Red Sea / Yemen",
+      "lat": 15.3694,
+      "lng": 44.191,
+      "date": "Apr 8, 2026",
+      "escalation": false
+    },
+    {
+      "id": 11,
+      "type": "diplomatic",
+      "title": "US journalist Shelly Kittleson released in Iraq",
+      "desc": "Released following US-Iran ceasefire announcement. Seen as a confidence-building measure by Iran-aligned militias.",
+      "location": "Iraq",
+      "lat": 33.3152,
+      "lng": 44.3661,
+      "date": "Apr 9, 2026",
+      "escalation": false
+    },
+    {
+      "id": 12,
+      "type": "cyber",
+      "title": "Charming Kitten — social engineering targeting think tanks",
+      "desc": "Threat group targeting Middle East policy researchers and analysts with elaborate persona-based social engineering. Likely intelligence collection on ceasefire negotiation positions.",
+      "location": "Multiple (cyber)",
+      "lat": 32.0853,
+      "lng": 34.7818,
+      "date": "Apr 5, 2026",
+      "escalation": false
+    }
+  ],
+  "infrastructure": [
+    { "name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site" },
+    { "name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access" },
+    { "name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.315, "note": "US forward operating base — Qatar" },
+    { "name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.55, "note": "US Naval Forces Central Command" },
+    { "name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area" },
+    { "name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.191, "note": "Houthi control zone" },
+    { "name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps" }
+  ]
+}
