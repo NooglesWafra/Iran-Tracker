@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-10T19:47:33-04:00",
-  "threatLevel": "CRITICAL",
+  "lastUpdated": "2026-04-11T00:47:34-04:00",
+  "threatLevel": "HIGH",
   "weeklyStats": {
-    "kinetic": 9,
+    "kinetic": 15,
     "cyber": 2,
     "nuclear": 0
   },
@@ -10,68 +10,92 @@
     {
       "id": 1,
       "type": "kinetic",
-      "title": "Hezbollah Rocket Attack Damages Ancient Church in Israel",
-      "desc": "Hezbollah launched a significant rocket barrage targeting northern Israel, resulting in damage to a 1,500-year-old Byzantine church in Nahariya. This attack underscores the ongoing conflict and its impact on cultural heritage sites in the region.",
-      "location": "Nahariya, Israel",
-      "lat": 32.9090,
-      "lng": 35.0722,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss"
+      "title": "Iranian strikes target US Air Force assets in Saudi Arabia",
+      "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging multiple KC-135 tankers. This is part of a pattern of asymmetric counterair operations by Iran against US and Israeli forces.",
+      "location": "Prince Sultan Air Base, Saudi Arabia",
+      "lat": 24.1107,
+      "lng": 46.6733,
+      "date": "Mar 27, 2026",
+      "escalation": true,
+      "url": "https://warontherocks.com/2026/04/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"
     },
     {
       "id": 2,
-      "type": "diplomatic",
-      "title": "US and Iranian Delegations Meet in Islamabad for Peace Talks",
-      "desc": "A high-level Iranian delegation arrived in Islamabad, Pakistan, for critical talks with US officials aimed at de-escalating the ongoing conflict. The meeting is seen as a crucial step towards achieving a ceasefire and addressing regional stability.",
-      "location": "Islamabad, Pakistan",
-      "lat": 33.6844,
-      "lng": 73.0479,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss"
+      "type": "cyber",
+      "title": "Iran implements nationwide internet blackout",
+      "desc": "Following Israeli and American strikes, Iran's government deliberately dismantled its communications infrastructure, causing a 98% collapse in internet traffic. This blackout was imposed on the Iranian population.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Unknown (during recent strikes)",
+      "escalation": true,
+      "url": "https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/"
     },
     {
       "id": 3,
       "type": "kinetic",
-      "title": "Islamabad on High Alert Ahead of US-Iran Peace Talks",
-      "desc": "Islamabad has implemented a significant security lockdown, deploying over 10,000 military and police personnel in anticipation of the arrival of US and Iranian delegations for peace talks. This heightened security reflects the sensitivity and importance of the negotiations.",
-      "location": "Islamabad, Pakistan",
-      "lat": 33.6844,
-      "lng": 73.0479,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss"
+      "title": "US expends significant missile interceptor stockpile against Iranian threats",
+      "desc": "During a recent conflict, the US military expended an estimated 100 to 150 upper-tier missile interceptors against Iranian missiles and drones, representing approximately 25% of its total stockpile in 12 days.",
+      "location": "Indo-Pacific region",
+      "lat": 0.0000,
+      "lng": 0.0000,
+      "date": "Unknown (during recent conflict)",
+      "escalation": true,
+      "url": "https://warontherocks.com/2026/04/closing-the-air-and-missile-defense-gap-in-the-indo-pacific/"
     },
     {
       "id": 4,
       "type": "diplomatic",
-      "title": "US-Iran War Ceasefire Talks Underway Amid Tensions in Pakistan",
-      "desc": "New tensions have emerged just before crucial US-Iran ceasefire talks are set to begin in Pakistan. An Iranian official stated that conditions for talks have not yet been met, while former President Trump reiterated threats of renewed attacks, complicating the diplomatic efforts.",
+      "title": "US and Iran hold ceasefire talks in Pakistan",
+      "desc": "US and Iranian delegations are meeting in Islamabad, Pakistan, to negotiate an end to a six-week war. However, Iran has cast doubt on the talks, demanding commitments regarding Lebanon and sanctions.",
       "location": "Islamabad, Pakistan",
       "lat": 33.6844,
       "lng": 73.0479,
-      "date": "Apr 10, 2026",
+      "date": "Apr 11, 2026",
       "escalation": false,
-      "url": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/04/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks"
     },
     {
       "id": 5,
       "type": "diplomatic",
-      "title": "US Team Heads to Iran Talks in Pakistan with Low Expectations",
-      "desc": "A US team, led by Vice President JD Vance, has departed for Islamabad for talks with Iran. However, expectations are low as both nations accuse each other of breaching commitments made for a temporary ceasefire, casting doubt on the immediate reopening of the Strait of Hormuz.",
+      "title": "Pakistan PM calls US-Iran talks 'make or break'",
+      "desc": "Pakistan's Prime Minister Shehbaz Sharif described the upcoming US-Iran talks in Islamabad as a critical \"make or break\" moment for resolving the ongoing conflict.",
       "location": "Islamabad, Pakistan",
       "lat": 33.6844,
       "lng": 73.0479,
-      "date": "Apr 10, 2026",
+      "date": "Apr 11, 2026",
       "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/04/us-team-heads-iran-talks-pakistan-low-expectations"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss"
     },
     {
       "id": 6,
+      "type": "kinetic",
+      "title": "Israeli strike kills Lebanese officers",
+      "desc": "An Israeli air strike on a government building in Nabatieh, southern Lebanon, resulted in the deaths of at least 13 officers, highlighting ongoing hostilities despite ceasefire efforts.",
+      "location": "Nabatieh, Lebanon",
+      "lat": 33.3772,
+      "lng": 35.3847,
+      "date": "Apr 10, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Hezbollah rocket attack damages ancient church",
+      "desc": "Hezbollah launched a barrage of rockets towards northern Israel, causing damage to a 1,500-year-old Byzantine church in Nahariya.",
+      "location": "Nahariya, Israel",
+      "lat": 32.9260,
+      "lng": 35.0920,
+      "date": "Apr 10, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss"
+    },
+    {
+      "id": 8,
       "type": "cyber",
-      "title": "Hungarian Government Passwords Exposed Online",
-      "desc": "Approximately 800 Hungarian government email addresses and their corresponding passwords have been leaked online, revealing significant vulnerabilities in ministries handling sensitive information. The breach affects 12 out of 13 ministries.",
+      "title": "Hungarian government passwords exposed online",
+      "desc": "Approximately 800 Hungarian government email addresses and passwords have been leaked online, compromising security protocols across 12 of the country's 13 ministries.",
       "location": "Budapest, Hungary",
       "lat": 47.4979,
       "lng": 19.0402,
@@ -80,162 +104,97 @@
       "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
     },
     {
-      "id": 7,
-      "type": "kinetic",
-      "title": "Iranian Asymmetric Counterair Campaign Targets US Air Force Assets",
-      "desc": "Iranian drones and missiles have struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging KC-135 tankers. These attacks are part of a broader Iranian counterair campaign aimed at degrading US and Israeli air capabilities in the region.",
-      "location": "Prince Sultan Air Base, Saudi Arabia",
-      "lat": 24.7936,
-      "lng": 46.9565,
-      "date": "Mar 27, 2026",
-      "escalation": true,
-      "url": "https://warontherocks.com/2026/04/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"
-    },
-    {
-      "id": 8,
-      "type": "kinetic",
-      "title": "US Possibly Deployed Mines Over Iranian Village",
-      "desc": "Evidence suggests the US may have deployed the Gator Scatterable Mine system over Kafari, a village in southern Iran, resulting in civilian casualties. Experts identified the munitions as US-made anti-tank mines.",
-      "location": "Kafari, Iran",
-      "lat": 29.6033,
-      "lng": 52.5200,
-      "date": "Mar 26, 2026",
-      "escalation": true,
-      "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"
-    },
-    {
       "id": 9,
       "type": "kinetic",
-      "title": "Iran War's Widening Impacts Across Middle East and North Africa",
-      "desc": "The conflict with Iran has generated significant ripple effects throughout the Middle East and North Africa, with direct attacks experienced by Gulf Arab states, Iraq, and Jordan. Israel has intensified bombing in Lebanon in response to Hezbollah attacks.",
-      "location": "Middle East and North Africa",
-      "lat": 28.0000,
-      "lng": 54.0000,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://warontherocks.com/2026/04/in-brief-the-iran-wars-widening-impacts-in-the-middle-east-and-north-africa/"
+      "title": "US intelligence suggests China preparing weapons shipment to Iran",
+      "desc": "US intelligence indicates China is preparing to deliver new air defense systems to Iran in the coming weeks, potentially routing shipments through third countries to conceal their origin.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Apr 11, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/us-intelligence-indicates-china-preparing-weapons-shipment-iran-cnn-reports"
     },
     {
       "id": 10,
       "type": "kinetic",
-      "title": "US Aims to Reopen Strait of Hormuz Amidst Ongoing Tensions",
-      "desc": "President Donald Trump has stated that the US will work to reopen the Strait of Hormuz 'fairly soon,' acknowledging the difficulty of the task. He indicated that other nations are offering assistance in this endeavor.",
+      "title": "Iran escalates A2/AD strategy in Strait of Hormuz",
+      "desc": "Iran's strategy to control the Strait of Hormuz is described as crude but dangerous, posing a significant challenge to maritime freedom of navigation and increasing shipping costs.",
       "location": "Strait of Hormuz",
-      "lat": 27.2233,
-      "lng": 51.7047,
-      "date": "Apr 10, 2026",
+      "lat": 27.2107,
+      "lng": 51.5146,
+      "date": "Unknown",
       "escalation": true,
-      "url": "https://www.al-monitor.com/originals/2026/04/trump-says-us-will-have-strait-hormuz-open-fairly-soon"
+      "url": "https://warontherocks.com/2026/04/irans-anti-access-and-area-denial-strategy-is-cruder-than-chinas-but-still-dangerous/"
     },
     {
       "id": 11,
       "type": "kinetic",
-      "title": "Lebanon and Israel Set for Talks in US Amidst Ceasefire Concerns",
-      "desc": "Lebanon and Israel are scheduled to hold talks in Washington next Tuesday to discuss a ceasefire in the Israel-Hezbollah war and the initiation of negotiations. This comes as Israel launched strikes in Lebanon after a US-Iran ceasefire was announced, raising concerns about adherence to the truce.",
-      "location": "Washington D.C.",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss"
+      "title": "US Navy Central Command HQ in Bahrain targeted by Houthi drone",
+      "desc": "A Houthi drone attack targeted the US Navy's Fifth Fleet Headquarters in Bahrain. This incident underscores the ongoing regional instability and the reach of Houthi capabilities.",
+      "location": "Manama, Bahrain",
+      "lat": 26.2041,
+      "lng": 50.5599,
+      "date": "Unknown",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/04/11/houthi-drone-targets-us-navy-headquarters-in-bahrain"
     },
     {
       "id": 12,
-      "type": "kinetic",
-      "title": "Israeli Strikes Hit Lebanon Despite Ceasefire Announcement",
-      "desc": "Hours after a US-Iran ceasefire was announced, Israel conducted a major wave of strikes across Lebanon, hitting the southern suburbs of Beirut, southern Lebanon, and the eastern Bekaa Valley. These strikes resulted in at least 182 deaths and 890 injuries, according to the Lebanese health ministry.",
-      "location": "Lebanon",
-      "lat": 33.8567,
-      "lng": 35.8623,
-      "date": "Apr 10, 2026",
-      "escalation": true,
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+      "type": "diplomatic",
+      "title": "Lebanon and Israel to hold talks in US",
+      "desc": "Lebanon and Israel are scheduled to hold direct talks in Washington to discuss a ceasefire and begin negotiations, following a period of intense conflict.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/lebanon-says-israel-talks-set-tuesday-us"
     },
     {
       "id": 13,
-      "type": "cyber",
-      "title": "Iran Imposes Internet Blackout Amidst Israeli and American Strikes",
-      "desc": "The Iranian government deliberately dismantled its communications infrastructure, causing a near-total internet blackout with a 98 percent collapse in traffic following Israeli and American strikes on military installations. This action was aimed at the Iranian populace, restricting information flow.",
-      "location": "Iran",
-      "lat": 32.4279,
-      "lng": 53.6880,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/"
+      "type": "kinetic",
+      "title": "Israeli forces conduct air strikes in Beirut suburbs",
+      "desc": "Israeli forces launched a significant wave of air strikes targeting the southern suburbs of Beirut and other areas in Lebanon, resulting in numerous casualties shortly after a US-Iran ceasefire was announced.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8869,
+      "lng": 35.5131,
+      "date": "Apr 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo"
     },
     {
       "id": 14,
       "type": "kinetic",
-      "title": "Trump Accuses Iran of Mismanaging Strait of Hormuz",
-      "desc": "President Donald Trump criticized Iran's handling of the Strait of Hormuz, stating it deviates from the agreed-upon terms and accusing Tehran of 'short term extortion.' He asserted that Iran has limited leverage in upcoming negotiations, apart from its control over the vital shipping channel.",
-      "location": "Strait of Hormuz",
-      "lat": 27.2233,
-      "lng": 51.7047,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/04/trump-says-iran-has-no-cards-beyond-hormuz-control"
+      "title": "Palestinian shot dead during Israeli settler attack",
+      "desc": "A Palestinian individual was killed during an attack by Israeli settlers in an occupied West Bank village. This incident occurred amidst warnings of escalating \"government-sponsored Jewish terrorism.\"",
+      "location": "West Bank",
+      "lat": 31.9522,
+      "lng": 35.2332,
+      "date": "Apr 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/czrekrzzex1o"
     },
     {
       "id": 15,
       "type": "kinetic",
-      "title": "Lebanon Boosts Army Presence in Beirut Amidst Hezbollah Criticism of Israel Talks",
-      "desc": "The Lebanese government is increasing its military and police presence in Beirut as Hezbollah expresses strong disapproval of the planned talks with Israel. This move by the government aims to assert authority in the capital, earning praise from Gulf states.",
-      "location": "Beirut, Lebanon",
-      "lat": 33.8688,
-      "lng": 35.8357,
-      "date": "Apr 10, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/04/lebanon-boosts-army-presence-beirut-hezbollah-slams-israel-talks-what-know"
+      "title": "US scattering mines over Iranian village",
+      "desc": "Evidence suggests the US deployed the Gator Scatterable Mine system over Kafari, a village near Shiraz, Iran, resulting in several fatalities according to Iranian media reports.",
+      "location": "Kafari, Iran",
+      "lat": 29.6167,
+      "lng": 52.5333,
+      "date": "Mar 26, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"
     }
   ],
   "infrastructure": [
-    {
-      "name": "Natanz Nuclear Facility",
-      "lat": 33.7236,
-      "lng": 51.7267,
-      "note": "Primary uranium enrichment site"
-    },
-    {
-      "name": "Fordow Enrichment Facility",
-      "lat": 34.8846,
-      "lng": 50.9929,
-      "note": "Underground enrichment — restricted IAEA access"
-    },
-    {
-      "name": "Al Udeid Air Base (CENTCOM)",
-      "lat": 25.1174,
-      "lng": 51.3150,
-      "note": "US forward operating base — Qatar"
-    },
-    {
-      "name": "US 5th Fleet HQ — Bahrain",
-      "lat": 26.1921,
-      "lng": 50.5500,
-      "note": "US Naval Forces Central Command"
-    },
-    {
-      "name": "Hezbollah stronghold — South Beirut",
-      "lat": 33.8518,
-      "lng": 35.4845,
-      "note": "Primary Hezbollah operational area"
-    },
-    {
-      "name": "Houthi operational area — Sanaa",
-      "lat": 15.3694,
-      "lng": 44.1910,
-      "note": "Houthi control zone"
-    },
-    {
-      "name": "IRGC HQ — Tehran",
-      "lat": 35.7219,
-      "lng": 51.3347,
-      "note": "Islamic Revolutionary Guard Corps"
-    },
-    {
-      "name": "Prince Sultan Air Base",
-      "lat": 24.7936,
-      "lng": 46.9565,
-      "note": "Royal Saudi Air Force base housing US personnel and assets"
-    }
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
   ]
 }
