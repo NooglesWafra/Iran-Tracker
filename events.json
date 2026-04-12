@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-04-12T01:47:32-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 11, "cyber": 1, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Warships Clear Mines in Strait of Hormuz", "desc": "Two US Navy warships transited the Strait of Hormuz to commence clearing Iranian-laid mines, a move that Iran's Revolutionary Guards threatened to respond to severely. This marks the first such transit since the conflict began, as President Trump stated the US is actively clearing the waterway.", "location": "Strait of Hormuz", "lat": 26.8333, "lng": 53.9167, "date": "Apr 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/04/us-says-warships-transit-strait-hormuz-mine-clearance-op"}, {"id": 2, "type": "diplomatic", "title": "US and Iran Fail to Reach Peace Deal in Pakistan Talks", "desc": "High-level talks between the US and Iran in Pakistan concluded without an agreement. US Vice President JD Vance stated that Iran did not accept the US's 'final and best offer,' while Iranian officials suggested the US was seeking an excuse to end the negotiations. The talks aimed to end the six-week conflict.", "location": "Islamabad, Pakistan", "lat": 33.6844, "lng": 73.0479, "date": "Apr 12, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/04/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan"}, {"id": 3, "type": "kinetic", "title": "Israeli Strikes Hit Gaza Police Checkpoint", "desc": "An Israeli airstrike targeted a police checkpoint in Bureij camp in the central Gaza Strip, resulting in at least six fatalities and several injuries. The Israeli military has not yet commented, but has previously targeted Hamas-led police forces.", "location": "Bureij Camp, Gaza Strip", "lat": 31.4247, "lng": 34.3068, "date": "Apr 11, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/04/israeli-strike-kills-least-six-gaza-police-checkpoint-medics-say"}, {"id": 4, "type": "kinetic", "title": "Lebanon Strikes Amidst Fragile Ceasefire", "desc": "Despite a US-Iran ceasefire announcement, Israel launched a significant wave of strikes across Lebanon, hitting areas including the southern suburbs of Beirut and southern Lebanon, killing at least 182 people and wounding hundreds. Iran's deputy foreign minister called these strikes a 'grave violation' of the ceasefire.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8613, "date": "Apr 12, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c0j6d538l6qo"}, {"id": 5, "type": "kinetic", "title": "Iranian Counterair Campaign Hits US Air Bases", "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging multiple KC-135 tankers. This follows earlier attacks on the same base, marking a significant success for Iran's asymmetric counterair strategy against US forces in the region.", "location": "Prince Sultan Air Base, Saudi Arabia", "lat": 24.7746, "lng": 46.6785, "date": "Mar 27, 2026", "escalation": true, "url": "https://warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"}, {"id": 6, "type": "cyber", "title": "Iran Imposes Internet Blackout Amidst Strikes", "desc": "Following strikes by adversaries on military installations, the Iranian government deliberately throttled internet traffic by 98%, causing a near-total blackout. This action was aimed at the Iranian populace, hindering communication and information flow within the country during a period of external attacks.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Unknown (reported April 12, 2026)", "escalation": false, "url": "https://warontherocks.com/irans-other-front-the-war-over-the-internet/"}, {"id": 7, "type": "kinetic", "title": "US Accuses Iran of Minelaying in Strait of Hormuz", "desc": "President Trump stated that US forces are 'clearing' the Strait of Hormuz and that all 28 of Iran's minelaying ships have been sunk. This claim was made as US warships began clearing mines in the strait, a move Iran's Revolutionary Guards vowed to counter forcefully.", "location": "Strait of Hormuz", "lat": 26.8333, "lng": 53.9167, "date": "Apr 11, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/04/trump-says-us-forces-are-clearing-strait-hormuz"}, {"id": 8, "type": "kinetic", "title": "Israeli Settlements Approved in Occupied West Bank", "desc": "Israel has approved the establishment of 34 new settlements in the occupied West Bank, leading to apprehension among Palestinians about potential land loss. This move follows a period of heightened tensions and conflict in the region.", "location": "Occupied West Bank", "lat": 31.9522, "lng": 35.2332, "date": "Apr 12, 2026", "escalation": false, "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank"}, {"id": 9, "type": "kinetic", "title": "Two Waves of Bombing at Iranian School Compound", "desc": "New videos verified by Bellingcat show multiple missile impacts on an IRGC compound and an adjacent school in Minab, Iran. The footage reveals two distinct waves of strikes, providing further detail on the deadly attack.", "location": "Minab, Iran", "lat": 27.1360, "lng": 57.0867, "date": "Feb 2026 (reported April 10, 2026)", "escalation": true, "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"}, {"id": 10, "type": "kinetic", "title": "US Deploys Mines Over Iranian Village", "desc": "Evidence suggests the US deployed Gator Scatterable Mines over the village of Kafari near Shiraz, Iran, resulting in civilian casualties. Experts identified the munitions as US-made Gator anti-tank mines, indicating a potential escalation in tactics against Iranian territory.", "location": "Kafari village, Iran", "lat": 29.6107, "lng": 52.5054, "date": "Mar 25, 2026 (reported April 10, 2026)", "escalation": true, "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"}, {"id": 11, "type": "diplomatic", "title": "French Nuclear Deterrence Doctrine Shift", "desc": "French President Macron announced a new 'forward deterrence' doctrine, offering to deploy French Strategic Air Forces to allied European countries. This move aims to enhance deterrence by spreading nuclear assets more widely across the continent.", "location": "Europe", "lat": 54.5260, "lng": 15.2551, "date": "Unknown (reported April 12, 2026)", "escalation": false, "url": "https://warontherocks.com/disperse-to-survive-the-logic-of-french-forward-deterrence/"}, {"id": 12, "type": "cyber", "title": "Hungarian Government Passwords Exposed Online", "desc": "Approximately 800 Hungarian government email addresses and passwords have been leaked online, compromising security protocols across 12 ministries. The exposed passwords, some including terms like 'Snoopy' and 'Adolf,' raise concerns about sensitive data security.", "location": "Hungary", "lat": 47.1625, "lng": 19.5045, "date": "Apr 09, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-04-12T06:47:32-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 10,
+    "cyber": 2,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Iran Conducts Asymmetric Counterair Campaign Against US Assets",
+      "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging multiple KC-135 tankers. This is part of a sustained counterair campaign by Iran against US and Israeli forces.",
+      "location": "Prince Sultan Air Base, Saudi Arabia",
+      "lat": 24.7652,
+      "lng": 47.4306,
+      "date": "Mar 27, 2026",
+      "escalation": true,
+      "url": "https://warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Iranian Mines Allegedly Scattered Over Village Near Shiraz",
+      "desc": "Evidence suggests the US deployed Gator Scatterable Mines over the village of Kafari near Shiraz. Iranian media reported casualties, and experts identified the munitions as US-made anti-tank mines, indicating potential US involvement in mining operations within Iran.",
+      "location": "Kafari Village, near Shiraz, Iran",
+      "lat": 29.6046,
+      "lng": 52.5346,
+      "date": "Mar 26, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Iranian Strikes Hit IRGC Compound and Adjacent School in Minab",
+      "desc": "Newly verified videos reveal two waves of missile strikes on an IRGC compound and a nearby school in Minab. The attacks, released by Iran's Ministry of Foreign Affairs, show multiple impacts on the complex, highlighting the evolving kinetic engagements in the conflict.",
+      "location": "Minab, Iran",
+      "lat": 27.1300,
+      "lng": 57.0800,
+      "date": "Feb 28, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US Warships Clear Mines in Strait of Hormuz Amid Tensions",
+      "desc": "Two US Navy warships entered the Strait of Hormuz to clear Iranian-laid mines, a move denied by Tehran, which threatened severe retaliation. This action follows President Trump's announcement of clearing operations.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7495,
+      "lng": 54.0769,
+      "date": "Apr 11, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/us-says-warships-transit-strait-hormuz-mine-clearance-op"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Israeli Airstrike Kills Six at Gaza Police Checkpoint",
+      "desc": "An Israeli airstrike targeted a police checkpoint in Bureij camp, central Gaza Strip, resulting in at least six deaths and multiple injuries. The Israeli military has not yet commented.",
+      "location": "Bureij Camp, Gaza Strip",
+      "lat": 31.4705,
+      "lng": 34.3180,
+      "date": "Apr 12, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/israeli-strike-kills-least-six-gaza-police-checkpoint-medics-say"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Israeli Strikes Hit Southern Lebanon and Beirut Suburbs After Ceasefire",
+      "desc": "Despite a US-Iran ceasefire announcement, Israel launched significant strikes across Lebanon, impacting southern suburbs of Beirut, southern Lebanon, and the eastern Bekaa Valley. This action has been called a 'grave violation' by Iran.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8623,
+      "date": "Apr 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Palestinian Shot Dead by Israeli Settlers in West Bank",
+      "desc": "A Palestinian was killed during an attack by Israeli settlers in an occupied West Bank village. The incident occurs amidst warnings from former security chiefs about 'government-sponsored Jewish terrorism'.",
+      "location": "Occupied West Bank",
+      "lat": 31.9522,
+      "lng": 35.2332,
+      "date": "Apr 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/czrekrzzex1o"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Lebanon Continues Flights from Beirut Airport Amidst Israeli Bombing",
+      "desc": "Beirut's airport remains operational despite ongoing Israeli strikes in the region. Flights from Lebanon's national carrier are taking off, demonstrating a degree of resilience in air transport infrastructure.",
+      "location": "Beirut Airport, Lebanon",
+      "lat": 33.8547,
+      "lng": 35.7167,
+      "date": "Apr 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/planes-fly-beirut-airport-despite-israeli-bombing"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Saudi Arabia Restores Oil Pipeline to Full Capacity Post-Attack",
+      "desc": "The East-West pipeline in Saudi Arabia has returned to pumping approximately 7 million barrels per day, indicating successful repair and restoration of critical energy infrastructure following recent attacks.",
+      "location": "Saudi Arabia",
+      "lat": 23.8859,
+      "lng": 45.0792,
+      "date": "Apr 12, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "cyber",
+      "title": "Hungarian Government Ministries Exposed in Data Breach",
+      "desc": "Approximately 800 Hungarian government email addresses and passwords have been leaked online, affecting 12 out of 13 ministries. This breach reveals significant security vulnerabilities within sensitive government operations.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "Apr 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
+    },
+    {
+      "id": 11,
+      "type": "information_ops",
+      "title": "Iran Uses Sophisticated AI-Generated Videos for Propaganda",
+      "desc": "AI-generated videos, described as 'highly sophisticated' propaganda, are being used to influence narratives related to the conflict involving Iran. Experts emphasize the power of this 'slopaganda'.",
+      "location": "Tehran, Iran",
+      "lat": 35.6892,
+      "lng": 51.3890,
+      "date": "Apr 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 12,
+      "type": "diplomatic",
+      "title": "US-Iran Peace Talks Conclude Without Agreement",
+      "desc": "High-level talks between the US and Iran in Pakistan ended without a deal, with both sides blaming each other. US Vice President JD Vance stated the US presented its 'final and best offer,' while Iran indicated no deal was expected at this initial meeting.",
+      "location": "Islamabad, Pakistan",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "date": "Apr 12, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan"
+    },
+    {
+      "id": 13,
+      "type": "proxy",
+      "title": "Houthi Missile Underscores Regional Pressure Amid Ceasefire",
+      "desc": "The Houthis fired a missile, serving as a reminder of ongoing regional pressures even as a fragile US-Iran ceasefire holds. This action highlights the complex dynamics influencing the broader conflict.",
+      "location": "Yemen",
+      "lat": 15.5527,
+      "lng": 48.5164,
+      "date": "Apr 11, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/irans-anti-access-and-area-denial-strategy-is-cruder-than-chinas-but-still-dangerous/"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Israel and Lebanon Officials to Meet for Peace Talks",
+      "desc": "Officials from Israel and Lebanon are scheduled to meet for peace talks, following a period of heightened tensions and conflict. Lebanon's participation is contingent on a ceasefire being in place.",
+      "location": "United States",
+      "lat": 39.7663,
+      "lng": -98.5005,
+      "date": "Apr 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "US Military Supports Israeli Air and Missile Defense",
+      "desc": "During a recent conflict with Iran, the US military deployed regionally based air and missile defense assets to intercept Iranian missiles and drones, expending a significant portion of its missile interceptor stockpile.",
+      "location": "Indo-Pacific Region",
+      "lat": -17.8576,
+      "lng": 168.3118,
+      "date": "Apr 12, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/closing-the-air-and-missile-defense-gap-in-the-indo-pacific/"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
