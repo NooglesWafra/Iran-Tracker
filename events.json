@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-12T16:47:33-04:00",
+  "lastUpdated": "2026-04-12T21:47:33-04:00",
   "threatLevel": "CRITICAL",
   "weeklyStats": {
-    "kinetic": 14,
+    "kinetic": 10,
     "cyber": 3,
     "nuclear": 0
   },
@@ -10,128 +10,116 @@
     {
       "id": 1,
       "type": "kinetic",
-      "title": "Iran Warns Against Military Vessels Approaching Strait of Hormuz",
-      "desc": "Iran's Revolutionary Guards declared that any military vessels approaching the Strait of Hormuz would be considered a violation of the U.S.-brokered ceasefire. They vowed to deal harshly and decisively with any such incursions, asserting Iran's control over the strategic waterway.",
+      "title": "US Navy to Blockade Iranian Ports",
+      "desc": "The U.S. military announced it will implement a blockade of all maritime traffic entering and exiting Iranian ports starting April 13, after President Trump ordered a naval blockade of the Strait of Hormuz. This move escalates tensions following the failure of recent peace talks with Iran.",
       "location": "Strait of Hormuz",
-      "lat": 26.9711,
-      "lng": 54.3678,
-      "date": "Apr 12, 2026",
+      "lat": 27.2041,
+      "lng": 54.0000,
+      "date": "Apr 13, 2026",
       "escalation": true,
-      "url": "https://www.al-monitor.com/originals/2026/04/irans-guards-will-view-military-vessels-approaching-strait-ceasefire-breach"
+      "url": "https://www.al-monitor.com/originals/2026/04/us-military-says-it-will-start-blockade-all-ships-going-and-iran-monday"
     },
     {
       "id": 2,
       "type": "kinetic",
-      "title": "Trump Orders U.S. Naval Blockade of Strait of Hormuz",
-      "desc": "Following the collapse of peace talks with Iran, President Donald Trump ordered a U.S. naval blockade of the Strait of Hormuz. This action signifies a significant escalation and tests the fragile ceasefire, with Trump stating the Navy would interdict vessels that have paid tolls to Iran.",
-      "location": "Strait of Hormuz",
-      "lat": 26.9711,
-      "lng": 54.3678,
-      "date": "Apr 12, 2026",
-      "escalation": true,
-      "url": "https://www.al-monitor.com/originals/2026/04/trump-orders-us-naval-blockade-strait-hormuz"
+      "title": "Oil Prices Surge on Blockade Threat",
+      "desc": "Asian stocks fell and oil prices surged past $103 a barrel following the US announcement of a blockade of Iranian ports and the Strait of Hormuz, injecting fresh turmoil into financial markets.",
+      "location": "Global Markets",
+      "lat": 0,
+      "lng": 0,
+      "date": "Apr 13, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss"
     },
     {
       "id": 3,
       "type": "kinetic",
+      "title": "Iran's Guards Warn of Ceasefire Violation",
+      "desc": "Iran's Revolutionary Guards stated that any military vessels approaching the Strait of Hormuz will be considered a violation of the U.S. ceasefire and will be dealt with harshly. They asserted control over the strait for non-military passage.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2041,
+      "lng": 54.0000,
+      "date": "Apr 13, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/irans-guards-will-view-military-vessels-approaching-strait-ceasefire-breach"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US Intercepts Vessels in International Waters",
+      "desc": "President Trump announced that the US Navy would immediately blockade the Strait of Hormuz and interdict any vessel in international waters that had paid tolls to Iran, following the collapse of peace talks.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2041,
+      "lng": 54.0000,
+      "date": "Apr 12, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/trump-says-us-start-blockading-strait-hormuz-immediately"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
       "title": "Saudi Arabia Summons Iraq Envoy Over Drone Threats",
-      "desc": "Saudi Arabia summoned Iraq's ambassador to protest drone threats originating from Iraqi territory targeting the kingdom and other Gulf states. Riyadh emphasized the need for Baghdad to responsibly address these attacks.",
+      "desc": "Saudi Arabia summoned Iraq's ambassador due to threats against the kingdom and other Gulf states originating from drones launched within Iraqi territory. Riyadh emphasized Iraq's responsibility in managing these threats.",
       "location": "Riyadh, Saudi Arabia",
-      "lat": 24.7136,
+      "lat": 24.7139,
       "lng": 46.6753,
       "date": "Apr 12, 2026",
       "escalation": false,
       "url": "https://www.al-monitor.com/originals/2026/04/saudi-arabia-summons-iraq-envoy-over-drone-threats-iraqi-territory"
     },
     {
-      "id": 4,
+      "id": 6,
       "type": "kinetic",
-      "title": "Israeli Strike Kills Infant Girl in South Lebanon",
-      "desc": "An Israeli strike in south Lebanon killed an infant girl and other relatives during a funeral, amidst a new wave of attacks across the region. This incident occurred despite hopes of a truce spreading.",
+      "title": "Israeli Strikes Kill Dozens in Lebanon Amidst Ceasefire Concerns",
+      "desc": "Hours after a US-Iran ceasefire announcement, Israel launched a large wave of strikes across Lebanon, hitting Beirut's southern suburbs, southern Lebanon, and the eastern Bekaa Valley, resulting in at least 182 fatalities and hundreds wounded.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "Apr 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Israeli Air Strike Kills Infant in South Lebanon",
+      "desc": "An Israeli drone strike in south Lebanon killed an infant sister and other relatives of a family attending a funeral. A Lebanese Red Cross paramedic was also reportedly killed by an Israeli drone while on a humanitarian mission.",
       "location": "South Lebanon",
-      "lat": 33.4718,
-      "lng": 35.4628,
+      "lat": 33.2846,
+      "lng": 35.4535,
       "date": "Apr 12, 2026",
       "escalation": true,
       "url": "https://www.al-monitor.com/originals/2026/04/israeli-strike-kills-infant-girl-south-lebanon-during-fathers-funeral"
     },
     {
-      "id": 5,
+      "id": 8,
       "type": "kinetic",
-      "title": "Iran's Asymmetric Counterair Campaign Intensifies",
-      "desc": "Recent Iranian drone and missile attacks on Prince Sultan Air Base in Saudi Arabia destroyed an E-3 Sentry and damaged KC-135 tankers. These strikes are part of a broader pattern of Iran's asymmetric counterair campaign against U.S. and Israeli interests.",
+      "title": "Iran's Asymmetric Counterair Campaign Continues",
+      "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging KC-135 tankers, continuing a pattern of asymmetric attacks aimed at U.S. air assets.",
       "location": "Prince Sultan Air Base, Saudi Arabia",
-      "lat": 24.6000,
-      "lng": 47.2833,
+      "lat": 24.7687,
+      "lng": 47.4473,
       "date": "Mar 27, 2026",
-      "escalation": true,
+      "escalation": false,
       "url": "https://warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"
     },
     {
-      "id": 6,
-      "type": "kinetic",
-      "title": "US Scatters Mines Over Iranian Village",
-      "desc": "Evidence suggests the U.S. deployed Gator Scatterable Mine systems over Kafari village near Shiraz, Iran, resulting in casualties. Experts identified the munitions as U.S.-made Gator anti-tank mines, indicating a new phase in the conflict.",
-      "location": "Kafari, Iran",
-      "lat": 29.6100,
-      "lng": 52.5300,
-      "date": "Mar 26, 2026",
-      "escalation": true,
-      "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"
-    },
-    {
-      "id": 7,
-      "type": "kinetic",
-      "title": "Two Waves of Bombing at Iran School Compound",
-      "desc": "New videos verify two missile strikes on an IRGC compound and an adjacent school in Minab, Iran. The footage, released by Iran's Ministry of Foreign Affairs, shows multiple impacts, detailing further damage from the conflict.",
-      "location": "Minab, Iran",
-      "lat": 27.1442,
-      "lng": 57.0919,
-      "date": "Feb, 2026",
-      "escalation": false,
-      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"
-    },
-    {
-      "id": 8,
-      "type": "kinetic",
-      "title": "Israel Accused of Deadly Strike in South Lebanon",
-      "desc": "Rescuers are searching through rubble after Israeli strikes across southern Lebanon killed at least 13 people. This follows a pattern of escalating attacks in the region.",
-      "location": "Southern Lebanon",
-      "lat": 33.4718,
-      "lng": 35.4628,
-      "date": "Apr 12, 2026",
-      "escalation": true,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/04/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon"
-    },
-    {
       "id": 9,
-      "type": "kinetic",
-      "title": "At least 182 killed in Lebanon during Israeli strikes",
-      "desc": "A large wave of Israeli strikes across Lebanon, including Beirut's southern suburbs and the eastern Bekaa Valley, resulted in at least 182 deaths and 890 injuries, according to the Lebanese health ministry. These attacks occurred hours after a U.S.-Iran ceasefire announcement.",
-      "location": "Lebanon",
-      "lat": 33.8566,
-      "lng": 35.8623,
-      "date": "Apr 12, 2026",
-      "escalation": true,
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo"
+      "type": "cyber",
+      "title": "Iran Imposes Internet Blackout During Strikes",
+      "desc": "During coordinated strikes by adversaries on military installations, the Iranian government imposed a near-total internet blackout, deliberately dismantling communications infrastructure to suppress information flow to its own people.",
+      "location": "Iran",
+      "lat": 32.4050,
+      "lng": 53.6900,
+      "date": "Apr 01, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/irans-other-front-the-war-over-the-internet/"
     },
     {
       "id": 10,
-      "type": "kinetic",
-      "title": "Dozens Feared Dead in Air Strike in Northeastern Nigeria",
-      "desc": "Amnesty International reports that over 100 people may have been killed in a military attack on a market in Jilli village, northeastern Nigeria, highlighting significant civilian casualties in regional conflicts.",
-      "location": "Jilli village, Nigeria",
-      "lat": 12.4167,
-      "lng": 13.2667,
-      "date": "Apr 12, 2026",
-      "escalation": false,
-      "url": "https://www.aljazeera.com/news/2026/04/12/dozens-feared-dead-in-air-strike-on-village-in-northeastern-nigeria"
-    },
-    {
-      "id": 11,
       "type": "cyber",
       "title": "Hungarian Government Passwords Exposed Online",
-      "desc": "Approximately 800 Hungarian government email addresses and passwords have been leaked online, exposing vulnerabilities in ministries handling sensitive information. A Bellingcat analysis indicated widespread compromise across multiple ministries.",
+      "desc": "Nearly 800 Hungarian government email addresses and passwords, including those for ministries involved in sensitive work, were found circulating online, exposing significant security vulnerabilities.",
       "location": "Budapest, Hungary",
       "lat": 47.4979,
       "lng": 19.0402,
@@ -140,96 +128,73 @@
       "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
     },
     {
-      "id": 12,
+      "id": 11,
       "type": "cyber",
+      "title": "Iranian Propaganda Uses AI for Viral Content",
+      "desc": "Sophisticated, viral AI-generated Lego-style videos are being used as powerful propaganda by Iran, described by experts as significantly impactful and designed to bypass traditional detection methods.",
+      "location": "Iran",
+      "lat": 32.4050,
+      "lng": 53.6900,
+      "date": "Apr 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "US Deploys Mines Over Iranian Village",
+      "desc": "Evidence suggests the U.S. deployed Gator Scatterable Mine systems over the Iranian village of Kafari, resulting in multiple fatalities, matching weapons previously used by U.S. forces.",
+      "location": "Kafari, Iran",
+      "lat": 29.6256,
+      "lng": 52.5415,
+      "date": "Mar 26, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Iran Strikes IRGC Compound and School",
+      "desc": "Verified videos confirm two waves of missile strikes on an IRGC compound and an adjacent school in Minab, Iran, detailing multiple impacts on the complex.",
+      "location": "Minab, Iran",
+      "lat": 27.1335,
+      "lng": 57.0759,
+      "date": "Feb 29, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
       "title": "UAE Downplays Iranian Strikes",
-      "desc": "Authorities in the United Arab Emirates have reportedly downplayed damage and mischaracterized interceptions of Iranian drone strikes. A review by Bellingcat suggests a discrepancy between official statements and open-source observations of Iranian attacks on the UAE.",
+      "desc": "Authorities in the United Arab Emirates have reportedly downplayed damage and mischaracterized interceptions of Iranian drone strikes, with public accounts not aligning with open-source observations.",
       "location": "United Arab Emirates",
-      "lat": 24.4539,
-      "lng": 54.3773,
+      "lat": 23.4241,
+      "lng": 53.8478,
       "date": "Apr 02, 2026",
       "escalation": false,
       "url": "https://www.bellingcat.com/news/2026/04/02/war-uae-iran-infuencer-dubai-conflict-drone-successful-strike-intercept-fire/"
     },
     {
-      "id": 13,
-      "type": "cyber",
-      "title": "Satellite Imagery Provider Restricts Iran Coverage",
-      "desc": "Planet Labs has announced an indefinite restriction on satellite imagery coverage of Iran and parts of the Middle East, reportedly following U.S. pressure. This move limits open-source intelligence gathering capabilities in the region.",
-      "location": "Iran",
-      "lat": 32.4279,
-      "lng": 53.6880,
-      "date": "Apr 12, 2026",
-      "escalation": false,
-      "url": "https://www.bbc.com/news/articles/c5y721yqe6ro"
-    },
-    {
-      "id": 14,
-      "type": "diplomatic",
-      "title": "US-Iran Peace Talks End Without Deal",
-      "desc": "High-stakes peace talks between the U.S. and Iran in Pakistan concluded without an agreement, dashing hopes for an immediate de-escalation. U.S. Vice President JD Vance departed empty-handed, highlighting the significant differences remaining between the two sides.",
-      "location": "Islamabad, Pakistan",
-      "lat": 33.6844,
-      "lng": 73.0479,
-      "date": "Apr 12, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/04/after-unsuccessful-us-iran-talks-what-next-trump"
-    },
-    {
       "id": 15,
-      "type": "proxy",
-      "title": "Gaza Aid Flotilla Aims to Break Israeli Blockade",
-      "desc": "A flotilla of approximately 30 boats carrying humanitarian aid has set sail from Barcelona, Spain, aiming to break the Israeli blockade on Gaza. More vessels are expected to join the 'Global Sumud Flotilla' en route.",
-      "location": "Gaza",
-      "lat": 31.4167,
-      "lng": 34.3333,
+      "type": "kinetic",
+      "title": "French Nuclear Deterrence Doctrine Shift",
+      "desc": "French President Macron announced a new 'forward deterrence' doctrine, proposing the deployment of French Strategic Air Forces to allied European countries, similar to NATO's nuclear-sharing arrangements.",
+      "location": "Europe",
+      "lat": 54.5260,
+      "lng": 25.2332,
       "date": "Apr 12, 2026",
       "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/04/gaza-aid-flotilla-aims-break-israeli-blockade"
+      "url": "https://warontherocks.com/disperse-to-survive-the-logic-of-french-forward-deterrence/"
     }
   ],
   "infrastructure": [
-    {
-      "name": "Natanz Nuclear Facility",
-      "lat": 33.7236,
-      "lng": 51.7267,
-      "note": "Primary uranium enrichment site"
-    },
-    {
-      "name": "Fordow Enrichment Facility",
-      "lat": 34.8846,
-      "lng": 50.9929,
-      "note": "Underground enrichment — restricted IAEA access"
-    },
-    {
-      "name": "Al Udeid Air Base (CENTCOM)",
-      "lat": 25.1174,
-      "lng": 51.3150,
-      "note": "US forward operating base — Qatar"
-    },
-    {
-      "name": "US 5th Fleet HQ — Bahrain",
-      "lat": 26.1921,
-      "lng": 50.5500,
-      "note": "US Naval Forces Central Command"
-    },
-    {
-      "name": "Hezbollah stronghold — South Beirut",
-      "lat": 33.8518,
-      "lng": 35.4845,
-      "note": "Primary Hezbollah operational area"
-    },
-    {
-      "name": "Houthi operational area — Sanaa",
-      "lat": 15.3694,
-      "lng": 44.1910,
-      "note": "Houthi control zone"
-    },
-    {
-      "name": "IRGC HQ — Tehran",
-      "lat": 35.7219,
-      "lng": 51.3347,
-      "note": "Islamic Revolutionary Guard Corps"
-    }
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
   ]
 }
