@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-04-13T22:47:30-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 6, "cyber": 2, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Blockade of Strait of Hormuz Begins", "desc": "The United States has initiated a naval blockade around Iran's ports, a move Iran has condemned as a 'grave violation' of its sovereignty. This action escalates tensions amidst a fragile truce and follows protests in Tehran against the blockade.", "location": "Strait of Hormuz", "lat": 26.7269, "lng": 54.3053, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss"}, {"id": 2, "type": "kinetic", "title": "Israel Intensifies Strikes on Lebanon Amidst Looming Talks", "desc": "Israel has significantly increased its strikes on Lebanon, resulting in over 160 fatalities since Friday. This escalation continues despite a US-Iran ceasefire and ahead of scheduled peace talks between Lebanon and Israel in Washington.", "location": "Lebanon", "lat": 33.8565, "lng": 35.8623, "date": "Apr 13, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss"}, {"id": 3, "type": "kinetic", "title": "Hezbollah Leader Urges Lebanon to Cancel Talks with Israel", "desc": "Hezbollah chief Naim Qassem has called on the Lebanese government to withdraw from planned peace talks with Israel in Washington, labeling them as pointless. He asserted that Hezbollah would continue to confront Israeli actions against Lebanon.", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss"}, {"id": 4, "type": "kinetic", "title": "US-Iran Talks Conclude Without Breakthrough, Dialogue Continues", "desc": "High-level talks between the US and Iran in Islamabad have concluded without a definitive breakthrough to end the prolonged conflict. Despite the lack of immediate agreement, sources indicate that channels for dialogue remain open.", "location": "Islamabad, Pakistan", "lat": 33.6844, "lng": 73.0479, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/exclusive-us-iran-leave-door-open-dialogue-after-tense-islamabad-talks"}, {"id": 5, "type": "kinetic", "title": "UN Urges Respect for Navigation in Strait of Hormuz", "desc": "The United Nations Secretary-General has issued a call for all parties involved to uphold the freedom of navigation within the Strait of Hormuz, emphasizing the importance of maintaining open maritime routes amidst escalating tensions.", "location": "Strait of Hormuz", "lat": 26.7269, "lng": 54.3053, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss"}, {"id": 6, "type": "kinetic", "title": "Iran Accuses US of Piracy Amidst Hormuz Blockade", "desc": "Iran has formally accused the United States of engaging in piracy due to the imposed blockade around its ports. This accusation comes as thousands gathered in Tehran to protest the US actions, further inflaming the already tense situation.", "location": "Tehran, Iran", "lat": 35.6895, "lng": 51.3890, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss"}, {"id": 7, "type": "kinetic", "title": "Israel Strikes Gaza; UN Experts Condemn Attacks", "desc": "Israeli forces conducted strikes in Gaza, resulting in the deaths of three Palestinians. Concurrently, UN experts have strongly criticized attacks on shelters and instances of forced displacement in the West Bank, highlighting ongoing violence against Palestinian civilians.", "location": "Gaza", "lat": 31.417, "lng": 34.307, "date": "Apr 13, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss"}, {"id": 8, "type": "kinetic", "title": "Iran's Asymmetric Counterair Campaign Targets US Air Bases", "desc": "Recent Iranian drone and missile attacks on Prince Sultan Air Base in Saudi Arabia destroyed an E-3 Sentry and damaged KC-135 tankers. This is part of a broader Iranian counterair strategy aimed at disrupting US air operations in the region.", "location": "Prince Sultan Air Base, Saudi Arabia", "lat": 24.75, "lng": 47.1167, "date": "Mar 27, 2026", "escalation": true, "url": "https://www.warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"}, {"id": 9, "type": "cyber", "title": "Iran Imposes Internet Blackout Amidst Hostilities", "desc": "During recent Israeli and American strikes, the Iranian government implemented a near-total internet blackout, reducing traffic by 98 percent. This action was reportedly aimed at controlling information flow to the Iranian populace rather than as a defensive measure against external attacks.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Apr 12, 2026", "escalation": true, "url": "https://www.warontherocks.com/irans-other-front-the-war-over-the-internet/"}, {"id": 10, "type": "cyber", "title": "Hungarian Government Passwords Exposed Online", "desc": "Approximately 800 Hungarian government email addresses and their corresponding passwords have been leaked online. The breach affects 12 out of 13 ministries, potentially exposing sensitive information due to weak security protocols.", "location": "Budapest, Hungary", "lat": 47.4979, "lng": 19.0402, "date": "Apr 09, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"}, {"id": 11, "type": "kinetic", "title": "Lebanon and Israel Officials Set for US-Mediated Talks", "desc": "Ambassadors from Lebanon and Israel are scheduled to meet in Washington D.C. for State Department-led talks. This diplomatic engagement aims to address the ongoing conflict, although uncertainty surrounds the discussions due to continued Israeli bombardment.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/uncertainty-shrouds-lebanon-israel-talks-israeli-bombardment-continues"}, {"id": 12, "type": "kinetic", "title": "US Vice President Vance Claims Progress in Talks with Iran", "desc": "U.S. Vice President JD Vance stated that significant progress was made during recent talks with Iran, asserting that the next steps are now contingent on Tehran's actions, particularly regarding the opening of the Strait of Hormuz.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/vance-says-us-made-lot-progress-talks-iran"}, {"id": 13, "type": "diplomatic", "title": "Bahrain and Saudi Arabia Summon Iraqi Diplomats Over Militia Attacks", "desc": "Bahrain and Saudi Arabia have summoned Iraqi diplomats in response to attacks linked to Iran-backed militias operating within Iraq. The United States and Kuwait have also voiced criticism regarding Iraq's handling of these groups.", "location": "Manama, Bahrain / Riyadh, Saudi Arabia / Baghdad, Iraq", "lat": 26.227, "lng": 50.586, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/bahrain-saudi-arabia-summon-iraqi-diplomats-over-militia-attacks-what-know"}, {"id": 14, "type": "kinetic", "title": "UN Warns of Agrifood Catastrophe from Hormuz Crisis", "desc": "The United Nations' Food and Agriculture Organization has cautioned that a prolonged crisis in the Strait of Hormuz could lead to a global agrifood catastrophe. Disruptions to fertilizer and energy exports are predicted to drive up food prices and reduce crop yields, disproportionately affecting poorer nations.", "location": "Strait of Hormuz", "lat": 26.7269, "lng": 54.3053, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/protracted-hormuz-crisis-could-trigger-agrifood-catastrophe-un-food-agency-says"}, {"id": 15, "type": "kinetic", "title": "US Considers Blocking Weapons Sales to Israel", "desc": "Senator Bernie Sanders has vowed to push a resolution aimed at blocking US weapons sales to Israel. While passage in the Republican-controlled Senate is unlikely, the move signifies a potential shift in support for Israel among some Democrats.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Apr 13, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-04-14T03:47:34-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 7,
+    "cyber": 3,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US Blockades Iranian Ports Amidst Ongoing Conflict",
+      "desc": "The U.S. military has initiated a blockade of Iranian ports, drawing strong condemnation from Tehran as a 'grave violation of sovereignty.' This action escalates tensions despite ongoing diplomatic efforts to broker a lasting peace.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2208,
+      "lng": 56.3604,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/us-begins-iran-port-blockade-oil-prices-ease-hopes-dialogue"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US Military Strikes Target Vessel in Eastern Pacific",
+      "desc": "In a continued operation, the U.S. military conducted a strike on a vessel in the eastern Pacific, resulting in the deaths of two individuals. This incident contributes to a rising death toll from similar strikes in the region since September.",
+      "location": "Eastern Pacific Ocean",
+      "lat": 0,
+      "lng": 0,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Iran Allocates Oil Revenue for Reconstruction After Attacks",
+      "desc": "Iran's oil minister announced that a portion of recent oil revenues will be dedicated to repairing industrial damage caused by wartime attacks. Despite ongoing conflict, oil exports have reportedly been maintained without interruption.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/iran-allocate-part-oil-revenues-reconstruction-after-attacks-minister-says"
+    },
+    {
+      "id": 4,
+      "type": "cyber",
+      "title": "Hungarian Government Passwords Exposed Online",
+      "desc": "Approximately 800 Hungarian government email addresses and their corresponding passwords have been leaked online. The breach affects most ministries, raising significant concerns about the security of sensitive and classified information.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "Apr 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Israel Intensifies Strikes on Lebanon Amidst Looming Talks",
+      "desc": "Israel has increased its strikes on Lebanon, targeting Hezbollah positions, while Hezbollah continues its attacks. This escalation occurs as Lebanese and Israeli officials prepare for U.S.-mediated talks, despite a fragile U.S.-Iran ceasefire.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US-Iran Peace Talks Held in Islamabad Without Breakthrough",
+      "desc": "High-level peace talks between the U.S. and Iran in Islamabad concluded without a definitive breakthrough after extensive negotiations. Both sides have indicated that dialogue channels remain open.",
+      "location": "Islamabad, Pakistan",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "date": "Apr 13, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/exclusive-us-iran-leave-door-open-dialogue-after-tense-islamabad-talks"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Hezbollah Leader Urges Lebanon to Cancel Talks with Israel",
+      "desc": "Hezbollah's leader, Naim Qassem, has called for the Lebanese government to withdraw from planned talks with Israel in Washington, D.C. He asserts that the negotiations are a ploy and that Hezbollah will continue confronting Israeli actions.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/hezbollah-leader-asks-lebanon-cancel-tuesday-meeting-israel"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "US, Iranian Teams May Return to Islamabad for Further Talks",
+      "desc": "Sources indicate that negotiating teams from the U.S. and Iran could return to Islamabad this week for continued discussions aimed at de-escalating the ongoing conflict. This follows previous high-level talks that concluded without a breakthrough.",
+      "location": "Islamabad, Pakistan",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/us-iranian-teams-could-return-islamabad-peace-talks-week-four-sources-say"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Iran Accuses US of Piracy Amidst Blockade in Strait of Hormuz",
+      "desc": "Iran has formally accused the United States of piracy following the imposition of a maritime blockade around its ports. The accusation was conveyed in a letter to the UN Secretary General, denouncing the action as a 'grave violation of sovereignty.'",
+      "location": "Strait of Hormuz",
+      "lat": 27.2208,
+      "lng": 56.3604,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/iran-slams-us-blockade-grave-violation-sovereignty"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Lebanon and Israel Prepare for U.S.-Mediated Talks",
+      "desc": "Representatives from Lebanon and Israel are scheduled to convene in Washington D.C. for U.S.-mediated talks aimed at de-escalating the conflict. Despite preparations, prospects for an agreement are viewed as uncertain, with Hezbollah urging Lebanon to cancel.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/lebanon-israel-meet-tough-talks-washington"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Iran Carried Out Highest Number of Executions in Decades",
+      "desc": "Human rights organizations are expressing concern over the surge in executions in Iran, reaching levels not seen in decades. This trend follows widespread anti-government protests that occurred earlier in the year.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 12,
+      "type": "cyber",
+      "title": "AI Used by Indian Party to Boost Hate Speech",
+      "desc": "India's ruling Bharatiya Janata Party (BJP) is reportedly utilizing Artificial Intelligence to amplify hate speech, particularly in states bordering Bangladesh. AI-generated content has been used in videos and posts targeting minority groups.",
+      "location": "India",
+      "lat": 20.5937,
+      "lng": 78.9629,
+      "date": "Mar 31, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/03/31/india-bjp-hate-speech-ai/"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "US Imposes Blockade on Iran's Ports; Oil Prices Ease on Dialogue Hopes",
+      "desc": "The U.S. military has commenced a blockade of Iran's ports, a move that has angered Tehran. However, oil markets saw a slight easing as hopes for dialogue between the U.S. and Iran to end the ongoing war provided some relief.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2208,
+      "lng": 56.3604,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/us-begins-iran-port-blockade-oil-prices-ease-hopes-dialogue"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Iran Claims US Blockade is 'Grave Violation of Sovereignty'",
+      "desc": "Iran has strongly denounced the U.S. naval blockade of its ports, labeling it a 'grave violation of sovereignty and territorial integrity.' The Iranian ambassador to the UN formally communicated this protest to the Secretary General.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/iran-slams-us-blockade-grave-violation-sovereignty"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Vance Reports Progress in U.S. Talks with Iran",
+      "desc": "U.S. Vice President JD Vance stated that significant progress was made during recent talks with Iran. He indicated that the next steps are contingent on Iran's actions, particularly regarding the opening of the Strait of Hormuz.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Apr 13, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/vance-says-us-made-lot-progress-talks-iran"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
