@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-04-14T08:47:30-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 6, "cyber": 1, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "Iran Strikes Prince Sultan Air Base", "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging multiple KC-135 tankers. This is part of a broader counterair campaign waged through asymmetric means in the U.S.-Israeli war with Iran.", "location": "Prince Sultan Air Base, Saudi Arabia", "lat": 24.7500, "lng": 46.8333, "date": "Mar 27, 2026", "escalation": true, "url": "https://warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"}, {"id": 2, "type": "kinetic", "title": "US Deploys Mines over Iranian Village", "desc": "The US appears to have deployed the Gator Scatterable Mine system over Kafari, a village near Shiraz, in southern Iran. Several people were killed according to Iranian media.", "location": "Kafari village, Iran", "lat": 29.6114, "lng": 52.5317, "date": "Mar 26, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"}, {"id": 3, "type": "kinetic", "title": "Iranian Strikes on IRGC Compound and School in Minab", "desc": "Two new videos show strikes on an Iranian Revolutionary Guard Corps (IRGC) compound and an adjacent school in Minab. The videos confirm multiple missiles hitting the complex.", "location": "Minab, Iran", "lat": 27.1467, "lng": 57.0817, "date": "Feb 28, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"}, {"id": 4, "type": "kinetic", "title": "U.S. Blockades Iranian Ports in Strait of Hormuz", "desc": "The U.S. announced a blockade on vessels calling at Iranian ports in the Strait of Hormuz, aiming to deny Iran vital trade and further pressure its oil supply to Asia. This move raises fears of a fresh oil shock.", "location": "Strait of Hormuz", "lat": 26.7500, "lng": 53.3333, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/04/us-blockade-iran-ports-threatens-already-crippled-oil-supply"}, {"id": 5, "type": "cyber", "title": "Iranian Government Imposes Internet Blackout", "desc": "The Iranian government deliberately dismantled its communications infrastructure and halted internet traffic, causing a near-total blackout. This action was imposed on the Iranian people following strikes by adversaries.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "Apr 14, 2026", "escalation": false, "url": "https://warontherocks.com/irans-other-front-the-war-over-the-internet/"}, {"id": 6, "type": "diplomatic", "title": "Israel-Lebanon Direct Talks in the US", "desc": "Envoys from Lebanon and Israel are meeting in the US for direct talks, the first since 1993. However, Hezbollah's rejection of a ceasefire threatens the US-brokered effort.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/4/14/israel-lebanon-direct-talks-in-the-us-all-to-know"}, {"id": 7, "type": "proxy", "title": "France, UK to Co-host Talks on Hormuz Mission", "desc": "France and Britain will co-host a video conference for countries willing to contribute to a defensive multilateral mission to restore freedom of navigation in the Strait of Hormuz. The meeting aims to address security conditions and maritime transit.", "location": "Paris, France", "lat": 48.8566, "lng": 2.3522, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/france-uk-host-hormuz-talks-friday-french-presidency"}, {"id": 8, "type": "kinetic", "title": "US-Israeli War Impacts Global Food Security", "desc": "The war in Iran has exposed urea, a key fertilizer, as a strategic commodity. Disruptions to its supply chain and a potential closure of the Strait of Hormuz risk a global food security crisis, impacting staple grain production.", "location": "Strait of Hormuz", "lat": 26.7500, "lng": 53.3333, "date": "Apr 14, 2026", "escalation": false, "url": "https://warontherocks.com/a-closed-strait-of-hormuz-risks-a-global-food-security-crisis/"}, {"id": 9, "type": "cyber", "title": "Hungary Government Passwords Exposed Online", "desc": "Approximately 800 Hungarian government email addresses and passwords have been exposed online, revealing vulnerabilities in ministries handling sensitive information. 12 out of 13 ministries were affected.", "location": "Budapest, Hungary", "lat": 47.4979, "lng": 19.0402, "date": "Apr 09, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"}, {"id": 10, "type": "kinetic", "title": "Russia's Lavrov Visits China Amidst Middle East Crisis", "desc": "Russian Foreign Minister Sergei Lavrov arrived in China for talks concerning the wars in Ukraine and Iran, as well as bilateral relations. China and Russia have been critical of the US-Israel war on Iran.", "location": "Beijing, China", "lat": 39.9042, "lng": 116.4074, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis"}, {"id": 11, "type": "kinetic", "title": "Italy Suspends Defence Cooperation Deal with Israel", "desc": "Italy's government has suspended the automatic renewal of a defence cooperation deal with Israel, citing the conflicts in the Middle East. This decision comes despite Italy being a close ally of Israel.", "location": "Rome, Italy", "lat": 41.9028, "lng": 12.4964, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/italy-suspends-defence-cooperation-deal-israel"}, {"id": 12, "type": "kinetic", "title": "Iran Carries Out Highest Number of Executions in Decades", "desc": "Human rights organizations warn that Iran may execute many more people following the anti-government protests earlier this year. The current number of executions is the highest in decades.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo"}, {"id": 13, "type": "kinetic", "title": "Israeli Strikes Intensify on Lebanon Amidst Hezbollah Attacks", "desc": "Israel has escalated strikes on Lebanon, with over 160 people killed since Friday. Hezbollah attacks continue despite the US-Iran ceasefire, indicating a persistent conflict on this front.", "location": "Lebanon", "lat": 33.8567, "lng": 35.8617, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/czd78q6r8jno"}, {"id": 14, "type": "kinetic", "title": "Palestinian Shot Dead During Israeli Settler Attack in West Bank", "desc": "A Palestinian was killed during an attack by Israeli settlers on a village in the occupied West Bank. This incident occurred amid warnings from ex-security chiefs about escalating 'government sponsored Jewish terrorism'.", "location": "Occupied West Bank", "lat": 32.0000, "lng": 35.2500, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/czrekrzzex1o"}, {"id": 15, "type": "kinetic", "title": "Lebanon and Israel Officials Meet in the US Amidst Ongoing Conflict", "desc": "Lebanese and Israeli envoys are set to meet in Washington for talks. However, a Lebanese official stated that Lebanon would only participate if a ceasefire were in place, highlighting the unresolved tensions.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c93en5q2zl3o"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-04-14T13:47:31-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 9,
+    "cyber": 3,
+    "nuclear": 1
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US Naval Blockade of Iranian Ports",
+      "desc": "The U.S. military has established a naval blockade of Iran's ports and coastal areas following the breakdown of peace talks between the U.S. and Iran. Six merchant ships have reportedly turned back from Iran's ports.",
+      "location": "Strait of Hormuz",
+      "lat": 26.9108,
+      "lng": 54.5111,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Iran's Asymmetric Counterair Campaign Strikes US Air Base",
+      "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging multiple KC-135 tankers. This is part of a broader counterair campaign waged through asymmetric means.",
+      "location": "Prince Sultan Air Base, Saudi Arabia",
+      "lat": 24.1311,
+      "lng": 47.3993,
+      "date": "Mar 27, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/27/two-waves-of-bombing-new-videos-reveal-further-details-about-iran-girls-school-strike/"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "US Scattering Mines over Iranian Village",
+      "desc": "The US appears to have deployed the Gator Scatterable Mine system over Kafari, a village near Shiraz, Iran, resulting in casualties according to Iranian media. Experts suggest the munitions are US-made Gator anti-tank mines.",
+      "location": "Kafari, Iran",
+      "lat": 29.6142,
+      "lng": 52.5181,
+      "date": "Mar 26, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"
+    },
+    {
+      "id": 4,
+      "type": "cyber",
+      "title": "Hungarian Government Passwords Exposed Online",
+      "desc": "Approximately 800 Hungarian government email addresses and passwords have been leaked online, affecting 12 out of 13 ministries and potentially exposing sensitive information due to basic security vulnerabilities.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "Apr 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
+    },
+    {
+      "id": 5,
+      "type": "cyber",
+      "title": "Iran's Internet Blackout During Conflict",
+      "desc": "During Israeli and American strikes, Iran's internet traffic collapsed by 98%, indicating a near-total blackout. The government deliberately dismantled communication infrastructure to halt internet traffic to its own citizens.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Unknown",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/02/the-war-youre-not-allowed-to-see-how-the-uae-rewrites-the-story-of-iranian-strikes/"
+    },
+    {
+      "id": 6,
+      "type": "cyber",
+      "title": "Iranian Propaganda Using AI-Generated Content",
+      "desc": "Sophisticated AI-generated content, described as 'slopaganda,' is being used for propaganda purposes in Iran. Experts highlight its power and effectiveness in shaping narratives.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
+    },
+    {
+      "id": 7,
+      "type": "nuclear",
+      "title": "Iran's Nuclear Program Set Back, Stockpile Intact",
+      "desc": "While recent attacks by the U.S. and Israel have likely damaged Iran's nuclear and ballistic capabilities, they have not seized its stockpile of highly enriched uranium, which remains a key factor for future negotiations.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/iran-nuclear-programme-set-back-not-wiped-out"
+    },
+    {
+      "id": 8,
+      "type": "diplomatic",
+      "title": "US-Iran Peace Talks Falter, Blockade Imposed",
+      "desc": "Peace talks between the U.S. and Iran have broken down, leading to the U.S. imposing a naval blockade of Iran's ports and coastal areas in the Strait of Hormuz.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/04/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says"
+    },
+    {
+      "id": 9,
+      "type": "diplomatic",
+      "title": "Lebanese and Israeli Ambassadors Begin Direct Talks in the US",
+      "desc": "The ambassadors of Lebanon and the United States have commenced direct talks in Washington, marking the first such dialogue between the two countries in decades. U.S. officials have called it a 'historic opportunity'.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/04/14/lebanese-israeli-ambassadors-begin-direct-talks-in-us"
+    },
+    {
+      "id": 10,
+      "type": "diplomatic",
+      "title": "Italy Suspends Defense Agreement with Israel Amidst Shifting Alliances",
+      "desc": "Italian Prime Minister Giorgia Meloni announced the suspension of an automatic renewal of a defense cooperation deal with Israel, signaling a potential shift in Italy's foreign policy concerning the Middle East conflict.",
+      "location": "Italy",
+      "lat": 41.8719,
+      "lng": 12.5674,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/04/14/italys-pm-defence-agreement-with-israel-suspended"
+    },
+    {
+      "id": 11,
+      "type": "proxy",
+      "title": "Israel Continues Strikes on Lebanon Despite Ceasefire Efforts",
+      "desc": "Israel has intensified strikes on Lebanon and Hezbollah attacks continue amid looming peace talks. Over 160 people have been killed in Lebanon since Friday, with Israel pressing its campaign against Hezbollah despite a US-Iran ceasefire.",
+      "location": "Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8611,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/czd78q6r8jno"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Sudan Conflict Continues Unabated",
+      "desc": "Three years into the war in Sudan, millions have been displaced and thousands killed, with no clear end to the ongoing violence in sight. The conflict remains largely misunderstood.",
+      "location": "Sudan",
+      "lat": 12.8628,
+      "lng": 30.2189,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/04/14/after-three-years-of-war-what-is-the-situation-like-in-sudan"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Munition Remnants at Chad Strike Site Match RSF Weapon",
+      "desc": "Munition remnants from a strike in Tiné, Chad, which killed at least 17 people, appear to match a weapon previously used by Sudan's Rapid Support Forces (RSF), despite RSF denials.",
+      "location": "Tiné, Chad",
+      "lat": 15.2000,
+      "lng": 21.0000,
+      "date": "Mar 24, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/03/24/munition-remnants-pictured-at-site-of-deadly-chad-strike-match-weapon-previously-used-by-sudans-rsf/"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "US-Israel War Exposes Vulnerabilities in Semiconductor Supply Chain",
+      "desc": "The ongoing conflict has highlighted the critical role of bromine, a key component in semiconductor manufacturing. Disruptions to its supply chain, exacerbated by the war, could halt global memory chip production.",
+      "location": "Middle East",
+      "lat": 28.1034,
+      "lng": 47.9447,
+      "date": "Unknown",
+      "escalation": false,
+      "url": "https://warontherocks.com/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Strait of Hormuz Blockade Risks Global Food Security",
+      "desc": "A closure of the Strait of Hormuz, a vital shipping route, poses a significant risk to global food security due to disruptions in the supply of urea, a critical nitrogen fertilizer produced using energy-intensive processes.",
+      "location": "Strait of Hormuz",
+      "lat": 26.9108,
+      "lng": 54.5111,
+      "date": "Unknown",
+      "escalation": false,
+      "url": "https://warontherocks.com/a-closed-strait-of-hormuz-risks-a-global-food-security-crisis/"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
