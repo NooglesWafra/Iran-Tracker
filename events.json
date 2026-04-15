@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-04-14T18:47:35-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 11, "cyber": 4, "nuclear": 1}, "events": [{"id": 1, "type": "kinetic", "title": "US Navy Establishes Blockade of Iran's Ports", "desc": "The U.S. military has initiated a naval blockade of Iran's ports and coastal areas following the breakdown of peace talks between the U.S. and Iran. Six merchant ships have reportedly turned back, adhering to the blockade orders. This action applies to all Iranian ports on the Gulf and Gulf of Oman.", "location": "Strait of Hormuz", "lat": 27.2170, "lng": 56.2700, "date": "Apr 13, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/04/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says"}, {"id": 2, "type": "kinetic", "title": "Israeli Strikes Kill Multiple People in Gaza Refugee Camp", "desc": "An Israeli airstrike hit the Shati refugee camp in Gaza, resulting in casualties. The exact number of fatalities and injuries is still being assessed, with victims being transported to medical facilities for treatment.", "location": "Gaza City", "lat": 31.5000, "lng": 34.4700, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/04/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss"}, {"id": 3, "type": "kinetic", "title": "Israeli Airstrike Kills Child in Gaza Police Car", "desc": "An Israeli airstrike targeted a police vehicle in Gaza City, resulting in the deaths of at least four individuals, including a three-year-old child.", "location": "Gaza City", "lat": 31.5000, "lng": 34.4700, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/04/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss"}, {"id": 4, "type": "kinetic", "title": "Iran's Asymmetric Counterair Campaign Continues with Attacks on US Air Base", "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging KC-135 tankers. This is part of a broader counterair campaign waged through asymmetric means in the ongoing conflict.", "location": "Prince Sultan Air Base, Saudi Arabia", "lat": 24.6340, "lng": 47.5330, "date": "Mar 27, 2026", "escalation": true, "url": "https://www.war-on-the-rocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"}, {"id": 5, "type": "kinetic", "title": "US Appears to Have Deployed Mines Over Iranian Village", "desc": "Evidence suggests the U.S. deployed the Gator Scatterable Mine system over Kafari, a village near Shiraz, Iran, resulting in casualties. Experts identified the munitions as likely U.S.-made Gator anti-tank mines.", "location": "Kafari, Iran", "lat": 29.6000, "lng": 52.5000, "date": "Mar 26, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"}, {"id": 6, "type": "kinetic", "title": "Two Waves of Bombing Hit IRGC Compound and School in Minab, Iran", "desc": "New videos confirm two waves of missile strikes hit an IRGC compound and an adjacent school in Minab, Iran. The strikes, released by Iran's Ministry of Foreign Affairs, show multiple missiles impacting the complex.", "location": "Minab, Iran", "lat": 27.1414, "lng": 57.0820, "date": "Feb, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"}, {"id": 7, "type": "kinetic", "title": "Centcom Chief Visits Israel and Bahrain Amid Fragile Ceasefire and Blockade", "desc": "The commander of U.S. Central Command visited Israel and Bahrain to garner support for opening the Strait of Hormuz and discuss the ongoing maritime blockade of Iran's ports amid a fragile ceasefire.", "location": "Bahrain", "lat": 26.0667, "lng": 50.5577, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/centcom-chief-visits-israel-bahrain-amid-iran-ceasefire-blockade"}, {"id": 8, "type": "kinetic", "title": "Israel-Lebanon Talks Conclude with Focus on Opposing Hezbollah", "desc": "Direct talks between Israel and Lebanon in Washington concluded with Israeli Ambassador Yechiel Leiter stating both countries are aligned against Iran-backed Hezbollah, aiming to 'liberate Lebanon' from its influence.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/israeli-envoy-says-same-side-lebanon-after-talks-us"}, {"id": 9, "type": "kinetic", "title": "US Democrats Vow to Continue Efforts to Limit Trump's War Powers", "desc": "The U.S. Senate will vote on the latest Democratic attempt to curb President Trump's war powers, with party leaders promising to repeatedly introduce such resolutions as long as the Iran war persists. They criticize Republican colleagues for being sidelined by fear of Trump.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/us-democrats-will-try-and-try-again-rein-trumps-iran-war-powers"}, {"id": 10, "type": "kinetic", "title": "Lebanon Seeks Peace Amidst Hezbollah's Continued Attacks", "desc": "Despite Lebanon's desire for peace, the government has limited influence over Hezbollah, which continues its attacks as peace talks loom. Israel claims Lebanon is not included in the U.S.-Iran ceasefire, leading to intensified Israeli strikes.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss"}, {"id": 11, "type": "kinetic", "title": "Israeli Strikes Intensify in Lebanon Amidst Looming Talks", "desc": "Israel has escalated its strikes in Lebanon, killing over 160 people since Friday, despite the U.S.-Iran ceasefire. Hezbollah's attacks continue, creating a volatile situation as peace talks approach.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "Apr 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"}, {"id": 12, "type": "cyber", "title": "Hungarian Government Passwords Exposed Online", "desc": "Approximately 800 Hungarian government email addresses and passwords have been leaked online, compromising the security of 12 out of 13 ministries. The exposed credentials included basic vulnerabilities and potentially sensitive information.", "location": "Budapest, Hungary", "lat": 47.4979, "lng": 19.0402, "date": "Apr 09, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"}, {"id": 13, "type": "cyber", "title": "Iran Imposes Near-Total Internet Blackout During Strikes", "desc": "Following Israeli and American strikes, Iran experienced a 98% collapse in internet traffic, indicating a near-total blackout. This shutdown was imposed by the government on its own citizens, hindering communication.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Apr 12, 2026", "escalation": false, "url": "https://www.war-on-the-rocks.com/irans-other-front-the-war-over-the-internet/"}, {"id": 14, "type": "cyber", "title": "Satellite Provider Restricts Imagery of Iran Amidst US Pressure", "desc": "Planet Labs, a satellite imagery provider, has indefinitely restricted its coverage of Iran and parts of the Middle East. This decision follows unspecified pressure, impacting open-source intelligence gathering capabilities in the region.", "location": "Middle East", "lat": 25.0000, "lng": 55.0000, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss"}, {"id": 15, "type": "nuclear", "title": "Iran's Nuclear Program Sustains Setbacks but Highly Enriched Uranium Stockpile Intact", "desc": "Recent U.S. and Israeli attacks have damaged Iran's nuclear and ballistic capabilities, setting back its nuclear program. However, the stockpile of highly enriched uranium, crucial for negotiations, remains unaffected, according to experts and diplomatic sources.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Apr 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/04/iran-nuclear-programme-set-back-not-wiped-out"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-04-14T23:47:31-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 8,
+    "cyber": 2,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Israeli Attacks Kill Civilians in Gaza",
+      "desc": "Israeli airstrikes in the Gaza Strip resulted in the deaths of at least 11 people, including two children. The attacks targeted northern Gaza, highlighting the ongoing civilian toll in the conflict.",
+      "location": "Gaza Strip",
+      "lat": 31.4167,
+      "lng": 34.3333,
+      "date": "Apr 15, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US Forces Conduct Deadly Strike in Eastern Pacific",
+      "desc": "US forces carried out a lethal strike on vessels in the eastern Pacific Ocean, resulting in the deaths of four individuals. This incident marks the fourth consecutive day of US deadly strikes against vessels in the region.",
+      "location": "Eastern Pacific Ocean",
+      "lat": 0.0,
+      "lng": -140.0,
+      "date": "Apr 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Iran War Continues: US Imposes Blockade on Iranian Ports",
+      "desc": "Following the collapse of weekend negotiations, the United States has imposed a naval blockade on Iranian ports. President Trump indicated that a second round of talks could potentially be held in Pakistan.",
+      "location": "Strait of Hormuz / Iran",
+      "lat": 27.2047,
+      "lng": 55.9500,
+      "date": "Apr 15, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Israeli Strikes Hit Lebanon Amidst Looming Talks",
+      "desc": "Despite a US-brokered ceasefire intended to halt the war with Iran, Israel has intensified strikes on Lebanon, with Hezbollah attacks also continuing. Over 160 people have been killed in Lebanon since Friday, indicating a complex and volatile situation.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "Apr 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Iranian Counterair Campaign Hits US Aircraft at Prince Sultan Air Base",
+      "desc": "Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an E-3 Sentry and damaging multiple KC-135 tankers. This is part of a sustained asymmetric counterair campaign against US forces in the region.",
+      "location": "Prince Sultan Air Base, Saudi Arabia",
+      "lat": 24.5567,
+      "lng": 46.7593,
+      "date": "Mar 27, 2026",
+      "escalation": true,
+      "url": "https://www.warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US Deploys Mines over Iranian Village",
+      "desc": "Evidence suggests the US deployed the Gator Scatterable Mine system over the Iranian village of Kafari, near Shiraz, resulting in casualties according to Iranian media. The munitions appear to be US-made Gator anti-tank mines.",
+      "location": "Kafari, Iran",
+      "lat": 29.6140,
+      "lng": 52.5319,
+      "date": "Mar 26, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/"
+    },
+    {
+      "id": 7,
+      "type": "cyber",
+      "title": "Hungarian Government Passwords Exposed Online",
+      "desc": "Approximately 800 Hungarian government email addresses and associated passwords have been leaked online. This breach affects 12 out of 13 ministries and reveals basic security vulnerabilities.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "Apr 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
+    },
+    {
+      "id": 8,
+      "type": "cyber",
+      "title": "Iranian Internet Blackout During Hostilities",
+      "desc": "During recent Israeli and American strikes, Iran experienced a near-total internet blackout, with traffic collapsing by 98 percent. The government deliberately halted internet traffic, impacting domestic communication.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 12, 2026",
+      "escalation": false,
+      "url": "https://www.warontherocks.com/irans-other-front-the-war-over-the-internet/"
+    },
+    {
+      "id": 9,
+      "type": "diplomatic",
+      "title": "Israel and Lebanon Hold Direct Talks",
+      "desc": "For the first time in decades, Israel and Lebanon have engaged in direct diplomatic talks, facilitated by the United States in Washington D.C. While progress was made, officials suggest more time is needed for substantive agreements.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Apr 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "proxy",
+      "title": "UN Peacekeepers Killed in Lebanon",
+      "desc": "Multiple nations, including Canada and the UK, have condemned the killing of UN peacekeepers in Lebanon amidst the conflict between Israel and Hezbollah. They called for an immediate end to hostilities.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "Apr 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/04/canada-uk-and-other-nations-condemn-killings-un-peacekeepers-lebanon"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Israeli Attack on Gaza Refugee Camp",
+      "desc": "An Israeli strike on the Shati refugee camp in Gaza has resulted in multiple fatalities. Eyewitnesses documented victims being transported to medical facilities following the attack.",
+      "location": "Shati Refugee Camp, Gaza",
+      "lat": 31.5250,
+      "lng": 34.4420,
+      "date": "Apr 14, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Hamas Rejects Gaza Disarmament Plan",
+      "desc": "Hamas has rejected a proposed plan for the disarmament of Gaza, stating that they will not proceed with talks until Israel fully adheres to its existing commitments. This stance complicates potential de-escalation efforts.",
+      "location": "Gaza Strip",
+      "lat": 31.4167,
+      "lng": 34.3333,
+      "date": "Apr 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 13,
+      "type": "diplomatic",
+      "title": "Lebanese Government Seeks Peace Amidst Hezbollah Influence",
+      "desc": "The Lebanese government is pursuing peace talks with Israel but faces challenges due to limited influence over Hezbollah. The group's continued actions complicate the path to a stable ceasefire.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "Apr 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Paramedics Describe Devastating Israeli Strikes in Lebanon",
+      "desc": "Paramedics in Nabatieh, Lebanon, describe the intense and widespread nature of recent Israeli strikes. The city, once vibrant, has been heavily impacted by the ongoing hostilities.",
+      "location": "Nabatieh, Lebanon",
+      "lat": 33.3817,
+      "lng": 35.3875,
+      "date": "Apr 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Iranian Executions Reach Decades-High",
+      "desc": "Iran has carried out the highest number of executions in several decades. Human rights organizations warn that further executions may occur in the wake of recent anti-government protests.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Apr 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
