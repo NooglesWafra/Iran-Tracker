@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-05-08T12:59:12-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 12, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Forces Strike Iranian Tankers", "desc": "US forces fired on and disabled two Iranian-flagged tankers attempting to violate an American blockade of Iran's ports. This action, carried out by a US Navy F/A-18 Super Hornet using precision munitions, aimed to prevent the vessels from reaching Iran and follows a report of a third Iranian-flagged vessel being disabled earlier in the week.", "location": "Strait of Hormuz", "lat": 27.0871, "lng": 56.2152, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-strikes-iran-tankers-uae-reports-fresh-missile-drone-attacks"}, {"id": 2, "type": "kinetic", "title": "UAE Engages Missile and Drone Threats from Iran", "desc": "The United Arab Emirates reported its air defenses were actively engaging missile and drone threats originating from Iran. This incident represents a further test of the fragile ceasefire between the US and Iran, occurring shortly after the US military struck two Iranian tankers.", "location": "United Arab Emirates", "lat": 24.4539, "lng": 54.3773, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect"}, {"id": 3, "type": "kinetic", "title": "Israel Strikes Hezbollah Target in Beirut", "desc": "Israel conducted a strike in Beirut, targeting a senior Hezbollah figure. This marks the first such strike in the Lebanese capital since a ceasefire was established in mid-April, potentially reigniting tensions.", "location": "Beirut", "lat": 33.8938, "lng": 35.5018, "date": "May 08, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss"}, {"id": 4, "type": "kinetic", "title": "Iran Accuses US of 'Reckless Military Adventure'", "desc": "Iran's representative, Abbas Araghchi, accused the United States of engaging in 'reckless military adventures.' He stated that US attacks occur precisely when diplomatic solutions are being pursued, highlighting a perceived pattern of escalation.", "location": "Tehran", "lat": 35.6892, "lng": 51.3890, "date": "May 08, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"}, {"id": 5, "type": "kinetic", "title": "Iranian Police Infrastructure Targeted", "desc": "An investigation by Bellingcat identified at least 80 police stations or infrastructure related to law enforcement and the Basij paramilitary group that have been damaged or destroyed in the initial weeks of the conflict involving the US, Israel, and Iran. Experts suggest the aim is to degrade the Iranian regime's 'repressive capacity'.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Apr 24, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"}, {"id": 6, "type": "kinetic", "title": "Two Waves of Bombing on Iran School Compound Verified", "desc": "Bellingcat verified two new videos depicting strikes on an Iranian Revolutionary Guard Corps (IRGC) compound and an adjacent school in Minab. The videos, released by Iran's Ministry of Foreign Affairs, show multiple missiles hitting the complex, providing further details on the February incident.", "location": "Minab", "lat": 27.1540, "lng": 57.0778, "date": "Mar 27, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"}, {"id": 7, "type": "kinetic", "title": "US Warplane Strikes Iranian Tankers to Enforce Blockade", "desc": "A US warplane disabled two Iranian tankers attempting to violate a port blockade, according to US Central Command. The precision strike aimed to prevent the vessels from reaching Iran, amidst reports of sporadic clashes in the Strait of Hormuz and ongoing diplomatic talks.", "location": "Strait of Hormuz", "lat": 27.0871, "lng": 56.2152, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-fires-iran-tankers-talks-hang-balance"}, {"id": 8, "type": "kinetic", "title": "South Korea Investigates Ship Fire in Strait of Hormuz", "desc": "South Korean investigators have begun examining the cause of an explosion and fire aboard a Korean-operated vessel in the Strait of Hormuz. The investigation is ongoing amid uncertainty about whether the incident was an attack.", "location": "Strait of Hormuz", "lat": 27.0871, "lng": 56.2152, "date": "May 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/south-korea-begins-probe-ship-fire-strait-hormuz-amid-iran-dispute"}, {"id": 9, "type": "kinetic", "title": "US Jets Fire on Iranian-Flagged Tankers", "desc": "US jets fired on and disabled two Iranian-flagged tankers that attempted to violate the American blockade of Iran's ports. US Central Command stated that precision munitions were used to prevent the ships from entering Iran.", "location": "Strait of Hormuz", "lat": 27.0871, "lng": 56.2152, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-6"}, {"id": 10, "type": "kinetic", "title": "US Military Strikes Two Empty Iranian Oil Tankers", "desc": "The U.S. military struck two empty Iranian-flagged oil tankers that were reportedly attempting to violate the U.S. blockade. U.S. Central Command confirmed the action and stated that all three recently targeted vessels are no longer transiting to Iran.", "location": "Strait of Hormuz", "lat": 27.0871, "lng": 56.2152, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-forces-strike-two-empty-iranian-oil-tankers-central-command-says"}, {"id": 11, "type": "kinetic", "title": "Pope Asks Leaders to Calm Tensions Amid Iran War", "desc": "Pope Leo, following a meeting with U.S. Secretary of State Marco Rubio, prayed for world leaders to calm global tensions and reduce hatred. The Pope, who has previously criticized the Iran war, urged governments to turn away from violence.", "location": "Vatican City", "lat": 41.9028, "lng": 12.4534, "date": "May 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/pope-leo-after-rubio-meeting-asks-god-inspire-leaders-calm-tensions"}, {"id": 12, "type": "kinetic", "title": "Palestinian Developer Seeks Dismissal of Hamas Support Lawsuit", "desc": "A prominent Palestinian-American developer, Bashar Masri, is asking a U.S. judge to dismiss a lawsuit accusing him of supporting Hamas. Masri argues that the lawsuit equates participation in Gaza's economy with terrorism.", "location": "Jerusalem", "lat": 31.7683, "lng": 35.2137, "date": "May 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/palestinian-american-developer-asks-us-judge-dismiss-lawsuit-alleging-he-aided"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-08T12:59:41-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 15,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US Strikes Iranian Tankers to Enforce Blockade",
+      "desc": "US forces, utilizing an F/A-18 Super Hornet, fired precision munitions at two Iranian-flagged tankers, disabling them to prevent them from violating the American blockade of Iran's ports. This action follows a previous incident where a third Iranian-flagged vessel was disabled. US Central Command confirmed the strikes, emphasizing that the vessels are no longer transiting to Iran.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2047,
+      "lng": 56.4000,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-forces-strike-two-empty-iranian-oil-tankers-central-command-says"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "UAE Air Defenses Engage Missile and Drone Threats from Iran",
+      "desc": "The United Arab Emirates reported that its air defense systems were actively engaging missile and drone threats originating from Iran. This incident occurs amid ongoing tensions and a shaky ceasefire between the US and Iran, further testing the fragile peace.",
+      "location": "United Arab Emirates",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israel Strikes Hezbollah Target in Beirut",
+      "desc": "The Israeli military conducted a strike in Beirut, targeting a senior Hezbollah figure. This marks the first strike of its kind in the capital since a mid-April ceasefire, signaling a potential escalation of hostilities despite previous de-escalation efforts.",
+      "location": "Beirut",
+      "lat": 33.8518,
+      "lng": 35.8567,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Iran Accuses US of 'Reckless Military Adventure'",
+      "desc": "Iran's Abbas Araghchi condemned US actions, labeling them a 'reckless military adventure.' He stated that the US escalates its attacks precisely when diplomatic solutions appear to be within reach, suggesting a pattern of disruption to peace efforts.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2047,
+      "lng": 56.4000,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "South Korea Investigates Ship Fire in Strait of Hormuz Amid Iran Dispute",
+      "desc": "South Korea's Oceans Ministry has launched an investigation into the cause of an explosion and fire aboard a Korean-operated vessel in the Strait of Hormuz. The incident occurred amid ongoing uncertainty about whether the vessel was attacked during the heightened tensions with Iran.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2047,
+      "lng": 56.4000,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/south-korea-begins-probe-ship-fire-strait-hormuz-amid-iran-dispute"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US Strikes Iranian-Flagged Tankers Violating Blockade",
+      "desc": "US forces engaged and disabled two Iranian-flagged tankers that attempted to violate an American blockade of Iran's ports. The strikes were carried out by a US Navy F/A-18 Super Hornet, which fired precision munitions into the vessels' smokestacks, preventing their entry into Iran.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2047,
+      "lng": 56.4000,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-6"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Two Waves of Bombing Revealed at Iran School Strike",
+      "desc": "New verified videos confirm two distinct waves of missile strikes hit an IRGC compound and an adjacent school in Minab, Iran, in late February. The videos, released by Iran's Ministry of Foreign Affairs, show multiple impacts on the complex, providing further detail on the devastating attack.",
+      "location": "Minab",
+      "lat": 27.1333,
+      "lng": 57.0833,
+      "date": "Mar 27, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "US Pauses 'Project Freedom' Operation in Strait of Hormuz",
+      "desc": "US President Trump announced a pause to 'Project Freedom,' an operation to guide vessels through the Strait of Hormuz. The pause comes after progress was reportedly made toward a potential deal with Iran, though the operation had only been active for a short period.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2047,
+      "lng": 56.4000,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/clypekl71gdo"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Iran's Police Infrastructure Targeted in Attacks",
+      "desc": "Bellingcat has documented damage to at least 80 police stations and Basij paramilitary facilities within the first three weeks of the US-Israeli war against Iran. Experts suggest the aim is to degrade the Iranian regime's repressive capacity.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Apr 24, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "UAE Downplays Iranian Strikes, Rewrites Narrative",
+      "desc": "Authorities in the UAE have reportedly downplayed the impact and extent of Iranian drone strikes, sometimes mischaracterizing interceptions or failing to acknowledge successful attacks. This divergence between official statements and open-source evidence suggests a deliberate effort to control the narrative surrounding the conflict.",
+      "location": "United Arab Emirates",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "date": "Apr 02, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/02/war-uae-iran-infuencer-dubai-conflict-drone-successful-strike-intercept-fire/"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "US Jets Disabled Iranian Tankers in Strait of Hormuz",
+      "desc": "US jets fired on and disabled two Iranian-flagged tankers attempting to violate the American blockade. The strikes, confirmed by US Central Command, were intended to prevent the non-compliant vessels from entering Iranian ports.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2047,
+      "lng": 56.4000,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-strikes-iran-tankers-uae-reports-fresh-missile-drone-attacks"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Iran Considering US Proposal Amidst Ongoing Conflict",
+      "desc": "Pakistan, acting as a mediator, stated that Iran is considering a US proposal aimed at ending the ongoing conflict. The mediator's efforts focus on converting the current ceasefire into a permanent cessation of hostilities.",
+      "location": "Tehran",
+      "lat": 35.6892,
+      "lng": 51.3890,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o"
+    },
+    {
+      "id": 13,
+      "type": "diplomatic",
+      "title": "Pope Leo Calls for Global Leaders to Calm Tensions",
+      "desc": "Following a meeting with US Secretary of State Marco Rubio, Pope Leo appealed for divine inspiration for world leaders to de-escalate global tensions and reduce hatred. The Pope, who has previously criticized the Iran war, urged prayers for governments to turn away from violence.",
+      "location": "Vatican City",
+      "lat": 41.9028,
+      "lng": 12.4534,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/pope-leo-after-rubio-meeting-asks-god-inspire-leaders-calm-tensions"
+    },
+    {
+      "id": 14,
+      "type": "diplomatic",
+      "title": "Rubio Awaits Iran's Response to US Deal Proposal",
+      "desc": "US Secretary of State Marco Rubio indicated that Washington is expecting Iran's response to US proposals for a deal to end the conflict. He expressed hope for a serious offer that could lead to meaningful negotiation processes, while also criticizing Iran's control over the Strait of Hormuz.",
+      "location": "Rome",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/rubio-says-expecting-iran-response-us-proposal-friday"
+    },
+    {
+      "id": 15,
+      "type": "diplomatic",
+      "title": "China Calls for Strait of Hormuz Reopening Amidst Iran Talks",
+      "desc": "Chinese Foreign Minister Wang Yi held talks with Iran's Foreign Minister Aragchi, urging for the Strait of Hormuz to be reopened 'as soon as possible.' This discussion occurs as Aragchi makes his first trip to China since the war began, highlighting diplomatic efforts to ease regional tensions.",
+      "location": "China",
+      "lat": 35.8617,
+      "lng": 104.1954,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c0m21mndm71o"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
