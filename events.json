@@ -1,1 +1,199 @@
-{"lastUpdated": "2026-05-08T22:59:39-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 15, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Strikes Iranian-Flagged Tankers in Strait of Hormuz", "desc": "US forces fired on and disabled two Iranian-flagged oil tankers attempting to violate the US blockade of Iran's ports. This action by a US Navy F/A-18 Super Hornet, using precision munitions, has escalated tensions in the Strait of Hormuz amidst ongoing peace deal negotiations.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 54.3333, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-6"}, {"id": 2, "type": "kinetic", "title": "US Forces Strike Three Iranian-Flagged Vessels Violating Blockade", "desc": "The US military struck two empty Iranian-flagged oil tankers and disabled a third Iranian-flagged vessel on Wednesday, stating they were attempting to violate the ongoing US blockade. Central Command confirmed all three vessels are no longer transiting to Iran, escalating maritime tensions.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 54.3333, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-forces-strike-two-empty-iranian-oil-tankers-central-command-says"}, {"id": 3, "type": "kinetic", "title": "Israel Strikes Beirut, Targeting Senior Hezbollah Figure", "desc": "Israel conducted its first strike on Beirut since a Hezbollah ceasefire in mid-April, stating it targeted a senior Hezbollah figure in the capital. This action risks reigniting broader conflict in the region.", "location": "Beirut", "lat": 33.8869, "lng": 35.5134, "date": "May 08, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/crmpjjl02l2o"}, {"id": 4, "type": "kinetic", "title": "US Sanctions 10 Entities for Aiding Iran's Weapons Sector", "desc": "The US Treasury has imposed sanctions on ten individuals and companies, including those in China and Hong Kong, for allegedly assisting Iran's military in acquiring weapons and raw materials for Shahed drones. This action occurs shortly before President Trump's visit to China.", "location": "Global", "lat": 0, "lng": 0, "date": "May 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/us-imposes-sanctions-10-individuals-companies-aiding-irans-weapons-sector"}, {"id": 5, "type": "diplomatic", "title": "Russia Urges Support for US-Iran Talks to Prevent Hostilities", "desc": "Russian Foreign Minister Sergei Lavrov emphasized the necessity of supporting ongoing negotiations between the US and Iran to prevent a resurgence of hostilities in the Middle East. Russia stated it does not wish to jeopardize stabilization prospects by resuming conflict.", "location": "Middle East", "lat": 0, "lng": 0, "date": "May 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/russias-lavrov-tells-uae-counterpart-need-support-us-iran-talks"}, {"id": 6, "type": "diplomatic", "title": "US Revises UN Resolution on Iran Amid Expected Vetoes", "desc": "Washington has amended its proposed UN resolution demanding Iran cease attacks and mining in the Strait of Hormuz. However, diplomats anticipate that China and Russia will still veto the resolution, posing a diplomatic challenge ahead of President Trump's visit to China.", "location": "United Nations", "lat": 40.7488, "lng": -73.9855, "date": "May 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/us-revises-un-resolution-iran-china-russia-still-expected-veto"}, {"id": 7, "type": "kinetic", "title": "US Expects Iran's Reply to Peace Proposal; Clashes Reported in Hormuz", "desc": "US President Donald Trump stated he is awaiting Iran's response to his latest proposal to end the Middle East war. Reports also indicate clashes in the Strait of Hormuz, with satellite images showing a potential oil slick near Iran's Kharg Island.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 54.3333, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-7"}, {"id": 8, "type": "kinetic", "title": "Israeli Strikes on Southern Lebanon Kill Rescue Worker", "desc": "Israel carried out attacks in southern Lebanon, resulting in the deaths of 31 people, including a rescue worker, according to Lebanon's National News Agency. This follows increased Israeli attacks in the region.", "location": "Southern Lebanon", "lat": 33.2242, "lng": 35.4578, "date": "May 08, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss"}, {"id": 9, "type": "kinetic", "title": "Libya's Largest Oil Refinery Halts Operations Amidst Fighting", "desc": "Libya's Zawiya oil refinery, the country's largest, has ceased operations as a precautionary measure due to nearby explosions and gunfire. An emergency has been declared in the region.", "location": "Zawiya", "lat": 32.7348, "lng": 12.7248, "date": "May 08, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting"}, {"id": 10, "type": "kinetic", "title": "US Strikes Iranian Oil Tankers in Strait of Hormuz", "desc": "The Pentagon released video footage depicting US strikes on two Iranian oil tankers in the Strait of Hormuz, an operation that has heightened regional tensions.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 54.3333, "date": "May 08, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss"}, {"id": 11, "type": "kinetic", "title": "US Fire on Iran Tankers Sparks Retaliatory Attacks", "desc": "A US fighter jet disabled two Iranian-flagged tankers, leading to retaliatory attacks and unsettling a fragile ceasefire. President Trump indicated he is awaiting Tehran's response to his peace proposal.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 54.3333, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance"}, {"id": 12, "type": "kinetic", "title": "Iran Accuses US of 'Reckless Military Adventure'", "desc": "Iran has accused the United States of engaging in a 'reckless military adventure,' stating that US attacks occur whenever a diplomatic solution seems possible. This statement comes amid ongoing efforts to de-escalate the conflict.", "location": "Middle East", "lat": 0, "lng": 0, "date": "May 08, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro"}, {"id": 13, "type": "kinetic", "title": "US Pauses Operation to Guide Vessels Through Strait of Hormuz", "desc": "President Trump announced a pause in 'Project Freedom,' an operation to guide vessels through the Strait of Hormuz, citing progress made towards a deal with Iran. The operation had begun on Monday.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 54.3333, "date": "May 08, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/clyg4mndm71o"}, {"id": 14, "type": "kinetic", "title": "US Strikes on Iranian Flagged Tankers and Fresh Exchanges in the Gulf", "desc": "US strikes on Iranian tankers and new exchanges in the Gulf have escalated tensions as Washington awaits Tehran's response to a peace proposal. The UAE also reported fresh missile and drone attacks.", "location": "Persian Gulf", "lat": 24.6070, "lng": 55.3512, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-strikes-iran-tankers-uae-reports-fresh-missile-drone-attacks"}, {"id": 15, "type": "kinetic", "title": "Iran Considers US Proposal Amidst Ceasefire Efforts", "desc": "Iran is reportedly considering a US proposal aimed at ending the war, with mediator Pakistan working to convert the current ceasefire into a permanent resolution. President Trump expressed optimism that the war could conclude quickly.", "location": "Middle East", "lat": 0, "lng": 0, "date": "May 08, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cj0pq2q8221o"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-09T03:59:28-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 12,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US Strikes Iranian-Flagged Tankers",
+      "desc": "US forces fired on and disabled two Iranian-flagged tankers that attempted to violate the American blockade of Iran's ports. A US Navy F/A-18 Super Hornet disabled both tankers after firing precision munitions into their smokestacks, preventing the non-compliant ships from entering Iran.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 54.5333,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-6"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Israel Strikes Beirut",
+      "desc": "Israel stated it targeted a senior Hezbollah figure in Beirut, marking the first strike of its kind in the capital since mid-April. This action escalates tensions between Israel and Hezbollah.",
+      "location": "Beirut",
+      "lat": 33.8869,
+      "lng": 35.5134,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israeli Settlers Raid West Bank",
+      "desc": "Dozens of Israeli settlers stormed various areas of the West Bank, setting cars on fire and attacking Palestinians in acts of violence and unrest.",
+      "location": "West Bank",
+      "lat": 32.0000,
+      "lng": 35.2500,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US and Iran Exchange Fire in Gulf",
+      "desc": "The U.S. and Iran appeared no closer to ending their war after exchanging fire in the Gulf amid a tenuous ceasefire. Recent days have seen significant flare-ups in fighting around the Strait of Hormuz.",
+      "location": "Persian Gulf",
+      "lat": 25.0000,
+      "lng": 54.0000,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-iran-no-closer-ending-war-gulf-clashes-flare"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Oil Slick Near Kharg Island",
+      "desc": "Satellite images indicated an oil slick spreading off the coast of Iran's Kharg Island, a crucial oil export terminal for the country. This event raises concerns about environmental damage and potential disruptions to oil infrastructure.",
+      "location": "Kharg Island",
+      "lat": 29.2333,
+      "lng": 50.3667,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-7"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US Strikes Additional Iranian Tanker",
+      "desc": "The U.S. military struck a third empty Iranian-flagged oil tanker on Wednesday that it said was seeking to violate the ongoing U.S. blockade. Central Command stated that all three vessels are no longer transiting to Iran.",
+      "location": "Persian Gulf",
+      "lat": 25.0000,
+      "lng": 54.0000,
+      "date": "May 06, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-forces-strike-two-empty-iranian-oil-tankers-central-command-says"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Libya's Largest Oil Refinery Halts Operations",
+      "desc": "Libya's largest oil refinery in Zawiya has shut down as a precautionary measure due to nearby fighting, explosions, and gunfire. This halt in operations could impact regional energy supplies.",
+      "location": "Zawiya",
+      "lat": 32.7333,
+      "lng": 12.7167,
+      "date": "May 08, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Drone and Missile Attacks on UAE",
+      "desc": "The United Arab Emirates came under renewed attack on Friday, indicating ongoing kinetic actions in the Gulf region. Details on the specific targets and perpetrators are still emerging.",
+      "location": "United Arab Emirates",
+      "lat": 24.0000,
+      "lng": 54.0000,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-iran-no-closer-ending-war-gulf-clashes-flare"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "US Strikes on Iranian Oil Tankers Released",
+      "desc": "The Pentagon released footage showing U.S. strikes on two Iranian oil tankers in the Strait of Hormuz. This action is part of the ongoing maritime blockade and interdiction efforts.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 54.5333,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Israeli Strikes on Lebanon",
+      "desc": "Israel has increased its attacks across southern Lebanon. Al Jazeera reporter witnessed Israeli strikes on Tyre, indicating continued kinetic exchanges in the region.",
+      "location": "Southern Lebanon",
+      "lat": 33.2500,
+      "lng": 35.2500,
+      "date": "May 08, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Two Waves of Bombing in Minab Revealed",
+      "desc": "New videos verified by Bellingcat show two waves of strikes hitting an IRGC compound and an adjacent school in Minab, Iran. The strikes, which occurred in late February, resulted in casualties and destruction.",
+      "location": "Minab",
+      "lat": 27.1406,
+      "lng": 57.3833,
+      "date": "Mar 27, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Destruction of Iranian Police Infrastructure",
+      "desc": "Bellingcat has identified at least 80 police stations and Basij paramilitary infrastructure damaged or destroyed in the first three weeks of the war against Iran. This indicates a deliberate effort to degrade the regime's repressive capacity.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Apr 24, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
