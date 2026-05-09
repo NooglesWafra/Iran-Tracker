@@ -1,1 +1,235 @@
-{"lastUpdated": "2026-05-09T13:59:30-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 10, "cyber": 1, "nuclear": 1}, "events": [{"id": 1, "type": "kinetic", "title": "Israeli Airstrikes Intensify in Southern Lebanon", "desc": "Israel conducted airstrikes in southern Lebanon, killing at least eight people. Further raids targeted a highway south of Beirut, extending beyond traditional Hezbollah strongholds. These attacks occurred despite a three-week ceasefire, with daily exchanges of fire continuing, primarily in the south.", "location": "Southern Lebanon", "lat": 33.4500, "lng": 35.8333, "date": "May 09, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/lebanon-says-israel-kills-8-south-strikes-reported-outside-beirut"}, {"id": 2, "type": "kinetic", "title": "Israel Strikes Beirut Amidst Hezbollah Ceasefire", "desc": "Israel launched strikes in Beirut, targeting a senior Hezbollah figure. This marks the first such strike in the capital since a mid-April ceasefire. The attack occurred amidst ongoing cross-border exchanges of fire.", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "May 09, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/crmpjjl02l2o"}, {"id": 3, "type": "kinetic", "title": "Naval Clashes Flare in the Gulf, US and Iran Stalemate Continues", "desc": "The US and Iran traded fire in the Gulf, escalating tensions despite a fragile ceasefire. Recent clashes in and around the Strait of Hormuz are the most significant since the truce began a month ago. A US intelligence analysis suggests Iran can withstand a naval blockade for months.", "location": "Persian Gulf", "lat": 26.8206, "lng": 54.3667, "date": "May 09, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-iran-no-closer-ending-war-gulf-clashes-flare"}, {"id": 4, "type": "kinetic", "title": "UK Deploys Warship HMS Dragon to Middle East Amidst Hormuz Tensions", "desc": "The UK is deploying HMS Dragon to the Middle East in preparation for a potential multinational effort to secure shipping in the Strait of Hormuz. The air defence destroyer was previously deployed to the Eastern Mediterranean to aid Cyprus following the start of the Iran war.", "location": "Middle East", "lat": 25.0000, "lng": 51.0000, "date": "May 09, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/uk-deploys-warship-middle-east-eye-potential-hormuz-mission"}, {"id": 5, "type": "kinetic", "title": "Iran Highlights Hormuz Importance Amidst US Talks", "desc": "Iran emphasized the strategic significance of the Strait of Hormuz, describing it as a capability that could impact the global economy. This statement comes amid ongoing diplomatic efforts and naval tensions in the region.", "location": "Strait of Hormuz", "lat": 26.9576, "lng": 55.1575, "date": "May 09, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks"}, {"id": 6, "type": "kinetic", "title": "UAE Under Renewed Attack Amidst Escalating Gulf Conflict", "desc": "The United Arab Emirates experienced renewed attacks, highlighting the ongoing conflict in the Gulf. This incident underscores the volatile security situation in the region and the continuing impact of the war.", "location": "United Arab Emirates", "lat": 24.4539, "lng": 54.3773, "date": "May 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-iran-no-closer-ending-war-gulf-clashes-flare"}, {"id": 7, "type": "kinetic", "title": "Israeli Forces Intercept Gaza-Bound Flotilla Activists", "desc": "Israeli forces detained two activists aboard a Gaza-bound flotilla. Lawyers stated they are expected to be released and deported. The activists were part of a mission to deliver aid and break Israel's blockade of Gaza.", "location": "Mediterranean Sea", "lat": 31.5000, "lng": 34.5000, "date": "May 09, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/gaza-flotilla-activists-be-released-israel-detention-and-deported"}, {"id": 8, "type": "kinetic", "title": "Gaza Residents Return to Rubble After Israeli Strikes", "desc": "Residents of the Al-Shati Refugee Camp in Gaza returned to find their homes destroyed following overnight Israeli airstrikes. The attacks have exacerbated the humanitarian crisis in the densely populated area.", "location": "Gaza Strip", "lat": 31.5000, "lng": 34.5000, "date": "May 09, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike"}, {"id": 9, "type": "kinetic", "title": "Israel Detains Gaza Flotilla Activists", "desc": "Two activists from the Gaza-bound flotilla, Spanish national Saif Abu Keshek and Brazilian Thiago Avila, were detained by Israeli authorities. They were part of a mission to deliver aid to Gaza.", "location": "Israel", "lat": 31.0461, "lng": 34.7727, "date": "Apr 29, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists"}, {"id": 10, "type": "kinetic", "title": "Iranian Drones Enhanced by Russian Technology", "desc": "Iranian drones impacting Gulf Arab states are reportedly based on Russian designs refined through battlefield testing in Ukraine. This technological transfer suggests a deepening military cooperation between Iran and Russia.", "location": "Persian Gulf", "lat": 26.8206, "lng": 54.3667, "date": "Feb 28, 2026", "escalation": true, "url": "https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/"}, {"id": 11, "type": "cyber", "title": "Bahrain Arrests Dozens Over Alleged Links to Iran's IRGC", "desc": "Bahrain's Interior Ministry announced the arrest of 41 individuals suspected of ties to Iran's Islamic Revolutionary Guard Corps (IRGC). Legal proceedings are underway against those detained.", "location": "Bahrain", "lat": 26.0667, "lng": 50.5577, "date": "May 09, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc"}, {"id": 12, "type": "nuclear", "title": "India Completes Sea Leg of Nuclear Deterrent with New Submarine", "desc": "India commissioned its third ballistic missile-carrying, nuclear-powered submarine, the INS Aridhaman. This milestone allows India to maintain a continuous deterrent patrol at sea, completing a key aspect of its nuclear triad.", "location": "Indian Ocean", "lat": 7.0000, "lng": 80.0000, "date": "Apr 03, 2026", "escalation": false, "url": "https://warontherocks.com/practice-makes-deterrence-indias-next-nuclear-challenge-at-sea/"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-09T18:59:32-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 10,
+    "cyber": 1,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Israeli Airstrike Kills Seven in South Lebanon",
+      "desc": "An Israeli airstrike on the southern Lebanese town of Saksakiyeh resulted in at least seven fatalities, including a child, and left 15 injured, according to the Lebanese health ministry. The Israeli military stated they targeted Hezbollah militants planning attacks, and the incident's details are under review.",
+      "location": "Saksakiyeh, Lebanon",
+      "lat": 33.2860,
+      "lng": 35.3680,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/israeli-strike-kills-seven-south-lebanon-lebanese-health-ministry-says"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Hezbollah Claims Drone Attack on Israeli Troops",
+      "desc": "Hezbollah announced Saturday that it targeted Israeli troops in northern Israel with a drone, as retaliation for repeated Israeli strikes on Lebanon, despite an ongoing truce. The group also claimed drone and rocket attacks on Israeli military targets within Lebanon.",
+      "location": "Northern Israel",
+      "lat": 33.0100,
+      "lng": 35.6000,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-8"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Iranian Guards Threaten U.S. Sites Over Tanker Attacks",
+      "desc": "Iran's Islamic Revolutionary Guards Corps threatened to target U.S. sites if its tankers face attacks, as Washington awaited Tehran's response to its latest negotiating position. This statement follows U.S. strikes on two Iranian tankers in the Gulf of Oman.",
+      "location": "Gulf of Oman",
+      "lat": 24.5000,
+      "lng": 57.5000,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/irans-guards-threaten-us-sites-trump-waits-tehran-response"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "U.S. and Iran No Closer to Ending War Amid Gulf Clashes",
+      "desc": "The U.S. and Iran remain distant from a resolution to their war, with exchanges of fire in the Gulf occurring despite a fragile ceasefire. The United Arab Emirates also faced renewed attacks. U.S. intelligence suggests Iran could withstand a naval blockade for months.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0500,
+      "lng": 55.3500,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-iran-no-closer-ending-war-gulf-clashes-flare"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Israeli Settlers Force Re-burial of Palestinian Man",
+      "desc": "Israeli settlers in the occupied West Bank reportedly compelled Palestinians to exhume the body of an 80-year-old man, Hussein Asasa, hours after his burial in Asasa village near Jenin. The family stated the exhumation and re-burial were forced by settlers near a settlement re-established by the Israeli government.",
+      "location": "Asasa Village, West Bank",
+      "lat": 32.4565,
+      "lng": 35.2779,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/settlers-force-re-burial-palestinian-man-west-bank-family-says"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "UK Deploys Warship to Middle East for Potential Hormuz Mission",
+      "desc": "Britain announced the deployment of its warship HMS Dragon to the Middle East in preparation for a potential multinational effort to secure shipping in the Strait of Hormuz. The vessel was previously sent to the Eastern Mediterranean in March following the commencement of the Iran war.",
+      "location": "Middle East / Strait of Hormuz",
+      "lat": 27.0500,
+      "lng": 55.3500,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/uk-deploys-warship-middle-east-eye-potential-hormuz-mission"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Nine Killed in Lebanon as Israel Intensifies Strikes",
+      "desc": "Israel conducted extensive strikes across Lebanon on Saturday, resulting in at least nine deaths in the south and attacks on a highway near Beirut, outside traditional Hezbollah areas. These raids represent some of the most intense activity since a three-week truce began, which has failed to halt daily exchanges of fire.",
+      "location": "Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8623,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/least-9-killed-israel-pounds-lebanon-despite-truce"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Gaza Flotilla Activists to Be Deported After Release from Israeli Detention",
+      "desc": "Two activists, Saif Abu Keshek (Spanish) and Thiago Avila (Brazilian), arrested during the interception of a Gaza-bound flotilla, are expected to be deported after their release from Israeli security detention. They were part of a flotilla attempting to deliver aid to Gaza and break the Israeli blockade.",
+      "location": "Israel",
+      "lat": 31.0461,
+      "lng": 35.2163,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/gaza-flotilla-activists-be-released-israel-detention-and-deported"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Three Police Officers Killed in Northwest Pakistan Car Bomb Attack",
+      "desc": "A car bomb attack in Bannu, Khyber Pakhtunkhwa, northwest Pakistan, killed three police officers and several fighters. The bomber detonated an explosives-laden vehicle near a security post.",
+      "location": "Bannu, Pakistan",
+      "lat": 32.9771,
+      "lng": 71.1960,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "One Killed in Gaza Amid Turkish Peace Efforts with Hamas",
+      "desc": "One person was killed in Gaza as the Turkish Foreign Minister engaged in peace talks with a Hamas official. Israel's military actions continue, with hundreds reported killed across the Strip since a ceasefire agreement in October.",
+      "location": "Gaza",
+      "lat": 31.4167,
+      "lng": 34.3466,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Israeli Settlers Force Palestinian Family to Exhume Father's Body",
+      "desc": "A Palestinian family in Jenin reported that Israeli settlers forced them to exhume their father's body hours after his funeral. The UN condemned the incident as 'appalling and emblematic of the dehumanisation of Palestinians'.",
+      "location": "Jenin, West Bank",
+      "lat": 32.4700,
+      "lng": 35.0988,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Russian Air Defense Forces Report Downing Ukrainian Drones Over Belgorod",
+      "desc": "Russian air defense systems successfully intercepted and destroyed multiple Ukrainian drones over the Belgorod region. There were no immediate reports of casualties or significant damage.",
+      "location": "Belgorod Oblast, Russia",
+      "lat": 50.5900,
+      "lng": 36.5800,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/9/russian-air-defense-forces-report-downing-ukrainian-drones-over-belgorod?traffic_source=rss"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Russia claims to have destroyed Western-supplied air defense system in Ukraine",
+      "desc": "The Russian Ministry of Defense claims its forces destroyed a U.S.-supplied air defense system in Ukraine. The ministry provided no further details regarding the specific system or its location.",
+      "location": "Ukraine",
+      "lat": 48.3794,
+      "lng": 31.1656,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/9/russia-claims-to-have-destroyed-western-supplied-air-defense-system-in-ukraine?traffic_source=rss"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Syria and Lebanon Discuss Joint Interests, Including Security and Transport",
+      "desc": "Syrian and Lebanese officials held talks in Damascus, focusing on collaboration in areas such as security, transport, and energy. The meeting aimed to strengthen bilateral ties and address shared regional interests.",
+      "location": "Damascus, Syria",
+      "lat": 33.5138,
+      "lng": 36.2913,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss"
+    },
+    {
+      "id": 15,
+      "type": "cyber",
+      "title": "Hungarian Government Passwords Exposed Online",
+      "desc": "Approximately 800 Hungarian government email addresses and their corresponding passwords have been leaked online, exposing basic security vulnerabilities within ministries handling classified information. The breach data indicates that 12 out of 13 ministries were affected, potentially compromising sensitive data.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "Apr 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
