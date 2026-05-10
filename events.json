@@ -1,1 +1,235 @@
-{"lastUpdated": "2026-05-10T09:59:32-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 16, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "Drone Attacks Target Gulf Vessels", "desc": "Multiple drones targeted vessels in the Gulf, with one striking a freighter en route to Qatar. The UAE accused Iran of the attack on its territory, marking a potential escalation following a month-long ceasefire.", "location": "Gulf of Oman", "lat": 24.5000, "lng": 57.5000, "date": "May 10, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/drones-target-gulf-vessels-tehran-warns-us"}, {"id": 2, "type": "kinetic", "title": "Kuwaiti Military Repels Drone Attack", "desc": "The Kuwaiti military announced it had detected and dealt with hostile drones in its airspace, preventing an attack. The origin of the drones was not specified.", "location": "Kuwait", "lat": 29.3157, "lng": 47.4819, "date": "May 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/war-middle-east-latest-developments-8"}, {"id": 3, "type": "kinetic", "title": "Iran Sends Response to US Ceasefire Proposal", "desc": "Iran has submitted its response to a U.S. proposal aimed at ending the ongoing conflict, conveyed through Pakistan as a mediator. The initial focus of negotiations is reportedly on a cessation of hostilities.", "location": "Tehran, Iran", "lat": 35.6895, "lng": 51.3890, "date": "May 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/iran-sends-its-response-us-proposal-aimed-ending-war-irna-says"}, {"id": 4, "type": "kinetic", "title": "Israeli Strikes in Gaza Test Ceasefire", "desc": "Israeli airstrikes in Gaza resulted in at least three Palestinian casualties, including two Hamas-run police officers. This violence highlights the precariousness of the U.S.-brokered ceasefire.", "location": "Gaza Strip", "lat": 31.4167, "lng": 34.2500, "date": "May 10, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/israeli-strikes-gaza-kill-three-medics-say-testing-fragile-ceasefire"}, {"id": 5, "type": "kinetic", "title": "Iranian Military Warns of New Warfare Methods", "desc": "Iran's army spokesman issued a warning that future attacks would be met with 'surprising' new methods of warfare, implying a readiness to retaliate with unconventional tactics.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "May 10, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again"}, {"id": 6, "type": "kinetic", "title": "Libya Refinery Resumes Operations After Fighting", "desc": "Libya's Zawiya refinery has returned to full operational capacity after a two-day closure due to fighting in the vicinity of the facility.", "location": "Zawiya, Libya", "lat": 32.7349, "lng": 12.7147, "date": "May 10, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/10/libyas-zawiya-refinery-resumes-full-operations"}, {"id": 7, "type": "kinetic", "title": "Lebanon Reports Israeli Strikes Killing Nine", "desc": "At least nine people were killed in Israeli strikes across southern Lebanon, with raids also targeting a highway near Beirut. These attacks represent a significant escalation despite a recent ceasefire.", "location": "Southern Lebanon", "lat": 33.3000, "lng": 35.5000, "date": "May 09, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/least-9-killed-israel-pounds-lebanon-despite-truce"}, {"id": 8, "type": "kinetic", "title": "Israeli Strike Kills Seven in South Lebanon", "desc": "An Israeli strike in Saksakiyeh, southern Lebanon, killed at least seven individuals, including a child, and injured 15. The Israeli military stated they targeted Hezbollah militants planning attacks.", "location": "Saksakiyeh, Lebanon", "lat": 33.1500, "lng": 35.1500, "date": "May 09, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/israeli-strike-kills-seven-south-lebanon-lebanese-health-ministry-says"}, {"id": 9, "type": "kinetic", "title": "UK Deploys Warship to Middle East for Hormuz Mission", "desc": "The UK is deploying the warship HMS Dragon to the Middle East, preparing for a potential multinational operation to secure shipping in the Strait of Hormuz.", "location": "Strait of Hormuz", "lat": 27.1500, "lng": 51.4500, "date": "May 09, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/uk-deploys-warship-middle-east-eye-potential-hormuz-mission"}, {"id": 10, "type": "kinetic", "title": "Pakistan Police Post Car Bombing", "desc": "A car bombing at a police post in Bannu, northwestern Pakistan, killed at least twelve policemen, followed by a confrontation with militants. The attack destroyed the police installation.", "location": "Bannu, Pakistan", "lat": 32.9921, "lng": 70.2007, "date": "May 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/twelve-pakistani-policemen-killed-car-bombing"}, {"id": 11, "type": "kinetic", "title": "Damaged Heritage Sites in Iran", "desc": "Conservationists are working to repair historic sites in Iran damaged by the war with the U.S. and Israel, though some repairs are expected to take years. Golestan Palace in Tehran sustained damage from shockwaves.", "location": "Tehran, Iran", "lat": 35.6895, "lng": 51.3890, "date": "May 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/fearing-return-war-iran-conservationists-shore-damaged-heritage-sites"}, {"id": 12, "type": "kinetic", "title": "Iran War Impacts Asian Economies", "desc": "Asian economies are facing significant challenges due to rising fuel costs, inflation, and debt pressures stemming from the ongoing conflict in Iran.", "location": "Asia", "lat": 30.0000, "lng": 100.0000, "date": "May 10, 2026", "escalation": false, "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war"}, {"id": 13, "type": "kinetic", "title": "Iran's IRGC Compound and School Strike Detailed", "desc": "New videos confirm strikes on an IRGC compound and adjacent school in Minab, Iran, showing multiple missile impacts. The strikes occurred in late February.", "location": "Minab, Iran", "lat": 27.1362, "lng": 57.0839, "date": "March 27, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"}, {"id": 14, "type": "kinetic", "title": "Destruction of Iranian Police Infrastructure", "desc": "Efforts to 'Make Iran Ungovernable' have resulted in the damage or destruction of at least 80 police stations and Basij paramilitary infrastructure within the first three weeks of the U.S. and Israeli war against Iran, aiming to degrade the regime's 'repressive capacity'.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "April 24, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"}, {"id": 15, "type": "kinetic", "title": "Syria Trial of Atef Najib Begins", "desc": "Atef Najib, a cousin of former Syrian President Bashar al-Assad, faces at least 10 charges, including murder, torture, and responsibility for massacres, in a landmark trial.", "location": "Syria", "lat": 34.9000, "lng": 38.0000, "date": "May 10, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-10T14:59:40-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 12,
+    "cyber": 0,
+    "nuclear": 2
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "nuclear",
+      "title": "Iran Nuclear Facilities Assurances",
+      "desc": "Iran may negotiate assurances regarding the use of its nuclear facilities but has stated it will not destroy or allow the movement of its enriched uranium. This indicates a continued focus on nuclear programs despite international pressure and ongoing conflict.",
+      "location": "Iran",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "date": "May 10, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss"
+    },
+    {
+      "id": 2,
+      "type": "nuclear",
+      "title": "US Surveillance of Iranian Enriched Uranium",
+      "desc": "US President Trump stated that Washington is surveilling Iranian nuclear material and will take action against anyone approaching it. This highlights a direct confrontation over Iran's nuclear ambitions and raises the potential for kinetic escalation.",
+      "location": "Iran",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "date": "May 10, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israeli Strikes in Gaza",
+      "desc": "Israeli strikes in Gaza killed at least three Palestinians, including two members of Hamas-run police. This violence underscores the fragility of the US-brokered ceasefire and indicates continued kinetic activity despite diplomatic efforts.",
+      "location": "Gaza Strip",
+      "lat": 31.3547,
+      "lng": 34.3088,
+      "date": "May 10, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/israeli-strikes-gaza-kill-three-medics-say-testing-fragile-ceasefire"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Israeli Strikes in South Lebanon",
+      "desc": "An Israeli strike on Saksakiyeh, Lebanon, killed at least seven people, including a child. The Israeli military claimed to have struck Hezbollah militants, indicating ongoing cross-border kinetic exchanges.",
+      "location": "Saksakiyeh, Lebanon",
+      "lat": 33.3423,
+      "lng": 35.2030,
+      "date": "May 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/israeli-strike-kills-seven-south-lebanon-lebanese-health-ministry-says"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Car Bombing in Bannu, Pakistan",
+      "desc": "A car bombing at a police post in Bannu, Pakistan, killed at least twelve police officers, followed by a confrontation with militants. This incident highlights regional instability and the presence of militant groups.",
+      "location": "Bannu, Pakistan",
+      "lat": 32.9782,
+      "lng": 70.1519,
+      "date": "May 10, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/twelve-pakistani-policemen-killed-car-bombing"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Iran Responds to US Peace Proposal Amid Drones",
+      "desc": "Iran responded to a US peace proposal aimed at ending the war, via Pakistan. This diplomatic move occurred concurrently with drone threats targeting Gulf region locations, indicating a complex interplay of diplomacy and ongoing conflict.",
+      "location": "Gulf Region",
+      "lat": 26.0667,
+      "lng": 53.4233,
+      "date": "May 10, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/iran-responds-us-peace-proposal-drones-hit-gulf"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Drone Strikes Threaten Gulf Region Targets",
+      "desc": "Drones threatened several targets in the Gulf region. This indicates continued kinetic activity and the use of asymmetric warfare tactics in the ongoing conflict.",
+      "location": "Gulf Region",
+      "lat": 26.0667,
+      "lng": 53.4233,
+      "date": "May 10, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/iran-responds-us-peace-proposal-drones-hit-gulf"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "UK Deploys Warship to Middle East for Hormuz Mission",
+      "desc": "The UK is deploying the warship HMS Dragon to the Middle East in preparation for a potential multinational effort to protect shipping in the Strait of Hormuz. This signifies increased international naval presence and potential for escalation in a critical maritime chokepoint.",
+      "location": "Strait of Hormuz",
+      "lat": 26.8210,
+      "lng": 54.3700,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/uk-deploys-warship-middle-east-eye-potential-hormuz-mission"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "US Pauses Operation to Guide Vessels Through Strait of Hormuz",
+      "desc": "The US has paused 'Project Freedom', an operation to guide vessels through the Strait of Hormuz, citing progress toward a deal with Iran. However, the pausing and unpausing of such operations indicate a volatile security situation.",
+      "location": "Strait of Hormuz",
+      "lat": 26.8210,
+      "lng": 54.3700,
+      "date": "May 10, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Lebanon Reports 39 Killed in Israeli Strikes",
+      "desc": "Lebanon's health ministry reported that 39 people were killed in Israeli strikes across the country, even after a ceasefire deal was announced. This indicates ongoing kinetic activity and potential violations of ceasefire agreements.",
+      "location": "Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8617,
+      "date": "May 10, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Iran Accuses US of 'Reckless Military Adventure'",
+      "desc": "Iran's representative, Abbas Araghchi, accused the US of engaging in 'reckless military adventure,' particularly when diplomatic solutions are being considered. This indicates heightened tensions and rhetoric accompanying kinetic actions.",
+      "location": "Iran",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "date": "May 10, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Destruction of Iranian Police Infrastructure",
+      "desc": "Bellingcat identified at least 80 damaged or destroyed police stations and Basij paramilitary infrastructure in Iran during the initial weeks of the US-Israeli war. This suggests a deliberate campaign to degrade Iran's internal security apparatus.",
+      "location": "Iran",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "date": "Apr 24, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Two Waves of Bombing on Iranian School Compound",
+      "desc": "New videos geolocated and verified by Bellingcat show multiple missiles hitting an IRGC compound and an adjacent school in Minab, Iran. This incident highlights the kinetic impact of the conflict on civilian infrastructure.",
+      "location": "Minab, Iran",
+      "lat": 27.1356,
+      "lng": 57.0825,
+      "date": "Mar 27, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Israel Deports Activists from Gaza Flotilla",
+      "desc": "Israel deported two foreign activists seized from a Gaza-bound flotilla. The incident involved interception in international waters and detention in Israel, highlighting ongoing tensions and actions related to the Israeli-Palestinian conflict.",
+      "location": "Gaza",
+      "lat": 31.3547,
+      "lng": 34.3088,
+      "date": "May 10, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/israel-deports-two-foreign-activists-seized-gaza-flotilla-0"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Settlers Force Re-burial of Palestinian Man",
+      "desc": "Israeli settlers in the West Bank forced Palestinians to exhume and re-bury the body of a man from his village grave. This incident points to continued friction and actions by settlers in the occupied territories.",
+      "location": "Asasa, West Bank",
+      "lat": 32.3167,
+      "lng": 35.1500,
+      "date": "May 09, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/settlers-force-re-burial-palestinian-man-west-bank-family-says"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
