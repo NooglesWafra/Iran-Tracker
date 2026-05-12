@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-05-12T11:59:43-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 5, "cyber": 3, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US War in Iran Cost Nears $29 Billion", "desc": "The Pentagon has announced that the cost of the ongoing war with Iran has reached approximately $29 billion. This figure represents an increase of $4 billion from previous estimates and includes updated costs for equipment repair and replacement, as well as operational expenses.", "location": "Middle East", "lat": 28.0000, "lng": 65.0000, "date": "May 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/pentagon-says-us-cost-iran-war-nearing-29-billion"}, {"id": 2, "type": "kinetic", "title": "Iran Expands Definition of Strait of Hormuz Operational Area", "desc": "A senior IRGC Navy officer stated that Iran has significantly expanded its definition of the Strait of Hormuz into a 'vast operational area.' This redefinition enlarges the strategic military significance and scope of the strait far beyond its previous narrow boundaries.", "location": "Strait of Hormuz", "lat": 27.2147, "lng": 51.4426, "date": "May 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says"}, {"id": 3, "type": "kinetic", "title": "Drone War in Southern Lebanon Complicates Iran Peace Prospects", "desc": "While peace negotiations between Washington and Tehran continue, a stepped-up drone war between Hezbollah and Israel in southern Lebanon is complicating efforts to de-escalate regional tensions and achieve a lasting peace.", "location": "Southern Lebanon", "lat": 33.2909, "lng": 35.9454, "date": "May 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/evolving-drone-war-southern-lebanon-clouds-iran-peace-prospects"}, {"id": 4, "type": "kinetic", "title": "Explosion Kills Nine in Pakistan Market", "desc": "A large explosion at a crowded market in Sarai Naurang, northwestern Pakistan, resulted in the deaths of at least nine people and injured approximately 30 others. The blast has raised concerns about renewed conflict in the region.", "location": "Sarai Naurang, Pakistan", "lat": 33.1500, "lng": 70.4667, "date": "May 12, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/nine-killed-blast-northwest-pakistan-market-police-say"}, {"id": 5, "type": "kinetic", "title": "Kuwait Unveils IRGC Infiltration Plot, Arrests Four", "desc": "Kuwaiti authorities have arrested four individuals accused of belonging to Iran's Islamic Revolutionary Guard Corps (IRGC) and planning attacks within Kuwait. The suspects were apprehended attempting to enter the country illegally by sea.", "location": "Kuwait", "lat": 29.3158, "lng": 47.4817, "date": "May 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/kuwait-unveils-iran-irgc-infiltration-plot-arrests-4-what-know"}, {"id": 6, "type": "kinetic", "title": "Israel Approves Law Allowing Death Penalty for October 7 Detainees", "desc": "Israel has passed a law that permits the implementation of the death penalty and public trials for individuals linked to the October 7 attacks.", "location": "Israel", "lat": 31.0461, "lng": 35.2179, "date": "May 12, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c202ngg45x8o"}, {"id": 7, "type": "kinetic", "title": "UNICEF Reports 70 Children Killed in West Bank and East Jerusalem Since 2025", "desc": "The UN children's agency (UNICEF) reported that 70 children have been killed in the occupied Palestinian territories (excluding Gaza) since the beginning of 2025, averaging one child per week. Over 800 children have been injured during the same period, with many succumbing to live ammunition, while others were casualties of stabbing, beatings, or pepper spray.", "location": "West Bank and East Jerusalem", "lat": 31.5276, "lng": 34.9547, "date": "May 12, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/unicef-says-70-children-killed-west-bank-and-east-jerusalem-2025"}, {"id": 8, "type": "kinetic", "title": "Israel Deports Activists Detained on Gaza Flotilla", "desc": "Israel has deported two activists, a Spanish national and a Brazilian national, who were detained after participating in a Gaza-bound aid flotilla. The incident highlights ongoing tensions surrounding maritime access to Gaza.", "location": "Israel", "lat": 31.0461, "lng": 35.2179, "date": "May 12, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o"}, {"id": 9, "type": "kinetic", "title": "Lebanon Reports 39 Killed in Israeli Strikes", "desc": "Lebanon has reported that 39 people were killed in recent Israeli strikes, underscoring the continued exchange of fire between Israel and Hezbollah despite a previously announced ceasefire.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "May 12, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cn4pjegk358o"}, {"id": 10, "type": "kinetic", "title": "Hamas Disarmament Talks Stall, Raising Fears of Renewed Gaza War", "desc": "Reports indicate that stalled talks with Hamas regarding disarmament have prompted Israel to prepare for a potential resumption of fighting in Gaza.", "location": "Gaza Strip", "lat": 31.4125, "lng": 34.3054, "date": "May 12, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o"}, {"id": 11, "type": "cyber", "title": "Clandestine Network Smuggling Starlink Tech into Iran", "desc": "An individual is reportedly smuggling Starlink satellite internet terminals into Iran to circumvent internet blackouts and provide access to information. This operation aims to counter state-controlled information flow during the conflict.", "location": "Iran", "lat": 33.6846, "lng": 53.3707, "date": "May 12, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cvgzk91leweo"}, {"id": 12, "type": "proxy", "title": "Russia and China's Lawfare in the Arctic", "desc": "Russia and China are increasingly employing 'lawfare' tactics in the Arctic, including expansive maritime regulations and challenges to Western continental shelf claims, aiming to assert influence and contest resource access and freedom of navigation in the region.", "location": "Arctic", "lat": 78.2232, "lng": -103.8500, "date": "May 12, 2026", "escalation": false, "url": "https://warontherocks.com/the-other-border-problem-how-russia-and-chinas-lawfare-threaten-the-arctic/"}, {"id": 13, "type": "proxy", "title": "Ankara's Crossroads: Rearmament and Prospect of War with Israel", "desc": "Tensions between Israel and Turkey are rising due to regional security issues concerning Syria and the Palestinian territories, with warnings of a potential conflict fueled by historical grievances and current geopolitical dynamics.", "location": "Middle East", "lat": 30.0000, "lng": 35.0000, "date": "May 12, 2026", "escalation": true, "url": "https://warontherocks.com/ankaras-crossroads-rearmament-risk-and-the-prospect-of-war-with-israel/"}, {"id": 14, "type": "proxy", "title": "Adversaries Integrate, U.S. Partners Bypass Washington", "desc": "Iranian drone technology, refined by Russia through battlefield testing in Ukraine, is being used against Gulf Arab states. This development has placed the US in an unfamiliar position, requiring it to seek counter-drone assistance from Ukraine.", "location": "Gulf Arab States", "lat": 24.4539, "lng": 54.3773, "date": "May 12, 2026", "escalation": true, "url": "https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/"}, {"id": 15, "type": "proxy", "title": "Russia's \"Hormuz Playbook\" in Baltic and Black Seas", "desc": "Russia may employ tactics similar to those used to disrupt maritime traffic in the Strait of Hormuz, impacting trade and insurance markets in the Baltic and Black Seas through drone strikes and other measures.", "location": "Baltic and Black Seas", "lat": 54.5290, "lng": 15.2551, "date": "May 12, 2026", "escalation": true, "url": "https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/"}, {"id": 16, "type": "kinetic", "title": "UNICEF: 70 Children Killed in West Bank and East Jerusalem Since 2025", "desc": "Seventy children have been killed in the occupied Palestinian territories outside of Gaza since early 2025, with over 800 injured. Most fatalities involved live ammunition, but other causes included stabbing, beatings, and pepper spray.", "location": "West Bank and East Jerusalem", "lat": 31.5276, "lng": 34.9547, "date": "May 12, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/unicef-says-70-children-killed-west-bank-and-east-jerusalem-2025"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-12T16:59:43-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 10,
+    "cyber": 1,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Ukraine Strikes Russian Gas Facilities in Retaliation",
+      "desc": "Ukraine launched strikes on Russian gas facilities in retaliation for recent Russian attacks that killed at least six people in Ukraine. This action escalates the ongoing conflict and highlights Ukraine's efforts to target Russia's energy infrastructure.",
+      "location": "Russia",
+      "lat": 56.1304,
+      "lng": 106.3468,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest?traffic_source=rss"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Saudi Arabia Conducts Covert Strikes on Iran",
+      "desc": "Saudi Arabia has launched unpublicized strikes on Iran in retaliation for attacks within the kingdom. This marks the first known instance of Saudi Arabia directly conducting military action on Iranian soil, indicating an increased boldness in defending against its regional rival.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-say"
+    },
+    {
+      "id": 3,
+      "type": "diplomatic",
+      "title": "UK to Deploy Assets for Strait of Hormuz Security Mission",
+      "desc": "The UK will contribute autonomous mine-hunting equipment, Typhoon fighter jets, and the warship HMS Dragon to a multinational mission securing shipping in the Strait of Hormuz. This move underscores international efforts to maintain freedom of navigation in the vital waterway.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 54.4333,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/uk-send-drones-jets-and-warship-join-defensive-mission-securing-strait-hormuz"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US Government's Energy Arm Assumes Strait of Hormuz Closure Through Late May",
+      "desc": "The U.S. Department of Energy's statistical arm anticipates the Strait of Hormuz will remain effectively shut through late May, with traffic gradually resuming from June. This assumption has led to revised forecasts for increased U.S. motor fuel prices.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 54.4333,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-governments-energy-arm-assumes-strait-hormuz-will-stay-shut-through-late-may"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Lebanon Reports 39 Killed in Israeli Strikes",
+      "desc": "Lebanese authorities report that 39 individuals were killed in recent Israeli strikes. This comes amidst continued exchanges of fire between Israel and Hezbollah, despite a recently announced ceasefire deal.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Fears of Renewed Gaza War as Hamas Disarmament Talks Stall",
+      "desc": "Israeli media reports indicate that Israel is preparing to resume hostilities due to an impasse in disarmament talks with Hamas. This signals a potential escalation of the conflict in Gaza.",
+      "location": "Gaza Strip",
+      "lat": 31.5000,
+      "lng": 34.4667,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Standoff in Strait of Hormuz Raises Risk of Full-Scale War",
+      "desc": "The ongoing standoff between the US and Iran in the Strait of Hormuz has significantly jeopardized the fragile Gulf ceasefire. Both nations' determination to maintain pressure on each other increases the risk of a slide back into all-out war.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 54.4333,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 8,
+      "type": "diplomatic",
+      "title": "Trump Critical of Iran's Ceasefire Response",
+      "desc": "US President Donald Trump has criticized Iran's counteroffer to end the war, stating the month-long ceasefire is \"unbelievably weak\" and on \"massive life support.\" Iran's response reportedly includes demands for the lifting of the US naval blockade and recognition of its sovereignty over the Strait of Hormuz.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 9,
+      "type": "cyber",
+      "title": "Iran Accuses US of 'Reckless Military Adventure'",
+      "desc": "Iran's representative Abbas Araghchi accused the US of engaging in a \"reckless military adventure,\" asserting that US attacks occur precisely when diplomatic solutions are being pursued. This highlights persistent tensions and distrust in diplomatic channels.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Israeli Military Investigates Soldier's Act Against Religious Statue in Lebanon",
+      "desc": "The Israeli military is investigating an incident where a soldier was photographed disrespecting a Virgin Mary statue in Lebanon by placing a cigarette in its mouth. This follows a previous incident involving a Christian figure, indicating potential misconduct within Israeli forces operating in the region.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 11,
+      "type": "cyber",
+      "title": "Clandestine Network Smuggles Starlink Tech into Iran",
+      "desc": "A clandestine network is reportedly smuggling Starlink terminals into Iran to circumvent internet blackouts and provide access to uncensored information. This effort aims to counter the regime's control over information flow and promote awareness of the conflict's realities.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "US Cost of Iran War Nears $29 Billion",
+      "desc": "The Pentagon announced that the cost of the war with Iran has reached approximately $29 billion, an increase of $4 billion from recent estimates. This figure includes updated costs for equipment repair, replacement, and operational expenses.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-war-iran-has-cost-29-billion-pentagon-says"
+    },
+    {
+      "id": 13,
+      "type": "diplomatic",
+      "title": "US, China Agree on Opposing Hormuz Tolls",
+      "desc": "Senior U.S. and Chinese officials have agreed that no country should be allowed to impose shipping tolls in the Strait of Hormuz. This agreement signals a potential common ground between the two powers in pressuring Iran regarding control of the vital waterway.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 54.4333,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/china-and-us-agree-opposing-hormuz-tolls-state-department-says"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Iraq and Pakistan Sign Energy Deals with Iran Amid Hormuz Control",
+      "desc": "Iraq and Pakistan have reportedly signed deals with Iran for oil and liquefied natural gas shipments from the Gulf. This demonstrates Tehran's ability to control energy flows through the Strait of Hormuz, even as regional tensions persist.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 54.4333,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/exclusive-iraq-pakistan-strike-energy-deals-iran-tehran-flexes-hormuz-control"
+    },
+    {
+      "id": 15,
+      "type": "diplomatic",
+      "title": "Trump States No Need for Xi's Help on Iran",
+      "desc": "President Donald Trump stated that while he will discuss the war in Iran with Chinese President Xi Jinping, he does not believe he requires Xi's assistance, asserting that the US will achieve victory \"peacefully or otherwise.\"",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/trump-says-he-doesnt-need-xis-help-iran"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
