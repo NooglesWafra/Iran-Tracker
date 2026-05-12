@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-05-11T20:59:44-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 7, "cyber": 3, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Sanctions Network for Aiding Iranian Oil Shipments to China", "desc": "The US government has imposed sanctions on three individuals and nine companies for facilitating Iran's oil shipments to China. This action, which includes companies based in Hong Kong and the UAE, follows previous sanctions targeting those aiding Iran's procurement of weapons and drone/missile components. The sanctions underscore ongoing efforts to disrupt Iran's revenue streams amidst the conflict.", "location": "Global/China", "lat": 35.8617, "lng": 104.1954, "date": "May 11, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/us-issues-new-sanctions-over-irans-oil-shipments-china"}, {"id": 2, "type": "kinetic", "title": "Trump Dismisses Iran Ceasefire Proposal as 'On Life Support'", "desc": "President Donald Trump declared the ceasefire with Iran to be 'on life support' after rejecting Tehran's response to a US peace proposal as 'stupid' and 'weak.' This swift dismissal raises concerns that the 10-week conflict will persist, continuing to disrupt shipping through the Strait of Hormuz.", "location": "Washington, D.C.", "lat": 38.9072, "lng": -77.0369, "date": "May 11, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/trump-says-iran-ceasefire-life-support-after-rejecting-tehrans-response"}, {"id": 3, "type": "kinetic", "title": "US Issues Alert on IRGC Efforts to Evade Sanctions", "desc": "The US Treasury Department has alerted financial institutions to the Islamic Revolutionary Guard Corps' (IRGC) attempts to circumvent US sanctions. This alert aims to help institutions identify networks supporting the IRGC, amid rising concerns about renewed hostilities in the conflict with Iran.", "location": "Washington, D.C.", "lat": 38.9072, "lng": -77.0369, "date": "May 11, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/us-issues-alert-banks-irgc-efforts-evade-sanctions"}, {"id": 4, "type": "kinetic", "title": "EU and UK Sanction Russians Over Deportations of Ukrainian Children", "desc": "The European Union and the United Kingdom have imposed sanctions on Russian institutions and officials accused of systematically deporting and indoctrinating Ukrainian children during the war. This action targets individuals and entities involved in alleged war crimes and human rights abuses.", "location": "Brussels/London", "lat": 50.8503, "lng": 4.3517, "date": "May 11, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children"}, {"id": 5, "type": "kinetic", "title": "EU Sanctions Violent Israeli Settlers and Hamas Leaders", "desc": "The European Union has agreed to impose sanctions targeting the assets of violent Israeli settlers and settler organizations, as well as Hamas leaders. This move, which faced prior vetoes, signifies increased international pressure regarding actions in the West Bank and Gaza.", "location": "Brussels", "lat": 50.8503, "lng": 4.3517, "date": "May 11, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders"}, {"id": 6, "type": "kinetic", "title": "UK Sanctions Network Accused of Planning Attacks for Iran", "desc": "Britain has frozen assets and imposed travel bans on a network accused of laundering billions and plotting Iranian-backed hostile activities. This action targets individuals and entities allegedly involved in supporting Iran's malign influence operations and attacks.", "location": "London", "lat": 51.5074, "lng": -0.1278, "date": "May 11, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran"}, {"id": 7, "type": "kinetic", "title": "Man Suspected of Plotting Violent Attack Sought to Target Louvre", "desc": "A 27-year-old man arrested in Paris is suspected of plotting a violent attack, potentially targeting the Louvre museum and the Jewish community. The individual also reportedly aimed to join ISIS in Syria or Mozambique. No specific target was finalized before his apprehension.", "location": "Paris", "lat": 48.8566, "lng": 2.3522, "date": "May 11, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/man-suspected-plotting-violent-attack-had-sought-target-louvre-officials-say"}, {"id": 8, "type": "kinetic", "title": "Lebanon Reports 39 Killed in Israeli Strikes", "desc": "Lebanon has reported that 39 people were killed in recent Israeli strikes. This escalation in violence between Israel and Hezbollah continues despite a previously announced ceasefire deal, highlighting the ongoing instability in the region.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "May 11, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cn4pjegk358o"}, {"id": 9, "type": "kinetic", "title": "Fears of Renewed Gaza War as Hamas Disarmament Talks Stall", "desc": "Reports from Israeli media suggest that Israel is preparing to resume conflict due to an impasse in talks concerning Hamas's disarmament. This development raises concerns about a potential escalation of hostilities in the Gaza Strip.", "location": "Gaza Strip", "lat": 31.4125, "lng": 34.3055, "date": "May 11, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o"}, {"id": 10, "type": "kinetic", "title": "Iran Demands Guarantees for World Cup Participation", "desc": "The Iranian Football Federation (FFIRI) has presented FIFA with 10 conditions for participation in the upcoming World Cup. These demands signal Iran's intent to leverage its potential involvement for political or security assurances amidst ongoing international tensions.", "location": "Zurich/Tehran", "lat": 47.3769, "lng": 8.5417, "date": "May 11, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/ckgpxg03v57o"}, {"id": 11, "type": "cyber", "title": "US Partners Bypass Washington Due to Adversary Integration", "desc": "Gulf Arab states are experiencing daily drone attacks, with Iranian designs refined by Russia through battlefield testing in Ukraine. This situation forces US partners to seek assistance from Ukraine, bypassing traditional US channels and highlighting a shift in security dynamics and technological dependencies.", "location": "Persian Gulf Region", "lat": 27.5474, "lng": 54.3714, "date": "May 11, 2026", "escalation": false, "url": "https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/"}, {"id": 12, "type": "cyber", "title": "UK Sanctions Network for Iranian-Backed Hostile Activity", "desc": "Britain has imposed sanctions on a network accused of plotting Iranian-backed hostile activities and laundering billions. This action targets entities involved in cyber operations and financial subterfuge aimed at disrupting Western interests and supporting Iranian objectives.", "location": "United Kingdom", "lat": 55.3781, "lng": -3.4360, "date": "May 11, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran"}, {"id": 13, "type": "cyber", "title": "Hungary's Government Passwords Exposed Online", "desc": "Nearly 800 Hungarian government email addresses and passwords have been found online, compromising the security protocols of ministries involved in sensitive work. This data breach highlights significant cybersecurity vulnerabilities within the Hungarian government infrastructure.", "location": "Budapest", "lat": 47.4979, "lng": 19.0402, "date": "Apr 09, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"}, {"id": 14, "type": "proxy", "title": "Turkey Reopens Border Crossing in Syria", "desc": "Turkey has reopened the Akcakale-Tell Abyad crossing after an 11-year closure, potentially expanding its sphere of influence in Syria. This move could alter regional dynamics and impact humanitarian aid flows.", "location": "Syria/Turkey Border", "lat": 36.6515, "lng": 38.9667, "date": "May 11, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/turkeys-border-reopening-unlocks-new-sphere-influence-syria"}, {"id": 15, "type": "proxy", "title": "Fatah al-Islam Conditions Resurface in Lebanon", "desc": "Conditions that led to the 2007 Fatah al-Islam uprising in Lebanon's Nahr al-Bared refugee camp are re-emerging. Exploitation of power vacuums and radicalization within Palestinian and Syrian populations pose a growing security risk.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "May 11, 2026", "escalation": false, "url": "https://warontherocks.com/abandoned-and-ungoverned-lebanons-palestinian-and-syrian-populations-and-the-emerging-radicalization-landscape/"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-12T01:59:31-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 14,
+    "cyber": 1,
+    "nuclear": 1
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "cyber",
+      "title": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
+      "desc": "Iran's powerful parliamentary speaker says US has 'no alternative but to accept' Tehran's 14-point proposal to end war. This indicates ongoing cyber warfare and propaganda efforts by Iran to influence the peace process.",
+      "location": "Tehran, Iran",
+      "lat": 35.6895,
+      "lng": 51.3890,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss"
+    },
+    {
+      "id": 2,
+      "type": "diplomatic",
+      "title": "US top diplomat discusses Iran, Strait of Hormuz with UK and Australia",
+      "desc": "U.S. Secretary of State Marco Rubio held separate calls with his Australian and British counterparts to discuss Iran and ongoing efforts to restore freedom of navigation in the Strait of Hormuz. This highlights ongoing diplomatic efforts to manage the fallout from the Iran conflict and maritime security concerns.",
+      "location": "Washington D.C., USA",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "May 11, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-top-diplomat-discusses-iran-strait-hormuz-uk-and-australia"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Lebanese in south refuse to flee again despite escalating Israeli strikes",
+      "desc": "Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes. This indicates continued kinetic exchanges between Israel and Hezbollah, despite previous ceasefire announcements.",
+      "location": "Southern Lebanon",
+      "lat": 33.4497,
+      "lng": 35.9017,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.al-jazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "desc": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month. This signifies ongoing kinetic conflict along the Israel-Lebanon border.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+      "desc": "Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas. This indicates a high potential for renewed kinetic conflict in the Gaza Strip.",
+      "location": "Gaza Strip",
+      "lat": 31.5000,
+      "lng": 34.4667,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
+      "desc": "The soldier was photographed putting a cigarette in the statue's mouth, in the second incident against a Christian figure in weeks. While not a direct military engagement, this incident reflects heightened tensions and potential provocations in the region.",
+      "location": "Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8623,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "desc": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy. This highlights the precarious security situation around the Strait of Hormuz and the risk of escalation.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0000,
+      "lng": 55.5000,
+      "date": "May 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 8,
+      "type": "cyber",
+      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "desc": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show 'the real picture'. This indicates efforts to circumvent Iranian internet restrictions, likely involving cyber capabilities.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 9,
+      "type": "diplomatic",
+      "title": "US issues new sanctions over Iran's oil shipments to China",
+      "desc": "The U.S. government announced sanctions against three people and nine companies for aiding Iran's shipment of oil to China. This reflects ongoing economic pressure and diplomatic maneuvering related to the Iran conflict.",
+      "location": "Washington D.C., USA",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "May 11, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-issues-new-sanctions-over-irans-oil-shipments-china"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "US hits China-linked Iran oil trade with sanctions ahead of Trump trip",
+      "desc": "The sanctions come after the United States rejected Iran's latest proposal to end the war. This action signals continued kinetic pressure and economic warfare against Iran.",
+      "location": "Washington D.C., USA",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "May 11, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-hits-china-linked-iran-oil-trade-sanctions-ahead-trump-trip"
+    },
+    {
+      "id": 11,
+      "type": "cyber",
+      "title": "US issues alert to banks on IRGC efforts to evade sanctions",
+      "desc": "The United States issued an alert to financial institutions warning of efforts by the Islamic Revolutionary Guard Corps' to evade U.S. sanctions. This suggests ongoing efforts by Iran to use financial networks, which can have cyber implications for detection and prevention.",
+      "location": "Washington D.C., USA",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "May 11, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/us-issues-alert-banks-irgc-efforts-evade-sanctions"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Turkey's border reopening unlocks new sphere of influence in Syria",
+      "desc": "Turkey reopened the Akcakale-Tell Abyad crossing on Monday, ending an 11-year closure along the Syria border. This geopolitical development could lead to shifts in regional control and potential kinetic impacts.",
+      "location": "Syria-Turkey Border",
+      "lat": 36.6937,
+      "lng": 38.9757,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/turkeys-border-reopening-unlocks-new-sphere-influence-syria"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Israel approves law on public trials, death penalty for October 7 detainees",
+      "desc": "Rights groups warn that the bill makes the death penalty easier to impose and strips fair trial protections. This law could lead to increased kinetic actions and severe legal consequences for individuals involved in the October 7 attacks.",
+      "location": "Israel",
+      "lat": 31.0461,
+      "lng": 34.7805,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "New Israeli law sets military tribunal for Hamas October 7 militants",
+      "desc": "Israel's parliament passed a law establishing a military tribunal to try hundreds of Palestinian militants who took part in the October 7, 2023 attack on Israel. This legal development is a direct consequence of kinetic actions and may lead to further conflict.",
+      "location": "Israel",
+      "lat": 31.0461,
+      "lng": 34.7805,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/new-israeli-law-sets-military-tribunal-hamas-october-7-militants"
+    },
+    {
+      "id": 15,
+      "type": "nuclear",
+      "title": "Practice Makes Deterrence: India’s Next Nuclear Challenge at Sea",
+      "desc": "India's submarine program and advancements in missile technology indicate a growing nuclear capability, posing a new challenge in the region and potentially altering the nuclear deterrence landscape.",
+      "location": "Indian Ocean",
+      "lat": 0.0000,
+      "lng": 80.0000,
+      "date": "April 03, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/practice-makes-deterrence-indias-next-nuclear-challenge-at-sea/"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
