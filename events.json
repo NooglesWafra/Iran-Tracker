@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-05-14T03:59:38-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 8, "cyber": 2, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "Israel intensifies strikes on Lebanon, killing 22", "desc": "Lebanon's health ministry reported that 22 people, including eight children, were killed in intensified Israeli airstrikes on Wednesday. The attacks targeted approximately 40 locations in southern and eastern Lebanon, occurring on the eve of new peace talks between Lebanon and Israel in Washington. Hezbollah remains opposed to these negotiations.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8613, "date": "May 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/israel-hammers-lebanon-strikes-killing-22"}, {"id": 2, "type": "kinetic", "title": "Kyiv building collapses after Russian strike", "desc": "A building in the Ukrainian capital, Kyiv, has collapsed following a Russian strike involving drones and missiles. The incident damaged several buildings, with reports indicating residents may be trapped within the debris.", "location": "Kyiv, Ukraine", "lat": 50.4501, "lng": 30.5234, "date": "May 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/05/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526"}, {"id": 3, "type": "kinetic", "title": "South Korean official links Iran to Hormuz ship attack", "desc": "A senior South Korean official suggested that the likelihood of an entity other than Iran being responsible for the attack on a South Korean cargo vessel near the Strait of Hormuz is low. South Korea is analyzing intelligence shared by the U.S. regarding the May 4 attack, which caused a fire and damaged the vessel.", "location": "Strait of Hormuz", "lat": 27.0991, "lng": 56.3127, "date": "May 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/south-korea-official-says-unlikely-anyone-iran-behind-hormuz-ship-attack-yonhap"}, {"id": 4, "type": "diplomatic", "title": "US hopes China will press Iran to change course in Gulf", "desc": "The United States is seeking to persuade China to take a more active role in encouraging Iran to de-escalate its actions in the Gulf. U.S. Secretary of State Marco Rubio expressed this hope in an interview, highlighting the ongoing tensions and the need for diplomatic pressure on Iran.", "location": "Persian Gulf", "lat": 26.0000, "lng": 52.0000, "date": "May 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/rubio-us-wants-china-press-iran-change-course-gulf"}, {"id": 5, "type": "diplomatic", "title": "Lebanon and Israel to hold new peace talks in Washington", "desc": "Lebanon and Israel are scheduled to commence new peace talks in Washington, D.C. This comes as their latest ceasefire is nearing its end. The negotiations are being brokered by the United States, following an earlier ceasefire extension announced in April.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "May 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/lebanon-israel-hold-new-talks-us-ceasefire-nears-end"}, {"id": 6, "type": "kinetic", "title": "Hezbollah support endures in south Lebanon amid ongoing conflict", "desc": "Despite ongoing Israeli attacks and occupation, many residents in southern Lebanon continue to support Hezbollah, viewing the armed group as the primary force capable of defending them. This support persists even as a ceasefire has not halted the conflict with Israel.", "location": "Southern Lebanon", "lat": 33.3000, "lng": 35.5000, "date": "May 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c9d3g6deljyo"}, {"id": 7, "type": "kinetic", "title": "Israeli strikes in southern Lebanon kill 22, including 8 children", "desc": "The Lebanese health ministry has reported that 22 individuals, eight of whom were children, were killed in a series of Israeli airstrikes in southern Lebanon. The attacks reportedly hit approximately 40 locations, intensifying amidst ongoing tensions.", "location": "Southern Lebanon", "lat": 33.3000, "lng": 35.5000, "date": "May 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o"}, {"id": 8, "type": "cyber", "title": "Efforts to destroy Iran's police infrastructure tracked", "desc": "Bellingcat has identified at least 80 police stations and related infrastructure belonging to law enforcement agencies and the Basij paramilitary group that have been damaged or destroyed since the start of the U.S. and Israeli war against Iran. Experts suggest the aim is to degrade the Iranian regime's repressive capacity.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "Apr 24, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"}, {"id": 9, "type": "kinetic", "title": "Pakistan's strategy of limited war may not keep conflict contained", "desc": "A previous Indian missile strike on Pakistani air bases saw Islamabad deliberately withhold long-range missile use, choosing not to escalate. However, nearly a year later, the sustained air conflict raises questions about whether Pakistan's logic of limited war can truly keep conflicts contained.", "location": "South Asia", "lat": 27.0000, "lng": 80.0000, "date": "May 14, 2026", "escalation": true, "url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/"}, {"id": 10, "type": "kinetic", "title": "South Korean vessel attacked in Strait of Hormuz", "desc": "A South Korean vessel was attacked in the Strait of Hormuz on May 4, 2026. President Donald Trump urged Seoul to join a U.S.-led operation to secure the waterway, a proposal South Korea is reviewing. This event highlights the ongoing maritime crisis in the region.", "location": "Strait of Hormuz", "lat": 27.0991, "lng": 56.3127, "date": "May 04, 2026", "escalation": true, "url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/"}, {"id": 11, "type": "kinetic", "title": "Iran war live: Tehran slams 'collusion' as Netanyahu 'secretly' visits UAE", "desc": "Iran's first vice president stated that Tehran's claim to the Strait of Hormuz is 'established and the matter is closed.' This comes as reports emerge of an alleged secret visit by Israeli Prime Minister Netanyahu to the UAE, which the UAE has denied.", "location": "United Arab Emirates", "lat": 24.4539, "lng": 54.3773, "date": "May 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/liveblog/2026/05/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae"}, {"id": 12, "type": "kinetic", "title": "Israel passes law allowing death penalty for 7 October attackers", "desc": "Israel has enacted a law that permits the death penalty and public trials for individuals involved in the Hamas-led attacks of October 7. This legislative change comes amidst ongoing tensions and legal proceedings related to the attacks.", "location": "Israel", "lat": 31.0000, "lng": 35.0000, "date": "May 14, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c202ngg45x8o"}, {"id": 13, "type": "proxy", "title": "Iran demands guarantees for World Cup participation", "desc": "The Iranian Football Federation (FFIRI) has submitted 10 conditions to FIFA concerning its participation in the upcoming World Cup. These demands are presented amid the ongoing conflict and broader geopolitical tensions involving Iran.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "May 14, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/ckgpxg03v57o"}, {"id": 14, "type": "kinetic", "title": "UK promises naval assets for Strait of Hormuz defence", "desc": "The United Kingdom has pledged to deploy jets, drones, and a warship to support the mission defending the Strait of Hormuz. Over 40 nations are involved in this initiative, which is set to commence once conditions permit.", "location": "Strait of Hormuz", "lat": 27.0991, "lng": 56.3127, "date": "May 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c5y909grldqo"}, {"id": 15, "type": "cyber", "title": "Internet access partially restored in Iran after months of blackout", "desc": "Following months of a near-total internet blackout during the Middle East war, limited internet access has been restored in Iran through a privileged service. This partial restoration has drawn public criticism, as millions remain unable to connect since the U.S. and Israeli attacks in February.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "May 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/after-months-blackout-iran-gives-internet-select-few"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-14T08:59:40-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 11,
+    "cyber": 1,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Israel Ramps Up Southern Lebanon Attacks Ahead of US Talks",
+      "desc": "Israel intensified its attacks in southern Lebanon, resulting in two fatalities. This escalation occurred just before crucial talks scheduled in Washington aimed at extending a ceasefire. The ongoing conflict between Israel and Hezbollah continues despite previous U.S.-backed truce efforts.",
+      "location": "Southern Lebanon",
+      "lat": 33.2530,
+      "lng": 35.6134,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Russia Launches Hundreds More Drones at Ukraine",
+      "desc": "Russia conducted a significant drone assault on Ukraine, firing over 1,560 drones since Wednesday. The attacks resulted in three civilian deaths, highlighting the persistent aerial threat to Ukrainian infrastructure and population centers.",
+      "location": "Ukraine",
+      "lat": 48.3794,
+      "lng": 31.1656,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people"
+    },
+    {
+      "id": 3,
+      "type": "diplomatic",
+      "title": "Iran Allowing Transit of Chinese Vessels in Strait of Hormuz",
+      "desc": "Iran has reportedly begun permitting some Chinese vessels to transit the Strait of Hormuz following an understanding on management protocols. This development occurred as U.S. President Donald Trump and Chinese leader Xi Jinping agreed on the necessity of open passage through the strait for energy flow during Trump's visit to Beijing.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7833,
+      "lng": 54.4333,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/iran-allowing-transit-chinese-vessels-strait-hormuz-fars-news-reports"
+    },
+    {
+      "id": 4,
+      "type": "diplomatic",
+      "title": "Iran and UAE Clash at BRICS Foreign Ministers' Meeting",
+      "desc": "Iran's foreign minister accused the United Arab Emirates of direct involvement in military operations against Iran during a BRICS meeting in New Delhi. This diplomatic spat follows the UAE's denial of a statement by Israeli Prime Minister Benjamin Netanyahu regarding his visit to the Gulf country during the Iran war.",
+      "location": "New Delhi, India",
+      "lat": 28.6139,
+      "lng": 77.2090,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/iran-and-uae-clash-brics-foreign-ministers-meeting"
+    },
+    {
+      "id": 5,
+      "type": "diplomatic",
+      "title": "Lebanon to Press Israel for Ceasefire at Washington Talks",
+      "desc": "A senior Lebanese official stated that Lebanon will demand an immediate ceasefire from Israel during face-to-face talks in Washington. Hostilities between Hezbollah and Israel persist despite a U.S.-backed truce announced last month. The talks are proceeding despite objections from Hezbollah.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/lebanon-press-israel-cease-fire-washington-talks-lebanese-official-says"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Satellite Imagery Shows Ongoing Demolitions in Southern Lebanon",
+      "desc": "Satellite imagery reveals extensive damage in southern Lebanon, with at least 46 out of 54 towns and villages within the Israeli Defense Forces' 'Yellow Line' heavily damaged or flattened. Much of this destruction has occurred despite a fragile ceasefire agreed upon last month.",
+      "location": "Southern Lebanon",
+      "lat": 33.2530,
+      "lng": 35.6134,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Israeli Strikes in Southern Lebanon Kill 22 People",
+      "desc": "A series of Israeli air strikes in southern Lebanon resulted in the deaths of 22 people, including eight children. The attacks targeted the southern region and Beirut, underscoring the ongoing violence despite ceasefire efforts.",
+      "location": "Southern Lebanon",
+      "lat": 33.2530,
+      "lng": 35.6134,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Lebanon Says Israeli Strikes Killed 39",
+      "desc": "Lebanon reported that 39 people were killed in Israeli strikes, including two paramedics who were on a rescue mission. The conflict between Israel and Hezbollah has continued despite a ceasefire agreement announced last month.",
+      "location": "Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8623,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Trump Calls Iran Ceasefire 'On Massive Life Support'",
+      "desc": "U.S. President Donald Trump described the current ceasefire in the Iran war as being 'on massive life support,' criticizing an Iranian counteroffer to end the conflict as 'unbelievably weak.' Peace talks have stalled, and the war's economic costs continue to rise.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Trump Calls Iran Response 'Totally Unacceptable'",
+      "desc": "President Donald Trump deemed Iran's response to a U.S. proposal to end the war 'totally unacceptable.' Reports indicate Iran is seeking the lifting of the U.S. naval blockade, recognition of its sovereignty over the Strait of Hormuz, and compensation for war damages.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Iran War Overshadows Trump's China Visit as Peace Talks Stall",
+      "desc": "The ongoing Iran war is a significant backdrop to President Donald Trump's visit to China, where he is expected to seek Beijing's assistance in ending the conflict. Peace talks have stalled, and the global economic impact of the war is increasing.",
+      "location": "Beijing, China",
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/iran-war-overshadows-trumps-china-visit-peace-talks-stall"
+    },
+    {
+      "id": 12,
+      "type": "cyber",
+      "title": "Iran Grants Internet Access to Select Few After Months of Blackout",
+      "desc": "Following months of a near-total internet blackout during the Middle East war, Iran has begun providing internet access to a select group of users through a privileged service. This move has generated criticism amid millions remaining offline since the U.S. and Israel attacked Iran.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/after-months-blackout-iran-gives-internet-select-few"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "South Korea Official: Iran Likely Behind Hormuz Ship Attack",
+      "desc": "A senior South Korean official indicated that the likelihood of an entity other than Iran being responsible for the attack on a South Korean cargo vessel near the Strait of Hormuz is low. South Korea is analyzing intelligence shared by the U.S. regarding the May 4 attack.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7833,
+      "lng": 54.4333,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/south-korea-official-says-unlikely-anyone-iran-behind-hormuz-ship-attack-yonhap"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Hezbollah Support Endures in South Lebanon Despite Ceasefire Failures",
+      "desc": "Despite ongoing Israeli attacks and occupation, many residents in southern Lebanon continue to support Hezbollah, viewing it as the only force capable of defense. The ceasefire has failed to halt the conflict between Hezbollah and Israel.",
+      "location": "Southern Lebanon",
+      "lat": 33.2530,
+      "lng": 35.6134,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Israel Passes Law Allowing Death Penalty and Public Trials for 7 October Attack Perpetrators",
+      "desc": "Israel has enacted a law that permits the death penalty and public trials for individuals linked to the Hamas-led attacks on October 7. This legislative action follows the unprecedented attacks and aims to implement stricter legal measures.",
+      "location": "Israel",
+      "lat": 31.0461,
+      "lng": 34.8516,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
