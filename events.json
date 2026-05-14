@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2026-05-13T17:59:38-04:00",
-  "threatLevel": "HIGH",
+  "lastUpdated": "2026-05-13T22:59:35-04:00",
+  "threatLevel": "CRITICAL",
   "weeklyStats": {
-    "kinetic": 12,
-    "cyber": 0,
+    "kinetic": 11,
+    "cyber": 1,
     "nuclear": 0
   },
   "events": [
     {
       "id": 1,
       "type": "kinetic",
-      "title": "Israeli Airstrikes Kill 22 in Lebanon",
-      "desc": "Israel intensified its airstrikes across southern Lebanon, targeting approximately 40 locations. The Lebanese health ministry reported that 22 people, including eight children, were killed in the raids. These strikes occurred on the eve of new U.S.-brokered negotiations between Lebanon and Israel, which Hezbollah strongly opposes.",
-      "location": "Lebanon",
-      "lat": 33.8566,
-      "lng": 35.8613,
-      "date": "May 13, 2026",
+      "title": "Israeli Airstrikes Intensify in Southern Lebanon",
+      "desc": "Israel has intensified its airstrikes across southern Lebanon, with the health ministry reporting 22 fatalities, including eight children. Multiple raids targeted areas south of Beirut and other locations in the country's south and east. These strikes occurred as new US-brokered peace talks between Lebanon and Israel were set to begin in Washington, despite an ongoing ceasefire.",
+      "location": "Southern Lebanon",
+      "lat": 33.2687,
+      "lng": 35.5107,
+      "date": "May 14, 2026",
       "escalation": true,
       "url": "https://www.al-monitor.com/originals/2026/05/israel-hammers-lebanon-strikes-killing-22"
     },
     {
       "id": 2,
       "type": "kinetic",
-      "title": "Saudi Jets Bomb Iran-Linked Militias in Iraq",
-      "desc": "Saudi fighter jets conducted airstrikes against targets associated with Iran-backed Shi'ite militias within Iraq during the recent conflict. Sources also indicated retaliatory strikes originating from Kuwait into Iraq. These actions were part of a wider, largely unpublicized military response in the Gulf region following the joint U.S.-Israeli strikes on Iran.",
+      "title": "Saudi and Kuwaiti Strikes Against Iran-Backed Militias in Iraq",
+      "desc": "Sources indicate that Saudi fighter jets conducted strikes against targets linked to powerful Tehran-backed Shi'ite militias in Iraq during the ongoing conflict with Iran. Additionally, retaliatory strikes were launched from Kuwait into Iraq. These actions are part of a broader, largely undisclosed pattern of military responses in the Gulf region following the joint US-Israeli strikes on Iran.",
       "location": "Iraq",
-      "lat": 33.2394,
-      "lng": 43.8276,
+      "lat": 33.2232,
+      "lng": 43.6782,
       "date": "May 13, 2026",
       "escalation": true,
       "url": "https://www.al-monitor.com/originals/2026/05/exclusive-saudi-warplanes-struck-militias-iraq-during-war-sources-say"
@@ -34,56 +34,8 @@
     {
       "id": 3,
       "type": "kinetic",
-      "title": "Russia Launches Massive Daytime Drone Barrage on Ukraine",
-      "desc": "Russia conducted a large-scale daytime drone attack across various regions of Ukraine. The barrage resulted in significant damage and casualties, with reports indicating at least six people were killed.",
-      "location": "Ukraine",
-      "lat": 48.3794,
-      "lng": 31.1656,
-      "date": "May 13, 2026",
-      "escalation": true,
-      "url": "https://www.al-azeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six"
-    },
-    {
-      "id": 4,
-      "type": "kinetic",
-      "title": "Iran Conducts Anti-Helicopter Drills in Tehran",
-      "desc": "Iran's Islamic Revolutionary Guard Corps (IRGC) held anti-helicopter drills in Tehran. This exercise follows Iran's claim of downing two U.S. helicopters in the Gulf region the previous month, which Iran stated were being used for strikes.",
-      "location": "Tehran",
-      "lat": 35.6892,
-      "lng": 51.3890,
-      "date": "May 13, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/05/irans-irgc-holds-anti-helicopter-drills-tehran-what-know"
-    },
-    {
-      "id": 5,
-      "type": "kinetic",
-      "title": "Two Lebanese Paramedics Killed in Israeli Attack",
-      "desc": "An Israeli strike resulted in the deaths of two Lebanese paramedics in Nabatieh while they were responding to an earlier attack that had killed one person. Hundreds of mourners attended their funeral.",
-      "location": "Nabatieh, Lebanon",
-      "lat": 33.3808,
-      "lng": 35.3953,
-      "date": "May 13, 2026",
-      "escalation": false,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss"
-    },
-    {
-      "id": 6,
-      "type": "diplomatic",
-      "title": "US Hopes China Will Urge Iran to Change Course in Gulf",
-      "desc": "U.S. Secretary of State Marco Rubio stated that the United States desires China's active involvement in persuading Iran to alter its actions in the Gulf. Rubio expressed this hope during an interview on Fox News.",
-      "location": "Washington D.C.",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "date": "May 13, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/05/rubio-us-wants-china-press-iran-change-course-gulf"
-    },
-    {
-      "id": 7,
-      "type": "diplomatic",
-      "title": "US Senate Blocks Bid to Limit Trump's Iran War Powers",
-      "desc": "Senate Republicans again blocked a Democratic-led resolution aimed at ending U.S. military involvement in the conflict with Iran unless authorized by Congress. However, the measure gained some ground, with three Republicans joining Democrats in voting to advance the bill, indicating growing dissent within the party.",
+      "title": "US Senate Blocks Latest Bid to Limit Trump's Iran War Powers",
+      "desc": "US Senate Republicans have again blocked a Democratic-led resolution aimed at ending the war in Iran until Congress authorizes it. While the measure failed to advance, it garnered increased support, with three Republicans joining Democrats. This vote highlights growing divisions within the Republican party regarding the ongoing conflict.",
       "location": "Washington D.C.",
       "lat": 38.9072,
       "lng": -77.0369,
@@ -92,71 +44,59 @@
       "url": "https://www.al-monitor.com/originals/2026/05/us-senate-blocks-latest-bid-rein-trump-iran-war-powers-support-grows"
     },
     {
-      "id": 8,
+      "id": 4,
       "type": "diplomatic",
-      "title": "Trump Calls Iran's Ceasefire Response 'Unacceptable'",
-      "desc": "President Donald Trump described Iran's latest counteroffer to end the conflict as 'totally unacceptable' and placed the month-long ceasefire 'on massive life support.' He criticized the proposal as 'unbelievably weak.'",
+      "title": "US Seeks China's Help to Persuade Iran to Change Course",
+      "desc": "The United States is hoping to enlist China's assistance in convincing Iran to de-escalate its actions in the Gulf. Secretary of State Marco Rubio stated that while China might encourage Iran to return to negotiations, Beijing is unlikely to abandon its economic support for its key Middle Eastern partner or cease supplying dual-use goods.",
       "location": "Washington D.C.",
       "lat": 38.9072,
       "lng": -77.0369,
       "date": "May 13, 2026",
       "escalation": false,
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo"
+      "url": "https://www.al-monitor.com/originals/2026/05/rubio-us-wants-china-press-iran-change-course-gulf"
     },
     {
-      "id": 9,
+      "id": 5,
       "type": "kinetic",
-      "title": "UK Pledges Assets for Strait of Hormuz Defence",
-      "desc": "The United Kingdom has committed to deploying fighter jets, drones, and a warship to support a multinational mission defending the Strait of Hormuz. Over 40 nations are participating in this operation, which is set to commence when conditions permit.",
-      "location": "Strait of Hormuz",
-      "lat": 27.1873,
-      "lng": 56.1722,
+      "title": "Lebanon Reports 13 Killed in Israeli Strikes, Including Two Paramedics",
+      "desc": "Lebanon's health ministry reported that 13 individuals, including two paramedics, were killed in Israeli strikes in Nabatieh. The paramedics were reportedly responding to an earlier attack that had claimed one life. The strikes occurred despite a recent ceasefire announcement, indicating continued exchanges of fire between Israel and Hezbollah.",
+      "location": "Nabatieh, Lebanon",
+      "lat": 33.3833,
+      "lng": 35.3833,
       "date": "May 13, 2026",
-      "escalation": false,
-      "url": "https://www.bbc.com/news/articles/c5y909grldqo"
-    },
-    {
-      "id": 10,
-      "type": "kinetic",
-      "title": "Lebanon Reports 13 Killed in Israeli Strikes, Including Paramedics",
-      "desc": "Lebanon's health ministry reported that 13 individuals, including two paramedics, were killed in Israeli airstrikes in southern Lebanon. The paramedics were reportedly on a rescue mission in Nabatieh following an earlier attack.",
-      "location": "Southern Lebanon",
-      "lat": 33.3808,
-      "lng": 35.3953,
-      "date": "May 13, 2026",
-      "escalation": false,
+      "escalation": true,
       "url": "https://www.bbc.com/news/articles/cx21j3xl72zo"
     },
     {
-      "id": 11,
+      "id": 6,
       "type": "kinetic",
-      "title": "Hamas Disarmament Talks Stall, Raising Fears of Renewed Gaza War",
-      "desc": "Reports from Israeli media indicate that Israel is preparing to resume military operations in Gaza due to an impasse in disarmament talks with Hamas. The negotiations have reportedly stalled, increasing concerns about a potential escalation of conflict.",
-      "location": "Gaza",
-      "lat": 31.4125,
-      "lng": 34.3076,
+      "title": "Lebanon Claims 39 Dead in Israeli Strikes Amidst Ceasefire",
+      "desc": "Lebanon has stated that 39 people were killed in recent Israeli strikes, underscoring the continued conflict between Israel and Hezbollah despite a ceasefire agreement announced last month. This escalation highlights the fragility of the current truce and ongoing hostilities in the region.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8619,
       "date": "May 13, 2026",
       "escalation": true,
-      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o"
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o"
     },
     {
-      "id": 12,
-      "type": "kinetic",
-      "title": "Standoff in Strait of Hormuz Threatens Ceasefire",
-      "desc": "The ongoing confrontation between the U.S. and Iran in the Strait of Hormuz poses a significant risk to the fragile Gulf ceasefire. Both parties' determination to maintain pressure on each other has placed the existing truce in serious jeopardy.",
-      "location": "Strait of Hormuz",
-      "lat": 27.1873,
-      "lng": 56.1722,
-      "date": "May 13, 2026",
+      "id": 7,
+      "type": "cyber",
+      "title": "Iranian Police Infrastructure Targeted in War Efforts",
+      "desc": "Bellingcat has documented damage or destruction to at least 80 police stations and infrastructure linked to law enforcement and the Basij paramilitary group in the first three weeks of the US-Israeli war against Iran. Experts suggest this is part of a strategy to degrade the Iranian regime's 'repressive capacity'.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "April 24, 2026",
       "escalation": true,
-      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo"
+      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"
     },
     {
-      "id": 13,
-      "type": "diplomatic",
+      "id": 8,
+      "type": "kinetic",
       "title": "Iran Demands Guarantees for World Cup Participation",
-      "desc": "The Iranian Football Federation (FFIRI) has presented FIFA with a list of 10 conditions that must be met to ensure Iran's participation in the 2026 World Cup, co-hosted by the United States, Mexico, and Canada.",
-      "location": "Tehran",
+      "desc": "The Iranian Football Federation (FFIRI) has presented FIFA with 10 conditions to ensure its participation in the 2026 World Cup, co-hosted by the United States, Mexico, and Canada. This development comes amidst broader tensions and ongoing conflicts in the region.",
+      "location": "Tehran, Iran",
       "lat": 35.6892,
       "lng": 51.3890,
       "date": "May 13, 2026",
@@ -164,72 +104,97 @@
       "url": "https://www.bbc.com/news/articles/ckgpxg03v57o"
     },
     {
-      "id": 14,
+      "id": 9,
       "type": "kinetic",
-      "title": "Israeli Strikes Kill 39 in Lebanon",
-      "desc": "Recent Israeli strikes in Lebanon have resulted in 39 fatalities. This escalation occurs despite a ceasefire agreement announced last month, as exchanges of fire between Israel and Hezbollah continue.",
-      "location": "Lebanon",
-      "lat": 33.8566,
-      "lng": 35.8613,
+      "title": "Netanyahu Made Secret Visit to UAE During Iran War",
+      "desc": "Israeli Prime Minister Benjamin Netanyahu reportedly made a secret visit to the United Arab Emirates during the war with Iran, meeting with Emirati President Mohammed bin Zayed. The Prime Minister's Office described the meeting as a 'historic breakthrough,' though the UAE initially denied reports of an 'alleged visit.'",
+      "location": "United Arab Emirates",
+      "lat": 23.4241,
+      "lng": 53.8478,
+      "date": "May 13, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/netanyahu-visited-uae-secretly-met-mbz-during-iran-war-israels-pm-office"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "US-Israeli Strikes on Iran Expose Limitations of Asian Partnerships in Hormuz Crisis",
+      "desc": "The ongoing crisis in the Strait of Hormuz, triggered by US-Israeli strikes on Iran, highlights a paradox: the closure of the vital waterway is primarily an Asian problem, yet Asian nations are largely absent from resolution efforts. South Korea's hesitant response to a US request for naval support underscores this disconnect, even as Asian economies suffer significant impacts.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0000,
+      "lng": 55.0000,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/"
+    },
+    {
+      "id": 11,
+      "type": "cyber",
+      "title": "Hungarian Government Passwords Exposed Online",
+      "desc": "Nearly 800 Hungarian government email addresses and associated passwords have been leaked online, revealing significant security vulnerabilities. Bellingcat's analysis indicates that 12 out of 13 ministries were affected, potentially exposing sensitive information. The passwords included trivial terms like 'Snoopy', 'Adolf', and 'Password'.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "April 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Iran's Police Infrastructure Targeted Amidst War",
+      "desc": "In the initial three weeks of the United States and Israel's war against Iran, at least 80 police stations and facilities associated with law enforcement and the Basij paramilitary group have been damaged or destroyed. Experts suggest this campaign aims to degrade the Iranian regime's capacity for repression.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "April 24, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Pakistan's Logic of Limited War Risks Escalation",
+      "desc": "Pakistan's decision in May 2025 to refrain from using its Babur cruise missile against Indian BrahMos strikes, fearing nuclear escalation, exemplifies a new logic of limited war. However, analysts warn that this strategy may not inherently keep conflicts contained, as demonstrated by the sustained air campaign following the four-day crisis.",
+      "location": "South Asia",
+      "lat": 28.5739,
+      "lng": 77.2257,
       "date": "May 13, 2026",
       "escalation": true,
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o"
+      "url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "US and China Leaders Discuss Trade, Tech, and Iran",
+      "desc": "President Trump and President Xi are holding summit talks covering trade, technology, and the ongoing war with Iran. This meeting occurs at a critical juncture for the global economy, with the Iran conflict significantly disrupting international trade.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss"
     },
     {
       "id": 15,
       "type": "kinetic",
-      "title": "Israel Deports Activists Detained on Gaza Flotilla",
-      "desc": "Israel has deported two activists, one Spanish and one Brazilian national, who were detained after participating in a Gaza-bound aid flotilla. They were apprehended by Israeli forces at sea.",
-      "location": "Gaza",
-      "lat": 31.4125,
-      "lng": 34.3076,
-      "date": "May 13, 2026",
-      "escalation": false,
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o"
+      "title": "Iran Slams 'Collusion' Amidst Netanyahu's Secret UAE Visit During War",
+      "desc": "Iran has criticized what it calls 'collusion' following reports of Israeli Prime Minister Benjamin Netanyahu's secret visit to the United Arab Emirates during the war with Iran. Iran's first vice president asserted Tehran's 'established' right to the Strait of Hormuz, declaring the matter closed.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0000,
+      "lng": 55.0000,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss"
     }
   ],
   "infrastructure": [
-    {
-      "name": "Natanz Nuclear Facility",
-      "lat": 33.7236,
-      "lng": 51.7267,
-      "note": "Primary uranium enrichment site"
-    },
-    {
-      "name": "Fordow Enrichment Facility",
-      "lat": 34.8846,
-      "lng": 50.9929,
-      "note": "Underground enrichment — restricted IAEA access"
-    },
-    {
-      "name": "Al Udeid Air Base (CENTCOM)",
-      "lat": 25.1174,
-      "lng": 51.3150,
-      "note": "US forward operating base — Qatar"
-    },
-    {
-      "name": "US 5th Fleet HQ — Bahrain",
-      "lat": 26.1921,
-      "lng": 50.5500,
-      "note": "US Naval Forces Central Command"
-    },
-    {
-      "name": "Hezbollah stronghold — South Beirut",
-      "lat": 33.8518,
-      "lng": 35.4845,
-      "note": "Primary Hezbollah operational area"
-    },
-    {
-      "name": "Houthi operational area — Sanaa",
-      "lat": 15.3694,
-      "lng": 44.1910,
-      "note": "Houthi control zone"
-    },
-    {
-      "name": "IRGC HQ — Tehran",
-      "lat": 35.7219,
-      "lng": 51.3347,
-      "note": "Islamic Revolutionary Guard Corps"
-    }
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
   ]
 }
