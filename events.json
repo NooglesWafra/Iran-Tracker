@@ -1,1 +1,367 @@
-{"lastUpdated": "2026-05-15T09:59:46-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 11, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "Israeli Strikes in Southern Lebanon", "desc": "Israel conducted new airstrikes targeting Hezbollah sites in southern Lebanon, including the Tyre region. These strikes occurred despite a fragile ceasefire and led to the deaths of at least 22 people, including eight children, according to the Lebanese health ministry. The strikes targeted specific villages, with residents urged to evacuate.", "location": "Southern Lebanon", "lat": 33.25, "lng": 35.45, "date": "May 15, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"}, {"id": 2, "type": "kinetic", "title": "Hormuz Crisis Escalates: South Korean Vessel Attacked", "desc": "A South Korean vessel was attacked in the Strait of Hormuz, prompting a call from U.S. President Donald Trump for Seoul to join a U.S.-led security operation. The incident highlights the severity of the maritime crisis in the region and its impact on international shipping and energy flows.", "location": "Strait of Hormuz", "lat": 27.2, "lng": 56.3, "date": "May 04, 2026", "escalation": true, "url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/"}, {"id": 3, "type": "kinetic", "title": "Pakistan Outpost Attack Risks Afghanistan Ceasefire", "desc": "Two assaults on a Pakistani outpost in the northwest region have resulted in over 20 fatalities, raising concerns about the stability of the ceasefire with Afghanistan. The attacks underscore the ongoing security challenges and potential for escalation in the border region.", "location": "Northwest Pakistan", "lat": 33.72, "lng": 70.82, "date": "May 15, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/15/deadly-attack-on-pakistan-outpost-puts-afghanistan-ceasefire-at-risk?traffic_source=rss"}, {"id": 4, "type": "kinetic", "title": "Lebanon Reports 39 Fatalities from Israeli Strikes", "desc": "Lebanon's health ministry reported that 39 people were killed in recent Israeli strikes, with the armed group Hezbollah and Israel continuing to exchange fire despite a previously announced ceasefire. The ongoing conflict highlights the fragility of regional stability.", "location": "Lebanon", "lat": 33.85, "lng": 35.86, "date": "May 15, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"}, {"id": 5, "type": "diplomatic", "title": "US House Rejects Resolution to Limit Trump's Iran War Powers", "desc": "The U.S. House of Representatives narrowly defeated a resolution that would have required congressional authorization for the ongoing military campaign in Iran. The close vote (212-212) indicates a divided stance on presidential war powers.", "location": "Washington D.C.", "lat": 38.8951, "lng": -77.0364, "date": "May 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/us-house-narrowly-rejects-bid-rein-trump-iran-war-powers"}, {"id": 6, "type": "kinetic", "title": "Satellite Imagery Reveals Widespread Demolitions in Southern Lebanon", "desc": "Satellite imagery indicates extensive destruction across at least 46 towns and villages in southern Lebanon, within the Israel Defense Forces' \"Yellow Line.\" This ongoing demolition activity raises concerns about the long-term impact on the region, even amid a fragile ceasefire.", "location": "Southern Lebanon", "lat": 33.25, "lng": 35.45, "date": "May 14, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"}, {"id": 7, "type": "kinetic", "title": "Iran Seizes 'Floating Armoury' Vessel in Gulf of Oman", "desc": "Reports indicate that a vessel described as a 'floating armoury' has been seized by Iranian military forces in the Gulf of Oman. This incident adds to the rising tensions and maritime security concerns in the region.", "location": "Gulf of Oman", "lat": 25.0, "lng": 57.5, "date": "May 15, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"}, {"id": 8, "type": "kinetic", "title": "Israel Strikes Hezbollah Sites in Southern Lebanon Amidst Ceasefire", "desc": "Israel's army reported strikes on Hezbollah sites in southern Lebanon, near Tyre. This occurred despite a fragile ceasefire and accusations of violations from both sides, highlighting the persistent conflict and its impact on the region.", "location": "Southern Lebanon", "lat": 33.25, "lng": 35.45, "date": "May 15, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/israel-strikes-lebanon-talks-us-enter-second-day"}, {"id": 9, "type": "kinetic", "title": "Lebanese Paramedics Killed in Israeli Strikes", "desc": "Lebanon's health ministry reported that two paramedics were among 13 individuals killed in Israeli strikes in Nabatieh, southern Lebanon. The casualties occurred while they were responding to an earlier attack, underscoring the deadly impact of the ongoing hostilities.", "location": "Nabatieh, Lebanon", "lat": 33.378, "lng": 35.385, "date": "May 15, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss"}, {"id": 10, "type": "cyber", "title": "Iran Seeks Guarantees for World Cup Participation", "desc": "The Iranian Football Federation has presented FIFA with 10 conditions for the national team's participation in the World Cup. This move indicates Iran's intention to leverage international platforms amidst geopolitical tensions.", "location": "Zurich, Switzerland", "lat": 47.3769, "lng": 8.5417, "date": "May 15, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss"}, {"id": 11, "type": "diplomatic", "title": "BRICS Meeting Collapses Over Iran Conflict Disagreements", "desc": "A second consecutive BRICS meeting has failed to reach a joint position due to internal disagreements concerning the ongoing war involving Iran. This highlights the divisive impact of the conflict on international alliances.", "location": "BRICS Summit Location (unspecified)", "lat": 0, "lng": 0, "date": "May 15, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/5/15/why-the-iran-conflict-is-becoming-a-problem-for-brics?traffic_source=rss"}, {"id": 12, "type": "kinetic", "title": "Iranian Activist Describes Intensified Trauma Amidst War Fears", "desc": "A dissident in Tehran has shared her experiences of increased psychological pressure and helplessness due to the fear of war restarting, alongside the ongoing repression. This highlights the pervasive psychological impact of regional instability.", "location": "Tehran, Iran", "lat": 35.6892, "lng": 51.3890, "date": "May 15, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss"}, {"id": 13, "type": "kinetic", "title": "UAE to Expedite Second Oil Pipeline Construction", "desc": "The UAE is prioritizing the construction of a second oil pipeline to bypass the Strait of Hormuz, aiming to double oil export capacity. This strategic move is a direct response to the ongoing disruptions and security concerns in the Persian Gulf.", "location": "United Arab Emirates", "lat": 24.45, "lng": 54.37, "date": "May 15, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/uae-fast-track-construction-second-oil-pipeline-bypassing-hormuz-what-know"}, {"id": 14, "type": "kinetic", "title": "India Hikes Fuel Prices Amidst Iran Crisis", "desc": "India, a major oil importer, has announced increased fuel prices and austerity measures due to the energy crisis exacerbated by the war in Iran. This demonstrates the global economic repercussions of the regional conflict.", "location": "India", "lat": 20.5937, "lng": 78.9629, "date": "May 15, 2026", "escalation": false, "url": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss"}, {"id": 15, "type": "kinetic", "title": "Egypt Farmers Impacted by Iran War Price Surge", "desc": "Soaring fertilizer and energy prices, driven by the war in Iran, are severely impacting Egyptian smallholder farmers. Many are being forced to reduce land use and lay off workers, highlighting the conflict's broader economic consequences.", "location": "Egypt", "lat": 26.8206, "lng": 30.8025, "date": "May 15, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/egypt-farmers-hit-iran-war-price-surge"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-15T14:59:45-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 18,
+    "cyber": 3,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Russian strike kills 24 in Kyiv",
+      "desc": "Ukraine's air force reported that a significant aerial assault on Kyiv resulted in 24 fatalities. This attack is described as one of the largest since the conflict began, indicating a potential escalation in Russian tactics.",
+      "location": "Kyiv",
+      "lat": 50.4501,
+      "lng": 30.5234,
+      "date": "May 15, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Russian forces pound Kyiv as eastern advance stalls",
+      "desc": "Russian forces have intensified attacks on Kyiv while their ground advance in eastern Ukraine has slowed considerably. Ukraine's successful disruption campaign is hindering Russian arms and fuel supply to the front lines.",
+      "location": "Kyiv",
+      "lat": 50.4501,
+      "lng": 30.5234,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss"
+    },
+    {
+      "id": 3,
+      "type": "diplomatic",
+      "title": "BRICS talks end without joint statement amid Iran war divisions",
+      "desc": "Disagreements over the ongoing war involving Iran have led to the BRICS summit concluding without a joint statement. Iran's Foreign Minister urged member states to condemn actions by the US and Israel.",
+      "location": "Unknown",
+      "lat": 0,
+      "lng": 0,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Israel kills seven in Lebanon amid ongoing talks",
+      "desc": "Israeli forces conducted strikes in southern Lebanon, killing seven individuals. This occurred as Israel and Lebanon were engaged in their third round of direct talks, facilitated by the US, to discuss security and border issues.",
+      "location": "Southern Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8615,
+      "date": "May 15, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/15/israel-kills-seven-in-lebanon-as-direct-talks-continue-in-us-for-second-day?traffic_source=rss"
+    },
+    {
+      "id": 5,
+      "type": "cyber",
+      "title": "Meta faces lawsuit over scam ads",
+      "desc": "Santa Clara County has filed a lawsuit against Meta, alleging the company failed to regulate scam advertisements on its platforms. This adds to the mounting legal challenges faced by Meta, following a significant ruling against the social media giant.",
+      "location": "California",
+      "lat": 37.1547,
+      "lng": -120.9736,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/15/california-county-scam-ad-lawsuit-adds-to-mounting-meta-legal-woes?traffic_source=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "India and UAE sign defense pacts amidst Iran war tensions",
+      "desc": "India and the United Arab Emirates have signed defense agreements focusing on maritime security, cyber defense, and military collaboration. This occurred as regional tensions remain high due to the ongoing war involving Iran.",
+      "location": "UAE",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Satellite imagery shows ongoing demolitions in Southern Lebanon",
+      "desc": "Satellite imagery reveals extensive destruction in southern Lebanon, with at least 46 out of 54 surveyed towns and villages heavily damaged or flattened. This comes despite a fragile ceasefire between Israel and Hezbollah.",
+      "location": "Southern Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8615,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Destruction at DRC mines under M23 control",
+      "desc": "At least four landslides have been reported at the Rubaya mines in the Democratic Republic of Congo since the start of 2026, killing hundreds. The mines are currently under the control of the M23 group.",
+      "location": "Democratic Republic of Congo",
+      "lat": -4.0383,
+      "lng": 22.1931,
+      "date": "May 12, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/africa/2026/05/12/congos-coltan-belt-verifying-deadly-landslides-at-mines-under-m23-control/"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Efforts to destroy Iran's police infrastructure tracked",
+      "desc": "Bellingcat has identified over 80 police stations and related infrastructure damaged or destroyed in Iran during the first three weeks of conflict with the US and Israel. Experts suggest the aim is to degrade the regime's repressive capacity.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.688,
+      "date": "Apr 24, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Tool for damage assessment in Iran and the Gulf",
+      "desc": "A new tool has been developed to assess damage in the conflict zones of Iran and the Gulf, particularly useful as access to open-source visuals is sporadic due to communication blackouts. This tool helps analyze satellite imagery to document destruction.",
+      "location": "Iran / Persian Gulf",
+      "lat": 27.5,
+      "lng": 54.0,
+      "date": "Apr 07, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "UAE downplays successful Iranian strikes",
+      "desc": "Authorities in the United Arab Emirates have allegedly downplayed damage and misrepresented interceptions of Iranian drone strikes. Bellingcat's review indicates official statements do not always align with open-source evidence.",
+      "location": "United Arab Emirates",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "date": "Apr 02, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/02/war-uae-iran-infuencer-dubai-conflict-drone-successful-strike-intercept-fire/"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Pro-Gaza activist faces deportation push",
+      "desc": "Lawyers for a pro-Palestinian activist are seeking to terminate deportation proceedings, alleging the Trump administration orchestrated the case. The activist was detained as part of a crackdown on foreigners linked to pro-Palestinian activities.",
+      "location": "United States",
+      "lat": 39.7837,
+      "lng": -100.4459,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/pro-gaza-activist-seeks-reopen-case-over-trump-influence-claim"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Israeli strikes wound dozens in Lebanon",
+      "desc": "New Israeli strikes in southern Lebanon targeting Hezbollah wounded 37 people. This occurred as Lebanese and Israeli envoys began their second day of peace talks in Washington, with the UN condemning the civilian toll.",
+      "location": "Southern Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8615,
+      "date": "May 15, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/israeli-strikes-wound-dozens-lebanon-talks-us-enter-second-day"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "UAE to fast-track second oil pipeline",
+      "desc": "The UAE is prioritizing the completion of a second oil pipeline designed to bypass the Strait of Hormuz. This project aims to double oil exports via the Gulf of Oman and ensure supply continuity amid regional conflicts.",
+      "location": "United Arab Emirates",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/uae-fast-track-construction-second-oil-pipeline-bypassing-hormuz-what-know"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Netanyahu claims secret UAE visit, sparking fury",
+      "desc": "Israeli Prime Minister Netanyahu publicly revealed a secret visit to the UAE, causing embarrassment and anger in Abu Dhabi. This occurred as UAE-Israeli cooperation against Iran was reportedly deepening.",
+      "location": "United Arab Emirates",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/reckless-act-netanyahu-sparks-uae-fury-claiming-secret-visit"
+    },
+    {
+      "id": 16,
+      "type": "kinetic",
+      "title": "Ceasefire holds but demolitions continue in Lebanon",
+      "desc": "Although the ceasefire between Israel and Hezbollah is largely holding, satellite imagery confirms ongoing demolitions in southern Lebanon. Significant damage has been reported in numerous towns and villages.",
+      "location": "Southern Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8615,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 17,
+      "type": "kinetic",
+      "title": "'Floating armoury' ship seized by Iran in Gulf of Oman",
+      "desc": "Reports indicate that a vessel described as a 'floating armoury' has been seized by Iranian military personnel in the Gulf of Oman. This incident adds to the maritime security concerns in the region.",
+      "location": "Gulf of Oman",
+      "lat": 25.0,
+      "lng": 57.0,
+      "date": "May 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 18,
+      "type": "kinetic",
+      "title": "Hezbollah support remains strong in south Lebanon despite ceasefire failures",
+      "desc": "Despite ongoing Israeli attacks and occupation, many residents in southern Lebanon continue to support Hezbollah, viewing the group as the primary force capable of defending them. This sentiment persists even as the ceasefire struggles to fully halt hostilities.",
+      "location": "Southern Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8615,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 19,
+      "type": "kinetic",
+      "title": "Netanyahu confirms 'secret visit' to UAE during Iran war",
+      "desc": "Israeli Prime Minister Netanyahu stated he secretly visited the UAE during the conflict with Iran. The UAE initially denied reports of the visit, emphasizing that relations were not based on 'unofficial arrangements'.",
+      "location": "United Arab Emirates",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 20,
+      "type": "kinetic",
+      "title": "Israeli strikes in southern Lebanon kill 22, including children",
+      "desc": "At least 22 people, including eight children, were killed in southern Lebanon following a series of Israeli air strikes. The health ministry reported the casualties.",
+      "location": "Southern Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8615,
+      "date": "May 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 21,
+      "type": "kinetic",
+      "title": "Lebanon reports 13 killed in Israeli strikes, including paramedics",
+      "desc": "Lebanon's health ministry reported that 13 people were killed in Israeli strikes in Nabatieh, southern Lebanon. Among the casualties were two paramedics who were on a rescue mission.",
+      "location": "Nabatieh, Lebanon",
+      "lat": 33.3853,
+      "lng": 35.3807,
+      "date": "May 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 22,
+      "type": "kinetic",
+      "title": "UK pledges air and naval assets for Strait of Hormuz defence",
+      "desc": "The United Kingdom has committed to providing jets, drones, and a warship to support the defence mission in the Strait of Hormuz. This initiative involves over 40 participating nations and is set to commence when conditions permit.",
+      "location": "Strait of Hormuz",
+      "lat": 26.8206,
+      "lng": 54.3667,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 23,
+      "type": "diplomatic",
+      "title": "Trump calls Iran ceasefire 'on massive life support'",
+      "desc": "US President Trump described the current ceasefire with Iran as being 'on massive life support', criticizing Iran's counteroffer to end the war as 'unbelievably weak'. The month-long ceasefire appears to be critically endangered.",
+      "location": "Unknown",
+      "lat": 0,
+      "lng": 0,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 24,
+      "type": "diplomatic",
+      "title": "EU imposes sanctions on Israeli settlers over West Bank violence",
+      "desc": "The European Union has agreed to implement sanctions targeting Israeli settlers responsible for violence in the West Bank. The EU's foreign policy chief stated that 'extremism and violence carry consequences,' a move Israel has branded as 'arbitrary'.",
+      "location": "West Bank",
+      "lat": 31.9522,
+      "lng": 35.2332,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 25,
+      "type": "diplomatic",
+      "title": "Trump calls Iran's response to peace proposal 'totally unacceptable'",
+      "desc": "US President Trump has rejected Iran's counteroffer to end the war, deeming it 'totally unacceptable.' Iran's reported demands include lifting the US naval blockade, recognition of its sovereignty over the Strait of Hormuz, and compensation for war damages.",
+      "location": "Unknown",
+      "lat": 0,
+      "lng": 0,
+      "date": "May 15, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 26,
+      "type": "kinetic",
+      "title": "Lebanon reports 39 killed in Israeli attacks",
+      "desc": "Lebanon has reported that 39 people were killed in recent Israeli attacks. Hostilities between Israel and Hezbollah continue despite a ceasefire agreement announced last month.",
+      "location": "Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8615,
+      "date": "May 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
