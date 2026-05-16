@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-05-16T00:59:45-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 8, "cyber": 0, "nuclear": 1}, "events": [{"id": 1, "type": "kinetic", "title": "Israel Launches Deadly Air Strikes on Gaza City", "desc": "At least seven Palestinians were killed in Gaza City when Israeli air strikes hit a residential building and a vehicle. Israel stated that the strikes targeted a Hamas member, described as one of the architects of the October 7 massacre.", "location": "Gaza City", "lat": 31.5238, "lng": 34.4513, "date": "May 16, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"}, {"id": 2, "type": "kinetic", "title": "Lebanon Says Six Killed in Israeli Strike as US Announces Ceasefire Extension", "desc": "Lebanon's Ministry of Health reported six people killed in an Israeli strike, amidst a US announcement extending the ceasefire. Israel has continued strikes, stating they are not subject to the truce. Hezbollah, which is not part of the ceasefire diplomacy, remains a factor in the ongoing conflict.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "May 16, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/israel-lebanon-say-extending-ceasefire-despite-new-strikes"}, {"id": 3, "type": "kinetic", "title": "Israeli Strikes in Southern Lebanon Kill 22 People", "desc": "A series of Israeli air strikes in southern Lebanon resulted in the deaths of 22 people, including eight children, according to the Lebanese health ministry. The strikes hit areas including Nabatieh, where two paramedics were killed while on a rescue mission.", "location": "Southern Lebanon", "lat": 33.3726, "lng": 35.3897, "date": "May 16, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"}, {"id": 4, "type": "kinetic", "title": "'Floating Armoury' Ship Reportedly Seized by Iran", "desc": "A vessel described as a 'floating armoury' operating in the Gulf of Oman has reportedly been seized by Iranian military personnel. The incident raises concerns about maritime security in the region.", "location": "Gulf of Oman", "lat": 24.8591, "lng": 57.1645, "date": "May 16, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"}, {"id": 5, "type": "kinetic", "title": "Iran War Live: Lebanon, Israel Extend Truce; Tehran Ready for More US Talks", "desc": "Lebanon and Israel have agreed to extend a ceasefire, with the US facilitating expanded talks for a political settlement. Despite this, Israel has conducted new strikes, asserting they are outside the truce's scope. The conflict continues to impact civilian populations.", "location": "Middle East", "lat": 27.0000, "lng": 50.0000, "date": "May 16, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"}, {"id": 6, "type": "kinetic", "title": "US Says Iran-Backed Militia Commander Planned Jewish Site Attacks", "desc": "US authorities have detailed charges against Mohammad Baqer Saad Dawood Al-Saadi, a commander in Kataeb Hezbollah, an Iran-linked militia. He is accused of plotting attacks against Jewish targets in Europe and North America in retaliation for the war against Iran.", "location": "Iraq", "lat": 33.0000, "lng": 43.0000, "date": "May 16, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/us-says-iran-backed-militia-commander-planned-jewish-site-attacks"}, {"id": 7, "type": "nuclear", "title": "Trump says 20-year nuclear programme suspension by Iran would be enough", "desc": "US President Trump stated that Iran would need to suspend its nuclear program for 20 years and demonstrate a genuine commitment to removing nuclear fuel and halting uranium enrichment to satisfy US demands.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "May 16, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss"}, {"id": 8, "type": "kinetic", "title": "Israel Passes Law to Allow Death Penalty for Those Linked to October 7", "desc": "Israel has enacted a law permitting the death penalty and public trials for individuals involved in the Hamas-led attacks on October 7th. This legislation introduces a new punitive measure for those convicted of terrorism-related offenses.", "location": "Israel", "lat": 31.4117, "lng": 35.1043, "date": "May 16, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"}, {"id": 9, "type": "diplomatic", "title": "Satellite Imagery Shows Ongoing Demolitions Across Southern Lebanon", "desc": "Despite a ceasefire, satellite imagery reveals extensive demolitions and destruction in southern Lebanese towns and villages within the 'Yellow Line' established by the IDF. Significant damage has been reported in at least 46 out of 54 surveyed locations.", "location": "Southern Lebanon", "lat": 33.3726, "lng": 35.3897, "date": "May 14, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"}, {"id": 10, "type": "kinetic", "title": "US-Israel War Against Iran: Efforts to Destroy Police Infrastructure", "desc": "In the initial weeks of the conflict between the US/Israel and Iran, at least 80 police stations and associated infrastructure have been damaged or destroyed. Experts suggest this is part of a strategy to degrade the Iranian regime's 'repressive capacity'.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "April 24, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"}, {"id": 11, "type": "kinetic", "title": "The War You’re Not Allowed to See: UAE Downplays Iranian Strikes", "desc": "Authorities in the United Arab Emirates have reportedly downplayed damage and mischaracterized interceptions related to Iranian drone strikes. This selective reporting contrasts with open-source evidence and suggests an effort to control the narrative surrounding the conflict.", "location": "United Arab Emirates", "lat": 23.9036, "lng": 51.2967, "date": "April 02, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/02/war-uae-iran-infuencer-dubai-conflict-drone-successful-strike-intercept-fire/"}, {"id": 12, "type": "diplomatic", "title": "Trump's China Summit Fails to Yield Breakthrough on Iran", "desc": "A high-profile summit between US President Donald Trump and Chinese leader Xi Jinping concluded without significant breakthroughs on the issue of Iran. While the visit involved extensive discussions, no new agreements or resolutions concerning Iran were announced.", "location": "Beijing, China", "lat": 39.9042, "lng": 116.4074, "date": "May 15, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/why-china-didnt-hand-trump-breakthrough-iran"}, {"id": 13, "type": "diplomatic", "title": "Pro-Gaza Activist Seeks to Reopen Case Over Alleged Trump Administration Influence", "desc": "Lawyers for Mahmoud Khalil, a pro-Palestinian protest leader, are petitioning US immigration authorities to halt deportation proceedings. They allege the Trump administration 'secretly engineered' the outcome of his case, raising concerns about political influence on legal matters.", "location": "United States", "lat": 39.8283, "lng": -98.5795, "date": "May 15, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/05/pro-gaza-activist-seeks-reopen-case-over-trump-influence-claim"}, {"id": 14, "type": "kinetic", "title": "Iraqi Militia Leader Arrested in US Custody Linked to Pro-Iran Group", "desc": "An Iraqi militia leader, identified as Mohammad Baqer Saad Dawood Al-Saadi, has been taken into US custody. He is allegedly linked to a pro-Iran group suspected of orchestrating attacks against Jewish communities in Europe and North America.", "location": "United States", "lat": 39.8283, "lng": -98.5795, "date": "May 15, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/05/iraqi-militia-leader-us-custody-after-arrest-what-know"}, {"id": 15, "type": "kinetic", "title": "Lebanon Extends Ceasefire with Israel Amidst Continued Strikes", "desc": "Israel and Lebanon have agreed to extend a ceasefire, with the US announcing expanded talks for a political settlement. However, Israel has continued to conduct strikes, asserting they are not subject to the truce, while Hezbollah, an Iran-backed group, remains active.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "May 16, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-05-16T05:59:36-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 11,
+    "cyber": 2,
+    "nuclear": 2
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "diplomatic",
+      "title": "Israel and Lebanon Hold Third Round of Direct Talks",
+      "desc": "Israel and Lebanon are engaged in their third round of direct talks, facilitated by the United States, focusing on border demarcation, Hezbollah disarmament, and Israeli military actions. The US seeks a comprehensive peace agreement contingent on Lebanese action against Hezbollah, presenting a challenge as Lebanon is the most injured party and has domestic constraints.",
+      "location": "Israel/Lebanon border region",
+      "lat": 33.0000,
+      "lng": 36.0000,
+      "date": "May 16, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/in-talks-with-israel-lebanon-is-walking-a-thin-line/"
+    },
+    {
+      "id": 2,
+      "type": "diplomatic",
+      "title": "US Charges Iran-Backed Kataib Hezbollah Commander",
+      "desc": "The US Justice Department has arrested and charged an Iraqi national, identified as a senior commander in the Iran-backed Kataib Hezbollah militia. The individual is accused of plotting terrorism against Jewish communities in Europe, Canada, and the United States in retaliation for the war against Iran.",
+      "location": "Baghdad, Iraq",
+      "lat": 33.3128,
+      "lng": 44.3615,
+      "date": "May 16, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israel Launches Air Strikes on Gaza City Apartment Building",
+      "desc": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City. This event is part of the ongoing conflict in the region.",
+      "location": "Gaza City",
+      "lat": 31.5000,
+      "lng": 34.4667,
+      "date": "May 16, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Israel Claims Killing of Hamas Commander in Gaza Air Strike",
+      "desc": "Israel announced it killed Izz ad-Din al-Haddad, described as 'one of the architects of the October 7 massacre', in an air strike in Gaza City. This strike is part of the ongoing military operations in the region.",
+      "location": "Gaza City",
+      "lat": 31.5000,
+      "lng": 34.4667,
+      "date": "May 16, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Iranian Filmmaker Condemns Civilian Killings and Protest Massacres",
+      "desc": "Oscar-winning Iranian director Asghar Farhadi condemned both civilian deaths from US and Israeli attacks on Iran and the 'massacring' of protesters by the Iranian government, highlighting the internal and external pressures on Iran.",
+      "location": "Tehran, Iran",
+      "lat": 35.6892,
+      "lng": 51.3890,
+      "date": "May 16, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/05/iranian-filmmaker-farhadi-condemns-middle-east-war-protest-massacres"
+    },
+    {
+      "id": 6,
+      "type": "nuclear",
+      "title": "Trump: 20-Year Nuclear Program Suspension for Iran Sufficient",
+      "desc": "US President Trump stated that a 20-year suspension of Iran's nuclear program, coupled with a commitment to remove nuclear fuel and cease uranium enrichment, would be acceptable. This indicates a potential shift in US demands regarding Iran's nuclear activities.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "May 16, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Lebanon Reports 13 Killed in Israeli Strikes, Including Paramedics",
+      "desc": "Lebanon's health ministry reported that 13 people, including two paramedics, were killed in Israeli strikes in southern Lebanon. The paramedics were reportedly on a rescue mission following an earlier attack. This escalation highlights ongoing hostilities.",
+      "location": "Southern Lebanon",
+      "lat": 33.3000,
+      "lng": 35.7500,
+      "date": "May 16, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Iranian 'Floating Armoury' Vessel Reportedly Seized in Gulf of Oman",
+      "desc": "A vessel described as a 'floating armoury' has reportedly been seized by Iranian military personnel in the Gulf of Oman. This incident raises concerns about maritime security and potential escalations in the region.",
+      "location": "Gulf of Oman",
+      "lat": 25.0000,
+      "lng": 58.0000,
+      "date": "May 16, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 9,
+      "type": "cyber",
+      "title": "Hungarian Government Passwords Exposed Online",
+      "desc": "Nearly 800 Hungarian government email addresses and associated passwords have been leaked online, exposing vulnerabilities in the security protocols of ministries involved in sensitive work. This data breach affects 12 out of 13 ministries.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "Apr 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
+    },
+    {
+      "id": 10,
+      "type": "cyber",
+      "title": "US Charges Alleged Iran-Backed Kataib Hezbollah Suspect",
+      "desc": "The US has arrested and charged an Iraqi national, identified as a senior commander of an Iran-backed group, with allegedly planning terrorist attacks against Jewish communities in Europe, Canada, and the United States. This action signals a significant move against Iran-linked militant activities.",
+      "location": "United States",
+      "lat": 39.8283,
+      "lng": -98.5795,
+      "date": "May 16, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/05/iraqi-militia-leader-us-custody-after-arrest-what-know"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Israeli Settler Detains Palestinian in West Bank",
+      "desc": "An armed Israeli settler blindfolded and detained a Palestinian man in the occupied West Bank, an incident captured on video and highlighting ongoing tensions in the region.",
+      "location": "West Bank",
+      "lat": 32.0000,
+      "lng": 35.2500,
+      "date": "May 16, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Gunmen Kidnap Dozens of Students in Nigeria's Borno State",
+      "desc": "Dozens of students have been kidnapped by gunmen in Nigeria's Borno State. The attack, which bears the hallmarks of the Boko Haram group, underscores the ongoing security challenges in the region.",
+      "location": "Borno State, Nigeria",
+      "lat": 11.5000,
+      "lng": 13.5000,
+      "date": "May 16, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Israeli Strikes in Southern Lebanon Kill 22 People",
+      "desc": "At least 22 people, including eight children, were killed in a series of Israeli air strikes in southern Lebanon. This represents a significant escalation of violence in the region.",
+      "location": "Southern Lebanon",
+      "lat": 33.3000,
+      "lng": 35.7500,
+      "date": "May 16, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c9k2zekj8y9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 14,
+      "type": "nuclear",
+      "title": "Trump Signals Openness to Talks as Lebanon Truce Extended",
+      "desc": "Iran stated that President Trump signaled openness to talks, while the ceasefire between Lebanon and Israel was extended. However, a deadlock persists over Tehran's nuclear program, indicating complex diplomatic dynamics.",
+      "location": "Tehran, Iran",
+      "lat": 35.6892,
+      "lng": 51.3890,
+      "date": "May 16, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "US and Nigerian Forces Kill ISIL Commander",
+      "desc": "President Trump announced that US and Nigerian forces conducted a joint operation resulting in the death of Abu-Bilal al-Minuki, the second-in-command of ISIL. Al-Minuki was designated a 'global terrorist' in 2023.",
+      "location": "Nigeria",
+      "lat": 10.0000,
+      "lng": 8.0000,
+      "date": "May 16, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
