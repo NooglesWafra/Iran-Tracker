@@ -1,1 +1,235 @@
-{"lastUpdated": "2026-06-08T22:59:09-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 15, "cyber": 2, "nuclear": 1}, "events": [{"id": 1, "type": "kinetic", "title": "Israel Continues Strikes on Lebanon Amidst Iran Ceasefire", "desc": "Despite a halt in direct hostilities with Iran, Israel continues its military operations against Hezbollah in southern Lebanon. The Lebanese health ministry reported at least 14 fatalities on Monday, including paramedics, highlighting the ongoing conflict despite a US-brokered partial ceasefire aimed at de-escalating tensions in the region.", "location": "Southern Lebanon", "lat": 33.4286, "lng": 35.9042, "date": "Jun 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/lebanon-says-israeli-strikes-south-kill-14-attacks-persist-despite-iranian-threat"}, {"id": 2, "type": "kinetic", "title": "US Warns Netanyahu Against Renewed War with Iran", "desc": "US President Donald Trump reportedly warned Israeli Prime Minister Benjamin Netanyahu against re-engaging in conflict with Iran, stating that Israel might find itself fighting alone. This warning comes amidst ongoing tensions and sporadic exchanges of fire in the region, complicating diplomatic efforts to maintain a ceasefire.", "location": "Jerusalem", "lat": 31.7719, "lng": 35.2170, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/trump-warned-netanyahu-against-renewed-iran-war-axios-reports"}, {"id": 3, "type": "kinetic", "title": "Lebanese President Appeals for Talks Over War with Israel", "desc": "Lebanese President Joseph Aoun directly appealed to the Israeli government and its people to pursue negotiations rather than continued conflict. He emphasized that a military solution would not yield lasting security and expressed Lebanon's readiness for dialogue.", "location": "Beirut", "lat": 33.8869, "lng": 35.5134, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/lebanese-president-appeals-israeli-government-pursue-talks-not-war"}, {"id": 4, "type": "kinetic", "title": "Israeli Minister Under Investigation in Italy Over Gaza Flotilla", "desc": "Italian prosecutors have launched an investigation into Israel's National Security Minister Itamar Ben-Gvir concerning the treatment of activists from a Gaza flotilla. He is being investigated on suspicion of torture and kidnapping of Italian citizens involved in the event.", "location": "Rome", "lat": 41.9028, "lng": 12.4964, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/israeli-minister-ben-gvir-under-investigation-italy-over-gaza-flotilla"}, {"id": 5, "type": "kinetic", "title": "Iran Threatens to Defeat US Naval Blockade", "desc": "Iran's top negotiator, Mohammad Baqer Qalibaf, stated that Iran would turn the US naval blockade into another 'defeat for the enemy'. He indicated a strategy of selective engagement, fighting and negotiating on Iran's own terms, with the ultimate goal of ending the war and achieving stable security.", "location": "Strait of Hormuz", "lat": 27.2251, "lng": 51.7747, "date": "Jun 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/iran-top-negotiator-threatens-defeat-us-blockade-iran"}, {"id": 6, "type": "kinetic", "title": "Israel Strikes Beirut Suburb Despite Truce", "desc": "Israel conducted airstrikes on suburbs of Beirut, stating the action was a response to Hezbollah's cross-border fire. This escalation occurred days after a US-brokered truce aimed at de-escalating the conflict between Israel and Hezbollah.", "location": "Beirut", "lat": 33.8869, "lng": 35.5134, "date": "Jun 08, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c0qyevk8139o"}, {"id": 7, "type": "kinetic", "title": "US Military Aided Israel in Intercepting Iranian Missiles", "desc": "The US military provided assistance to Israel in intercepting Iranian missile attacks. These exchanges followed Israeli airstrikes on the outskirts of Beirut, despite the White House having publicly expressed opposition to such actions.", "location": "Eastern Mediterranean", "lat": 33.8568, "lng": 35.8474, "date": "Jun 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/us-military-helped-israel-intercept-irans-missiles-what-know"}, {"id": 8, "type": "kinetic", "title": "Bahrain Bans Mourning of Iran's Khamenei Amid Regional Tensions", "desc": "Bahrain has prohibited public mourning for Iran's recently deceased leader, Ayatollah Ali Khamenei. This move reflects heightened tensions in the Gulf region, exacerbated by recent Iranian attacks on Bahrain and Kuwait, and the renewed conflict between Iran and Israel.", "location": "Manama", "lat": 26.2355, "lng": 50.5765, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/bahrain-bans-mourning-irans-khamenei-gulf-reels-attacks"}, {"id": 9, "type": "kinetic", "title": "Iran and Israel Agree to Pause Strikes, Warn of Retaliation", "desc": "Both Iran and Israel have announced a temporary pause in their military operations, with leaders from both nations warning of renewed retaliation if the ceasefire is violated. Israel's Prime Minister stated that the country is holding fire 'at the moment', following a similar announcement from Iran's armed forces.", "location": "Middle East", "lat": 31.0000, "lng": 37.0000, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cj6ge150z5go"}, {"id": 10, "type": "kinetic", "title": "Israeli Strikes Kill 11 in Gaza City", "desc": "Medical officials reported that Israeli airstrikes on four residential buildings in Gaza City resulted in the deaths of 11 people, including women and children. The Israeli military stated that the strikes targeted four Hamas security officials.", "location": "Gaza City", "lat": 31.5274, "lng": 34.4520, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro"}, {"id": 11, "type": "kinetic", "title": "Iranian Drone Strikes Hit Kuwait Airport, Causing Casualties", "desc": "Iran claimed responsibility for drone attacks on Kuwait International Airport, stating the action was in retaliation for earlier US strikes on an Iranian oil tanker and a strategic island. The attack resulted in one fatality and dozens of injuries.", "location": "Kuwait City", "lat": 29.3759, "lng": 47.9594, "date": "Jun 08, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c5yx135yg53o"}, {"id": 12, "type": "kinetic", "title": "US Strikes Iranian Radar Sites Amid Kuwait Attacks", "desc": "The United States confirmed strikes on Iranian radar sites in response to Iran's drone attacks targeting American forces in Kuwait. Both nations reported fresh military actions in the vicinity of the Strait of Hormuz, with Kuwait condemning the repeated Iranian assaults.", "location": "Strait of Hormuz", "lat": 27.2251, "lng": 51.7747, "date": "Jun 08, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o"}, {"id": 13, "type": "kinetic", "title": "Lebanese General Among Three Killed in Israeli Car Attack", "desc": "An Israeli military operation targeting a vehicle in southern Lebanon resulted in the deaths of three soldiers, including a Lebanese general. The Israeli military has initiated an investigation into the incident, which occurred amid ongoing clashes with Hezbollah.", "location": "Southern Lebanon", "lat": 33.4286, "lng": 35.9042, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cj0g8jymg92o"}, {"id": 14, "type": "kinetic", "title": "Clashes Persist in Lebanon Despite Partial Ceasefire", "desc": "Fighting continues in southern Lebanon between Hezbollah and Israeli forces, even as both sides have reportedly accepted a US-brokered partial ceasefire plan. The cessation of hostilities is seen as critical for the broader peace process involving Iran.", "location": "Southern Lebanon", "lat": 33.4286, "lng": 35.9042, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c202rxp1z15o"}, {"id": 15, "type": "cyber", "title": "US Lists Chinese Tech Companies as 'Military Companies'", "desc": "The United States has designated Chinese technology firms BYD, Alibaba, and Baidu as 'Chinese military companies.' The Chinese embassy in Washington has condemned this move, labeling it as 'discriminatory.' This action could lead to further sanctions and restrictions on these entities.", "location": "United States", "lat": 38.0000, "lng": -97.0000, "date": "Jun 09, 2026", "escalation": false, "url": "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss"}, {"id": 16, "type": "nuclear", "title": "Global Nuclear Weapons Spending Rises Sharply", "desc": "Global spending on nuclear weapons by the nine nuclear-armed states increased by nearly 20% in 2025, reaching $119 billion. This marks the highest expenditure since tracking began in 2020, with the United States leading the increase. The report was released by the International Campaign to Abolish Nuclear Weapons.", "location": "Global", "lat": 0.0000, "lng": 0.0000, "date": "Jun 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/us-leads-record-rise-spending-nuclear-arsenals-campaign-group-says"}, {"id": 17, "type": "cyber", "title": "Hungarian Government Passwords Exposed Online", "desc": "Approximately 800 Hungarian government email addresses and their associated passwords have been leaked online, exposing security vulnerabilities across various ministries. A Bellingcat analysis indicated that 12 out of 13 ministries were affected, potentially compromising sensitive information.", "location": "Hungary", "lat": 46.8182, "lng": 19.5000, "date": "Apr 09, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-06-09T03:59:09-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 9,
+    "cyber": 0,
+    "nuclear": 1
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Israel launches strikes in southern Lebanon",
+      "desc": "Israeli strikes in southern Lebanon killed at least 14 people, including civilians and paramedics, amidst ongoing hostilities. This occurred despite Iran's earlier threats to retaliate if such attacks continued.",
+      "location": "Tyre, Lebanon",
+      "lat": 33.2735,
+      "lng": 35.1913,
+      "date": "Jun 09, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/lebanon-says-israeli-strikes-south-kill-14-attacks-persist-despite-iranian-threat"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US helicopter crashes near Strait of Hormuz",
+      "desc": "A US Apache gunship helicopter crashed near the Strait of Hormuz. The two pilots were reportedly rescued and are reported to be unharmed. The cause of the crash remains under investigation.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0,
+      "lng": 56.0,
+      "date": "Jun 09, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israel launches strikes on Iran",
+      "desc": "Israel launched renewed strikes on Iran, reportedly in defiance of warnings from US President Donald Trump. This action is seen as an attempt by Israel to assert its influence in upcoming peace negotiations.",
+      "location": "Iran",
+      "lat": 32.0,
+      "lng": 53.0,
+      "date": "Jun 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/defying-trump-brief-iran-fight-israel-seeks-sway-over-peace-talks"
+    },
+    {
+      "id": 4,
+      "type": "nuclear",
+      "title": "Global spending on nuclear weapons surges",
+      "desc": "Global spending on nuclear weapons reached a record high of $119 billion in 2025, a 19% increase from the previous year, according to a report by the International Campaign to Abolish Nuclear Weapons. The US leads this surge in expenditure.",
+      "location": "Global",
+      "lat": 0.0,
+      "lng": 0.0,
+      "date": "Jun 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/us-leads-record-rise-spending-nuclear-arsenals-campaign-group-says"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Trump warns Netanyahu against new Iran war",
+      "desc": "US President Donald Trump reportedly warned Israeli Prime Minister Benjamin Netanyahu that Israel could find itself isolated if it initiated another war with Iran, highlighting a potential rift in US-Israel strategy.",
+      "location": "Jerusalem, Israel",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "date": "Jun 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/trump-warned-netanyahu-against-renewed-iran-war-axios-reports"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Lebanese president appeals for talks, not war",
+      "desc": "Lebanese President Joseph Aoun directly appealed to the Israeli government and its people to pursue negotiations rather than military action, stating that a military solution would not bring security.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8551,
+      "date": "Jun 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/lebanese-president-appeals-israeli-government-pursue-talks-not-war"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Iran top negotiator threatens to defeat US blockade",
+      "desc": "Iran's top negotiator, Mohammad Baqer Qalibaf, threatened to overcome the US naval blockade, stating that Iran would fight and negotiate on its own terms, with the ultimate goal of ending the war and achieving stable security.",
+      "location": "Tehran, Iran",
+      "lat": 35.6892,
+      "lng": 51.3890,
+      "date": "Jun 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/iran-top-negotiator-threatens-defeat-us-blockade-iran"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "US military aided Israel in intercepting Iran's missiles",
+      "desc": "The US military reportedly assisted Israel in intercepting Iranian missile attacks. This intervention occurred despite public opposition from the White House towards Israeli strikes near Beirut.",
+      "location": "Israel",
+      "lat": 31.0,
+      "lng": 35.0,
+      "date": "Jun 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/us-military-helped-israel-intercept-irans-missiles-what-know"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Iran and Israel pause strikes but warn of retaliation",
+      "desc": "Both Iran and Israel have indicated a pause in their strikes, with Israel stating it is holding fire \"at the moment.\" Iran's armed forces also confirmed they had ceased military action, though both sides warned of retaliation if the ceasefire is breached.",
+      "location": "Middle East",
+      "lat": 31.0,
+      "lng": 35.0,
+      "date": "Jun 09, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Israeli strikes kill 11 in Gaza City",
+      "desc": "Israeli airstrikes on four residential buildings in Gaza City resulted in the deaths of 11 people, including women and children. The Israeli military stated that four Hamas security officials were killed in the attacks.",
+      "location": "Gaza City, Gaza Strip",
+      "lat": 31.5035,
+      "lng": 34.4713,
+      "date": "Jun 09, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Iranian drone strikes on Kuwait airport",
+      "desc": "Iranian drone strikes targeted Kuwait's airport, causing one death and dozens of injuries. Iran stated this attack was retaliation for earlier US strikes on an Iranian oil tanker and an island.",
+      "location": "Kuwait City, Kuwait",
+      "lat": 29.3759,
+      "lng": 47.9594,
+      "date": "Jun 09, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "US and Iran exchange strikes in Gulf",
+      "desc": "The US military conducted strikes against Iranian drones and radar sites in the Persian Gulf. In response, Iran claimed to have targeted US bases in Kuwait and Bahrain, testing the fragile ceasefire.",
+      "location": "Persian Gulf",
+      "lat": 25.0,
+      "lng": 54.0,
+      "date": "Jun 09, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Lebanese general killed in Israeli attack",
+      "desc": "An Israeli attack in south Lebanon resulted in the deaths of three soldiers, including a Lebanese general. The Israeli military is investigating the incident amidst ongoing clashes with Hezbollah.",
+      "location": "South Lebanon",
+      "lat": 33.0,
+      "lng": 35.5,
+      "date": "Jun 09, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Israel strikes Beirut suburb",
+      "desc": "Israel conducted strikes on a suburb of Beirut, which it stated were in response to Hezbollah firing at Israeli territory. This occurred days after a US-brokered truce.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8551,
+      "date": "Jun 09, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Iran's President Xi and North Korea's Kim pledge deeper cooperation",
+      "desc": "Chinese President Xi Jinping is on a rare visit to North Korea, where he has committed to strengthening cooperation with Kim Jong Un. The summit signals a deepening of ties between the two nations.",
+      "location": "Pyongyang, North Korea",
+      "lat": 39.0284,
+      "lng": 125.7533,
+      "date": "Jun 09, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
