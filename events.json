@@ -1,200 +1,175 @@
 {
-  "lastUpdated": "2026-06-09T23:59:09-04:00",
+  "lastUpdated": "2026-06-10T04:59:08-04:00",
   "threatLevel": "CRITICAL",
   "weeklyStats": {
-    "kinetic": 10,
-    "cyber": 0,
+    "kinetic": 9,
+    "cyber": 1,
     "nuclear": 0
   },
   "events": [
     {
       "id": 1,
       "type": "kinetic",
-      "title": "Iran Strikes Bahrain and Jordan in Retaliation for US Attacks",
-      "desc": "Iran conducted retaliatory strikes against targets in Bahrain and Jordan. This action follows recent US attacks on Iranian ports and islands in the Strait of Hormuz, which were reportedly in response to the downing of an Iranian helicopter.",
-      "location": "Bahrain and Jordan",
-      "lat": 26.0667,
-      "lng": 50.5577,
+      "title": "Iran attacks US bases in Jordan and Bahrain",
+      "desc": "Iran launched attacks against a U.S. base in Jordan and 21 other targets in the Gulf, including bases in Bahrain, in retaliation for recent American strikes near the Strait of Hormuz. These exchanges mark one of the most significant escalations in hostilities since the April ceasefire.",
+      "location": "Bahrain",
+      "lat": 26.0,
+      "lng": 50.5,
       "date": "Jun 10, 2026",
       "escalation": true,
-      "url": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss"
+      "url": "https://www.al-monitor.com/originals/2026/06/iran-attacks-us-bases-jordan-and-bahrain"
     },
     {
       "id": 2,
       "type": "kinetic",
-      "title": "US Military Launches 'Self-Defense Strikes' Targeting Iran",
-      "desc": "The US Central Command announced that its forces have commenced 'self-defense' strikes against Iran. This action is a direct response to escalations in the region.",
+      "title": "US strikes Iran in response to downing of military helicopter",
+      "desc": "The United States conducted retaliatory strikes against Iran, following Iran's alleged downing of a US military helicopter near the Strait of Hormuz. This action further strains the fragile ceasefire that was recently established.",
       "location": "Strait of Hormuz",
-      "lat": 27.1918,
-      "lng": 56.3121,
-      "date": "Jun 09, 2026",
-      "escalation": true,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss"
-    },
-    {
-      "id": 3,
-      "type": "kinetic",
-      "title": "Trump Vows Retaliation After Claiming Iran Shot Down Apache Helicopter",
-      "desc": "President Trump accused Iran of shooting down a US Apache helicopter over the Strait of Hormuz and stated that the United States must respond, signaling an imminent retaliatory strike.",
-      "location": "Strait of Hormuz",
-      "lat": 27.1918,
-      "lng": 56.3121,
-      "date": "Jun 09, 2026",
-      "escalation": true,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss"
-    },
-    {
-      "id": 4,
-      "type": "kinetic",
-      "title": "Israeli Forces Kill Nine in Tyre After Issuing Forced Displacement Orders",
-      "desc": "Israeli forces killed nine people in the Lebanese city of Tyre within a 24-hour period, following the issuance of forced displacement orders for the city. Raids were conducted on multiple locations in southern Lebanon.",
-      "location": "Tyre, Lebanon",
-      "lat": 33.2754,
-      "lng": 35.2144,
-      "date": "Jun 09, 2026",
-      "escalation": true,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss"
-    },
-    {
-      "id": 5,
-      "type": "kinetic",
-      "title": "US and Iran Exchange Fire After American Patrol Helicopter Downed in Hormuz",
-      "desc": "The US military conducted strikes against Iran, with President Donald Trump stating it was retaliation for Iran allegedly downing a US Apache helicopter. Iranian media reported explosions along Iran's southern coast, and Iran's Foreign Minister threatened retaliation.",
-      "location": "Strait of Hormuz",
-      "lat": 27.1918,
-      "lng": 56.3121,
-      "date": "Jun 09, 2026",
-      "escalation": true,
-      "url": "https://www.al-monitor.com/originals/2026/06/us-strikes-iran-after-apache-helicopter-downing"
-    },
-    {
-      "id": 6,
-      "type": "kinetic",
-      "title": "US Sea Drone Rescues Crew from US Army Helicopter That Crashed Near Hormuz",
-      "desc": "A US Navy surface drone rescued two crew members from an Army Apache attack helicopter that crashed near Oman's coast. President Trump confirmed the pilots were unharmed, stating the helicopter went down while patrolling regional waters.",
-      "location": "Near Oman's coast",
-      "lat": 17.6384,
-      "lng": 56.3736,
-      "date": "Jun 09, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/06/us-sea-drone-rescues-crew-us-army-helicopter-crashed-near-hormuz"
-    },
-    {
-      "id": 7,
-      "type": "kinetic",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "desc": "The US military struck Iranian drones and radar sites, while Iran reported targeting US bases in Kuwait and Bahrain, marking a significant test of the current ceasefire.",
-      "location": "Persian Gulf",
-      "lat": 27.5694,
-      "lng": 51.4486,
-      "date": "Jun 09, 2026",
-      "escalation": true,
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 8,
-      "type": "kinetic",
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "desc": "Israeli airstrikes on four residential buildings in Gaza City resulted in the deaths of 11 people, including women and children. The Israeli military stated that four Hamas security officials were among the dead.",
-      "location": "Gaza City",
-      "lat": 31.5238,
-      "lng": 34.4554,
-      "date": "Jun 09, 2026",
-      "escalation": true,
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 9,
-      "type": "kinetic",
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "desc": "An Israeli attack on a car in south Lebanon resulted in the deaths of three soldiers, including a Lebanese general. The Israeli military is conducting an investigation into the incident.",
-      "location": "South Lebanon",
-      "lat": 33.4330,
-      "lng": 35.7485,
-      "date": "Jun 09, 2026",
-      "escalation": false,
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 10,
-      "type": "kinetic",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "desc": "Israel conducted strikes on a Beirut suburb, which it stated were in response to Hezbollah firing at Israeli territory. This occurs days after a US-brokered truce.",
-      "location": "Beirut, Lebanon",
-      "lat": 33.8568,
-      "lng": 35.8547,
-      "date": "Jun 09, 2026",
-      "escalation": true,
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"
-    },
-     {
-      "id": 11,
-      "type": "kinetic",
-      "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
-      "desc": "US forces launched strikes against Iran in retaliation for the alleged downing of an American Apache helicopter over the Strait of Hormuz. President Trump vowed a response.",
-      "location": "Strait of Hormuz",
-      "lat": 27.1918,
-      "lng": 56.3121,
-      "date": "Jun 09, 2026",
+      "lat": 26.7,
+      "lng": 56.3,
+      "date": "Jun 10, 2026",
       "escalation": true,
       "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": 12,
+      "id": 3,
       "type": "kinetic",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "desc": "Israeli airstrikes targeted the city of Tyre in southern Lebanon, despite a warning from Iran to cease attacks on its ally Hezbollah. Iran stated it could resume hostilities if attacks continued.",
+      "title": "Israeli air strikes hit Lebanese city of Tyre",
+      "desc": "Israeli airstrikes targeted the city of Tyre in southern Lebanon, resulting in multiple fatalities. The strikes occurred despite a prior Iranian warning to Israel to cease attacks on its Lebanese ally, Hezbollah.",
       "location": "Tyre, Lebanon",
-      "lat": 33.2754,
-      "lng": 35.2144,
-      "date": "Jun 09, 2026",
+      "lat": 33.28,
+      "lng": 35.19,
+      "date": "Jun 10, 2026",
       "escalation": true,
       "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": 13,
+      "id": 4,
       "type": "kinetic",
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "desc": "Both Iran and Israel have announced a pause in their strikes, with Iran's armed forces confirming a halt to military action and Israel's PM stating they are holding fire 'at the moment'. Both sides warned of retaliation if the ceasefire is breached.",
+      "title": "Lebanon says 11 dead in Israeli strikes on Tyre",
+      "desc": "Israeli airstrikes on the southern Lebanese city of Tyre and surrounding areas killed 11 people. The Lebanese National News Agency reported raids on numerous other locations across the country's south, indicating an ongoing escalation of conflict.",
+      "location": "Tyre, Lebanon",
+      "lat": 33.28,
+      "lng": 35.19,
+      "date": "Jun 10, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/lebanon-says-11-dead-israeli-strikes-tyre"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+      "desc": "A series of Ukrainian drone attacks have targeted a museum in Sevastopol and several key Russian oil refineries. The campaign has caused casualties, closed a vital road bridge, and led to a fuel crisis.",
+      "location": "Sevastopol, Crimea",
+      "lat": 44.57,
+      "lng": 33.52,
+      "date": "Jun 10, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
+      "desc": "The ongoing conflict between the US and Iran has seen further escalation, with US forces conducting strikes and Iran retaliating. Analysts express concern about a potential for further escalation following these tit-for-tat attacks.",
       "location": "Middle East",
-      "lat": 31.0000,
-      "lng": 37.0000,
-      "date": "Jun 09, 2026",
-      "escalation": false,
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss"
+      "lat": 27.0,
+      "lng": 50.0,
+      "date": "Jun 10, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss"
     },
     {
-      "id": 14,
+      "id": 7,
       "type": "kinetic",
-      "title": "Bolivia approves military measures against nationwide protests",
-      "desc": "The Bolivian government has approved the deployment of military measures to address ongoing nationwide protests.",
-      "location": "Bolivia",
-      "lat": -16.5000,
-      "lng": -64.0000,
+      "title": "Baltic states fear Russia-Ukraine war spillover after drone incursions",
+      "desc": "Several drone incursions into Baltic airspace have heightened anxieties among Estonia, Latvia, and Lithuania regarding a potential spillover of the Russia-Ukraine war. These incursions raise concerns about the security of NATO's eastern flank.",
+      "location": "Baltic Sea Region",
+      "lat": 56.0,
+      "lng": 24.0,
+      "date": "Jun 10, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions?traffic_source=rss"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+      "desc": "A mass shooting in an informal settlement in Johannesburg has resulted in at least twelve fatalities. Law enforcement is currently conducting a manhunt for more than ten suspects believed to be involved in the attack.",
+      "location": "Johannesburg, South Africa",
+      "lat": -26.2041,
+      "lng": 28.0473,
       "date": "Jun 10, 2026",
       "escalation": false,
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bolivia-approves-military-measures-against-nationwide-protests?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss"
     },
     {
-      "id": 15,
+      "id": 9,
       "type": "kinetic",
-      "title": "Protesters torch cars, buildings in Belfast after refugee knife attack",
-      "desc": "Violent unrest has broken out in Belfast, with protesters torching vehicles and buildings following a stabbing attack allegedly carried out by a Sudanese man. Authorities have arrested the suspect.",
-      "location": "Belfast, United Kingdom",
+      "title": "Anti-immigration protests break out in Belfast after knife attack",
+      "desc": "Following a knife attack, anti-immigration protests have erupted in Belfast, Northern Ireland. Political leaders are urging for calm amidst the heightened tensions.",
+      "location": "Belfast, Northern Ireland",
       "lat": 54.5973,
-      "lng": -5.9300,
+      "lng": -5.9304,
       "date": "Jun 10, 2026",
       "escalation": false,
-      "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss"
+      "url": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "cyber",
+      "title": "Hungarian government passwords exposed online",
+      "desc": "A significant security breach has exposed nearly 800 Hungarian government email addresses and passwords online. The vulnerability affects multiple ministries and raises concerns about the security of sensitive information.",
+      "location": "Budapest, Hungary",
+      "lat": 47.4979,
+      "lng": 19.0402,
+      "date": "Apr 09, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"
     }
   ],
   "infrastructure": [
-    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
-    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
-    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
-    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
-    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
-    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
-    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
   ]
 }
