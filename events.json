@@ -1,1 +1,188 @@
-{"lastUpdated": "2026-06-10T19:59:11-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 18, "cyber": 4, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Launches Airstrikes on Iran", "desc": "The United States, under President Trump, has launched a new wave of airstrikes targeting \"key facilities\" in Iran. The Pentagon claims these strikes are not intended to restart the war but to strengthen Washington's negotiating position amidst stalled talks.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/trump-launches-new-airstrikes-iran-deal-stalls"}, {"id": 2, "type": "kinetic", "title": "Iran Announces Closure of Strait of Hormuz", "desc": "In response to US attacks, Iran's joint military command has announced the closure of the Strait of Hormuz. The announcement states that any vessel attempting passage will be fired upon, significantly escalating tensions in a critical global shipping lane.", "location": "Strait of Hormuz", "lat": 26.8000, "lng": 54.0000, "date": "Jun 11, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/iran-announces-closure-strait-hormuz-after-us-attacks"}, {"id": 3, "type": "kinetic", "title": "US Strikes Key Facilities in Iran", "desc": "US Defense Secretary Pete Hegseth stated that the United States would conduct significant strikes on \"key facilities\" in Iran, signaling a forceful response to perceived Iranian aggression and aiming to pressure Tehran.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/hegseth-us-bomb-key-facilities-iran-wednesday"}, {"id": 4, "type": "kinetic", "title": "Israel Kills 17 in Southern Lebanon", "desc": "Reports indicate that Israeli strikes in southern Lebanon have resulted in the deaths of 17 individuals, with nine casualties reported in the town of Tayr Debba. This escalates the ongoing conflict between Israel and Hezbollah.", "location": "Southern Lebanon", "lat": 33.3333, "lng": 35.3333, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"}, {"id": 5, "type": "kinetic", "title": "US Hits China- and Hong Kong-based Entities with Sanctions Over Iran Weapons", "desc": "The US has imposed sanctions on 11 individuals and entities, including several in China and Hong Kong, for allegedly facilitating weapons procurement for Iran's Islamic Revolutionary Guard Corps and military. This move targets international networks supporting Iran's armament.", "location": "China", "lat": 35.8617, "lng": 104.1954, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/us-hits-china-and-hong-kong-based-entities-sanctions-over-iran-weapons"}, {"id": 6, "type": "kinetic", "title": "US Issues More Iran Sanctions as Strikes Resume", "desc": "The United States has imposed further sanctions targeting Iran's weapons procurement networks. This action follows President Trump's statements about resuming strikes against Iran, indicating continued pressure on Tehran's military capabilities.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/us-issues-more-iran-sanctions-trump-says-strikes-will-resume"}, {"id": 7, "type": "kinetic", "title": "Israeli Strike Kills Two in Sidon, Lebanon", "desc": "An Israeli airstrike on a vehicle in the southern Lebanese city of Sidon resulted in two fatalities and a fire, underscoring the continued cross-border violence between Israel and Hezbollah.", "location": "Sidon, Lebanon", "lat": 33.5667, "lng": 35.3833, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss"}, {"id": 8, "type": "kinetic", "title": "US Strikes Iran in Response to Helicopter Downing", "desc": "President Donald Trump accused Iran of shooting down a US military helicopter and vowed retaliation, leading to US strikes on Iranian targets. This action represents a direct military confrontation between the two nations.", "location": "Strait of Hormuz", "lat": 26.8000, "lng": 54.0000, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"}, {"id": 9, "type": "kinetic", "title": "Three Indian Sailors Missing After US Hits Tanker in Gulf of Oman", "desc": "India has reported three missing sailors and the rescue of 21 crew members after a US missile strike hit the tanker Settebello off the coast of Oman. This incident raises concerns about civilian casualties in the ongoing conflict.", "location": "Gulf of Oman", "lat": 24.5000, "lng": 57.0000, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"}, {"id": 10, "type": "kinetic", "title": "US and Iran Exchange Strikes in Gulf, Testing Ceasefire", "desc": "The US military reportedly conducted strikes on Iranian drones and radar sites, while Tehran claims to have targeted US bases in Kuwait and Bahrain. This exchange represents a significant test of the fragile ceasefire.", "location": "Persian Gulf", "lat": 25.0000, "lng": 54.0000, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"}, {"id": 11, "type": "kinetic", "title": "Israel Strikes Beirut Suburb After Hezbollah Fire", "desc": "Israel conducted airstrikes on a Beirut suburb, stating it was in response to Hezbollah launching rockets into Israeli territory. This action comes shortly after a US-brokered truce, indicating a potential breakdown in de-escalation efforts.", "location": "Beirut", "lat": 33.8869, "lng": 35.5134, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"}, {"id": 12, "type": "kinetic", "title": "US Strikes Iranian Drones and Radar Sites", "desc": "In a notable escalation, the US military has carried out strikes targeting Iranian drones and radar installations. This action, while not explicitly stated as a response to a specific event, adds to the ongoing tensions and potential breaches of ceasefire.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"}, {"id": 13, "type": "kinetic", "title": "Israel and Iran Pause Strikes, Warn of Retaliation", "desc": "Both Israel and Iran have announced a pause in military actions, with Israeli PM stating the country is holding fire \"at the moment.\" However, both sides have warned of retaliation if the ceasefire is breached again, indicating a precarious de-escalation.", "location": "Middle East", "lat": 31.0000, "lng": 37.0000, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss"}, {"id": 14, "type": "kinetic", "title": "One Dead, Five Injured in Shooting in Israel", "desc": "A shooting incident in Israel resulted in one fatality and five injuries. The suspect reportedly opened fire from a vehicle across several locations before being neutralized by security forces.", "location": "Israel", "lat": 31.0000, "lng": 35.0000, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss"}, {"id": 15, "type": "kinetic", "title": "Funeral Held for Baby Shot Dead by Israeli Troops", "desc": "A funeral was held for a seven-month-old baby killed by Israeli troops in the occupied West Bank. The incident highlights the ongoing violence and tragic loss of life in the region.", "location": "Occupied West Bank", "lat": 32.0000, "lng": 35.0000, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss"}, {"id": 16, "type": "kinetic", "title": "Israeli Settlers Impede Firefighting Efforts", "desc": "Palestinian officials and a local priest reported that Israeli settlers obstructed firefighting efforts near a Christian village in the West Bank while a large blaze was being tackled. This incident adds to the rising tensions in the region.", "location": "West Bank", "lat": 32.0000, "lng": 35.0000, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/israeli-settlers-impeded-firefighting-near-christian-west-bank-village"}, {"id": 17, "type": "kinetic", "title": "Israel MPs Advance Bill to Exempt Ultra-Orthodox from Conscription", "desc": "Israeli lawmakers have voted to move forward with a bill that would exempt most ultra-Orthodox Jewish men from military conscription. This move is facing strong opposition and protests, reflecting deep societal divisions.", "location": "Israel", "lat": 31.0000, "lng": 35.0000, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/israel-mps-bid-exempt-ultra-orthodox-conscription"}, {"id": 18, "type": "kinetic", "title": "Israeli Strikes in Southern Lebanon Kill 16", "desc": "Reports indicate that Israeli strikes in southern Lebanon have resulted in the deaths of 16 individuals. This escalation comes amid ongoing tensions and exchanges of fire in the region.", "location": "Southern Lebanon", "lat": 33.3333, "lng": 35.3333, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss"}, {"id": 19, "type": "cyber", "title": "US Sanctions China and Hong Kong Entities for Iran Weapons Procurement", "desc": "The US Treasury has imposed sanctions on multiple China and Hong Kong-based individuals and companies accused of facilitating weapons procurement for Iran's military. This action targets international networks supporting Iran's clandestine activities.", "location": "Hong Kong", "lat": 22.3193, "lng": 114.1694, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/us-hits-china-and-hong-kong-based-entities-sanctions-over-iran-weapons"}, {"id": 20, "type": "cyber", "title": "Hungarian Government Passwords Exposed Online", "desc": "A significant number of Hungarian government email addresses and passwords have been leaked online, potentially exposing sensitive information across multiple ministries. The breach highlights vulnerabilities in government cybersecurity protocols.", "location": "Hungary", "lat": 47.1625, "lng": 19.5033, "date": "Apr 09, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/"}, {"id": 21, "type": "cyber", "title": "Canada Introduces Bill to Ban Social Media for Children Under 16", "desc": "Canada has introduced legislation aimed at protecting minors online by banning social media access for those under 16. The bill also seeks to enhance AI chatbot safety through a new digital regulator.", "location": "Canada", "lat": 56.1304, "lng": -106.3468, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.aljazeera.com/economy/2026/6/10/canada-introduces-bill-to-ban-social-media-for-children-under-16?traffic_source=rss"}, {"id": 22, "type": "cyber", "title": "US Intelligence Agency to be Downsized by Trump Appointee", "desc": "President Trump has directed the interim Director of National Intelligence, Bill Pulte, to significantly downsize the agency. Pulte, criticized for lacking intelligence experience, is tasked with implementing this reduction, raising concerns about the agency's future capabilities.", "location": "United States", "lat": 39.7651, "lng": -97.5332, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/6/10/trump-directs-interim-us-intelligence-chief-bill-pulte-to-downsize-agency?traffic_source=rss"}, {"id": 23, "type": "proxy", "title": "Houthi Activity in Yemen", "desc": "Ongoing Houthi operations continue to impact regional stability. Specific details on kinetic events or cyber operations attributed to the Houthis were not detailed in the provided articles, but their presence remains a factor in Middle Eastern security dynamics.", "location": "Yemen", "lat": 15.7854, "lng": 47.6062, "date": "Jun 10, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss"}, {"id": 24, "type": "proxy", "title": "Hezbollah Engagements with Israel", "desc": "Intensified fighting between Israel and Hezbollah persists, impacting Lebanon. Recent Israeli strikes in southern Lebanon and Beirut suburbs, coupled with Hezbollah's actions, highlight the continued proxy conflict.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "Jun 10, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"}, {"id": 25, "type": "proxy", "title": "Lebanese Armed Forces Modernization Efforts", "desc": "The Lebanese Armed Forces are planning to disarm Hezbollah in 2025, with international partners offering support. However, progress is slow due to fears of splintering the forces, while Israeli attacks continue to impact operations.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "Jun 10, 2026", "escalation": false, "url": "https://warontherocks.com/how-can-lebanons-partners-help-strengthen-the-lebanese-armed-forces/"}, {"id": 26, "type": "proxy", "title": "Mali Military Announces Airstrikes, Banned Submunitions Found", "desc": "Following announcements of airstrikes by Mali's military, banned Russian-made cluster munition bomblets have been discovered in a village in northern Mali. This raises concerns about the use of prohibited weapons and their impact.", "location": "Mali", "lat": 17.5707, "lng": -3.9961, "date": "May 26, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-06-11T00:59:12-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 14,
+    "cyber": 2,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Iran Closes Strait of Hormuz Following US Strikes",
+      "desc": "Iran's top joint military command announced the closure of the Strait of Hormuz to all vessels, including oil tankers and commercial ships. This action follows retaliatory US strikes against Iran, escalating tensions in the crucial waterway. Any vessel attempting passage will be fired upon.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2500,
+      "lng": 56.5000,
+      "date": "Jun 11, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/iran-announces-closure-strait-hormuz-after-us-attacks"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US and Iran Trade Air Attacks for Second Day",
+      "desc": "The United States and Iran engaged in air attacks for the second consecutive day. President Donald Trump vowed further strikes if Tehran does not immediately agree to a peace deal. This escalation follows the downing of a US Apache helicopter near the Strait of Hormuz earlier in the week.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2500,
+      "lng": 56.5000,
+      "date": "Jun 11, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/us-and-iran-trade-attacks-second-day-undermining-shaky-ceasefire"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "US Strikes Iran 'Hard' Again; Hegseth Confirms Targeting 'Key Facilities'",
+      "desc": "US Defense Secretary Pete Hegseth stated that the United States would hit Iran hard on Wednesday, bombing \"key facilities.\" This announcement comes as President Trump warned Iran would \"have to pay the price\" for delaying a peace deal and as new airstrikes were launched.",
+      "location": "Iran",
+      "lat": 32.0853,
+      "lng": 53.3729,
+      "date": "Jun 11, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/hegseth-us-bomb-key-facilities-iran-wednesday"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Iran Attacks Bahrain, Kuwait, Jordan and Ships in Hormuz After US Strikes",
+      "desc": "Tehran claims to have attacked bases in Bahrain, Kuwait, and Jordan, as well as US strikes on Karaj and ports in the Strait of Hormuz. This is in retaliation for recent US bombings of Iranian targets.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2500,
+      "lng": 56.5000,
+      "date": "Jun 10, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/iran-attacks-bahrain-kuwait-jordan-and-hormuz-ships-after-us-strikes"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "US Strikes Iran in Response to Downing of Military Helicopter",
+      "desc": "President Donald Trump accused Iran of shooting down a US helicopter over the Strait of Hormuz and vowed a response. Subsequently, the US launched strikes against Iran, marking a significant escalation in the ongoing conflict.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2500,
+      "lng": 56.5000,
+      "date": "Jun 10, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Israeli Strikes in Southern Lebanon Kill 17",
+      "desc": "Israeli airstrikes in southern Lebanon have resulted in the deaths of at least 17 people, according to reports. Nine of the casualties were in the town of Tayr Debba, highlighting ongoing hostilities despite broader regional tensions.",
+      "location": "Southern Lebanon",
+      "lat": 33.0000,
+      "lng": 35.5000,
+      "date": "Jun 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "US Hits China- and Hong Kong-Based Entities with Sanctions Over Iran Weapons",
+      "desc": "The US government has imposed sanctions on 11 individuals and entities, including several based in China and Hong Kong, for allegedly facilitating weapons procurement for Iran's Islamic Revolutionary Guard Corps and military. This action targets networks supporting Iran's military capabilities.",
+      "location": "China/Hong Kong",
+      "lat": 22.3000,
+      "lng": 114.2000,
+      "date": "Jun 10, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/us-hits-china-and-hong-kong-based-entities-sanctions-over-iran-weapons"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Three Indian Sailors Missing After US Missile Strike on Tanker",
+      "desc": "India's government reported that three Indian sailors are missing and 21 crew members were rescued after a sanctioned oil tanker, the Settebello, was struck by a US missile in the Gulf of Oman. The incident raises concerns about civilian casualties and maritime safety.",
+      "location": "Gulf of Oman",
+      "lat": 24.5000,
+      "lng": 57.5000,
+      "date": "Jun 10, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 9,
+      "type": "cyber",
+      "title": "OpenAI Reports China-Based Actors Stoking Opposition to AI Data Centers",
+      "desc": "AI company OpenAI stated that accounts originating from China have been actively involved in stoking public opposition to the development of AI data centers. These actors reportedly exploited existing public concerns about energy prices to amplify negative sentiment.",
+      "location": "Global",
+      "lat": 0.0000,
+      "lng": 0.0000,
+      "date": "Jun 11, 2026",
+      "escalation": false,
+      "url": "https://www.al-jazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "diplomatic",
+      "title": "Twenty-Two Countries Warn Iran to Stop Attacks 'On Our Soil'",
+      "desc": "A joint statement from twenty-two countries, including the United States and European nations, has warned Iran to cease attacks on individuals within their borders. The statement condemned Iran's security services for allegedly using criminal gangs for plots in Europe, North America, and Australia.",
+      "location": "Global",
+      "lat": 0.0000,
+      "lng": 0.0000,
+      "date": "Jun 11, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/twenty-two-countries-tell-iran-stop-attacks-our-soil"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Anti-Immigrant Protesters Clash with Police, Torch Car in Belfast",
+      "desc": "Anti-immigrant demonstrators clashed with police in Belfast, Northern Ireland, resulting in a car being set on fire. Police used water cannons to control the unrest, which continued despite calls for calm from the family of a recent knife attack victim.",
+      "location": "Belfast, Northern Ireland",
+      "lat": 54.5973,
+      "lng": -5.9300,
+      "date": "Jun 11, 2026",
+      "escalation": false,
+      "url": "https://www.al-jazeera.com/video/newsfeed/2026/6/11/anti-immigrant-protesters-clash-with-police-torch-car-at-belfast-rally?traffic_source=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Israeli Air Strikes Hit Beirut Suburb Days After US-Brokered Truce",
+      "desc": "Israel conducted air strikes on a Beirut suburb, reportedly in response to Hezbollah firing at Israeli territory. This action occurred just days after a US-brokered truce aimed at de-escalating regional tensions.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8475,
+      "date": "Jun 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 13,
+      "type": "proxy",
+      "title": "Dahiyeh Crowds Rally in Favor of Iranian Support Against Israel",
+      "desc": "Large crowds gathered in Dahiyeh, a suburb of Beirut, to rally in support of Iranian backing in the ongoing conflict against Israel. The demonstrations highlight regional allegiances and support networks.",
+      "location": "Dahiyeh, Beirut, Lebanon",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "date": "Jun 11, 2026",
+      "escalation": false,
+      "url": "https://www.al-jazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Sea Drone Rescues US Army Helicopter Crew Near Strait of Hormuz",
+      "desc": "A sea drone successfully rescued two US Army aviators whose Apache helicopter went down near the Strait of Hormuz. This marks the first-ever maritime rescue operation conducted by a drone, highlighting the increasing role of autonomous systems in naval operations.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2500,
+      "lng": 56.5000,
+      "date": "Jun 10, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
