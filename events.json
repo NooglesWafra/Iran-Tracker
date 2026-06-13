@@ -1,1 +1,164 @@
-{"lastUpdated": "2026-06-13T07:59:08-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 10, "cyber": 1, "nuclear": 0}, "events": [{"id": 1, "type": "diplomatic", "title": "US and Iran Reportedly Close to Peace Deal", "desc": "The United States and Iran have signaled that a deal to end their conflict is imminent, with both sides agreeing on a text. A senior U.S. official stated that Washington expects to sign an initial deal in the coming days, though changes are still possible. This development comes amid ongoing military actions near the Strait of Hormuz and competing narratives from Washington and Tehran regarding the deal's specifics.", "location": "Middle East", "lat": 27.0000, "lng": 54.0000, "date": "Jun 12, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz"}, {"id": 2, "type": "kinetic", "title": "Israel Strikes Lebanon Amid Peace Deal Proximity", "desc": "Despite indications of a potential peace deal between the US and Iran, Israel has continued air strikes in Lebanon. State media reported attacks on cities like Tyre, even after Iran warned Israel to cease hostilities against its ally Hezbollah. This escalation occurs as Iran's foreign minister suggested a deal with the US was nearing.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "Jun 13, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss"}, {"id": 3, "type": "kinetic", "title": "US and Iran Exchange Strikes Across Middle East", "desc": "The United States and Iran engaged in retaliatory strikes across the Middle East for a second consecutive day. Iran claimed to have targeted American assets in Kuwait, Jordan, and Bahrain, with Bahrain reporting damage to its capital city overnight. This exchange follows previous US strikes in response to Iran downing a US military helicopter.", "location": "Middle East", "lat": 27.0000, "lng": 54.0000, "date": "Jun 13, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"}, {"id": 4, "type": "kinetic", "title": "Three Indian Sailors Killed in US Strike on Oil Tanker", "desc": "Three Indian sailors were killed when the US military attacked a Palau-flagged oil tanker. The US stated the strike was in response to the tanker not complying with directions. The crew of the vessel issued a distress call after being hit by a missile fired from a US fighter jet off the coast of Oman.", "location": "Arabian Sea", "lat": 20.0000, "lng": 60.0000, "date": "Jun 13, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss"}, {"id": 5, "type": "cyber", "title": "US Orders AI Models Disabled for Foreign Nationals", "desc": "The US government has issued an export control directive to AI company Anthropic, ordering it to suspend access to its Fable 5 and Mythos 5 AI models for all foreign nationals. This move could impact international collaboration and the global spread of advanced AI technologies.", "location": "United States", "lat": 37.0902, "lng": -95.7129, "date": "Jun 13, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss"}, {"id": 6, "type": "kinetic", "title": "Israeli Strikes Hit Beirut Suburb Days After Truce", "desc": "Israel conducted strikes on a Beirut suburb shortly after a US-brokered truce, citing retaliation for Hezbollah's firing into Israeli territory. The attacks underscore the fragile nature of the ceasefire and the ongoing tensions between Israel and Hezbollah, despite broader efforts towards de-escalation.", "location": "Beirut, Lebanon", "lat": 33.8688, "lng": 35.8339, "date": "Jun 13, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"}, {"id": 7, "type": "kinetic", "title": "Five Indian Air Force Staff Killed in Transport Plane Crash", "desc": "An Antonov An-32 transport plane belonging to the Indian Air Force crashed near the Jorhat region in Assam. Five air force personnel were killed in the incident, highlighting potential safety concerns within military aviation.", "location": "Assam, India", "lat": 26.2006, "lng": 93.1036, "date": "Jun 13, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss"}, {"id": 8, "type": "diplomatic", "title": "Pakistan PM Claims Final US-Iran Peace Deal Text Agreed", "desc": "Pakistan's Prime Minister Shehbaz Sharif announced that a final, agreed text for a peace deal between the United States and Iran has been reached. Islamabad is reportedly working with both parties to finalize the subsequent steps, with an electronic signing anticipated within 24 hours.", "location": "Middle East", "lat": 27.0000, "lng": 54.0000, "date": "Jun 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/pakistan-pm-says-us-iran-peace-deal-signing-expected-within-24-hours"}, {"id": 9, "type": "proxy", "title": "Satellite Imagery Shows Ongoing Demolitions in Southern Lebanon", "desc": "Recent satellite imagery reveals extensive damage and demolition in southern Lebanon, with at least 46 out of 54 towns and villages within the Israeli defense force's 'Yellow Line' heavily impacted. Much of this destruction appears to have occurred recently, despite a fragile ceasefire.", "location": "Southern Lebanon", "lat": 33.1000, "lng": 35.5000, "date": "May 14, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"}, {"id": 10, "type": "kinetic", "title": "Israel Attacks Lebanon Despite Peace Deal Proximity", "desc": "Israel has continued attacks on Lebanon, even as Iran indicated it was included in a potential peace deal. This ongoing kinetic action complicates diplomatic efforts and suggests a persistent conflict dynamic despite high-level negotiations.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "Jun 13, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss"}, {"id": 11, "type": "kinetic", "title": "US Strikes Iran in Response to Helicopter Downing", "desc": "President Donald Trump vowed retaliation after accusing Iran of shooting down a US military helicopter over the Strait of Hormuz. The subsequent US strikes on Iran are a significant escalation, directly targeting Iranian assets and signaling a heightened risk of further conflict.", "location": "Strait of Hormuz", "lat": 27.0000, "lng": 56.0000, "date": "Jun 13, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"}, {"id": 12, "type": "proxy", "title": "Banned Russian Submunitions Found in Mali", "desc": "Unexploded Russian-made cluster munition bomblets have been discovered in northern Mali, a nation that is a state party to the relevant convention. This finding follows Mali's military announcement of airstrikes, raising concerns about the use of banned weapons and potential violations of international law.", "location": "Mali", "lat": 17.0000, "lng": -4.0000, "date": "May 26, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/"}, {"id": 13, "type": "proxy", "title": "Russia Expands Grain Smuggling to Libya", "desc": "A new technique using AIS data has helped track the expansion of Russian grain smuggling operations from occupied Ukrainian ports to Libya. The bulk carrier Grumant was observed loading grain in Feodosia, Crimea, before embarking on a journey to Benghazi, Libya, indicating a continued pattern of illicit trade.", "location": "Libya", "lat": 27.0000, "lng": 21.0000, "date": "Jun 12, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/06/12/shadow-fleet-russian-grain-stolen-ukraine-libya-ais-technique-grumant/"}, {"id": 14, "type": "kinetic", "title": "Israeli Strikes in Southern Lebanon Kill 17", "desc": "Reports indicate that Israeli air strikes in southern Lebanon have resulted in the deaths of 17 individuals. Nine fatalities occurred in a series of attacks in the town of Tayr Debba, according to Lebanese state news agency. This incident highlights the ongoing kinetic exchanges in the region.", "location": "Southern Lebanon", "lat": 33.1000, "lng": 35.5000, "date": "Jun 13, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"}, {"id": 15, "type": "kinetic", "title": "US-Iran War Deal Looms Amid New Military Action", "desc": "As the United States and Iran signal a peace deal is close, new military actions are flaring near the Strait of Hormuz. This juxtaposition highlights the complex and volatile security environment, where diplomatic progress is being made amidst continued kinetic exchanges.", "location": "Strait of Hormuz", "lat": 27.0000, "lng": 56.0000, "date": "Jun 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-06-13T12:59:12-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 12,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Israel and Iran Trade Direct Strikes",
+      "desc": "Following increased fighting between Israel and Hezbollah in Lebanon, Israel and Iran exchanged direct strikes on June 7. This escalation has complicated US-Iranian negotiations, as Iran has linked progress in talks to an end of Israeli actions against Hezbollah.",
+      "location": "Middle East",
+      "lat": 31.0000,
+      "lng": 35.0000,
+      "date": "Jun 07, 2026",
+      "escalation": true,
+      "url": "https://warontherocks.com/strike-counterstrike-repeat/"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US and Iran Exchange Strikes Across Middle East",
+      "desc": "The United States and Iran engaged in reciprocal strikes for a second consecutive day. Iran claimed to have targeted American assets in Kuwait, Jordan, and Bahrain, with Bahraini capital reporting damage overnight.",
+      "location": "Middle East",
+      "lat": 31.0000,
+      "lng": 35.0000,
+      "date": "Jun 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "US Strikes Iran in Response to Helicopter Downing",
+      "desc": "President Donald Trump accused Iran of downing a US military helicopter over the Strait of Hormuz, vowing retaliation. The US subsequently conducted strikes against Iran.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0000,
+      "lng": 56.0000,
+      "date": "Jun 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Israeli Strikes on Southern Lebanon Kill 17",
+      "desc": "Reports indicate that Israeli strikes in southern Lebanon resulted in 17 fatalities. Nine of these deaths occurred in the town of Tayr Debba following a series of attacks, according to Lebanon's state news agency.",
+      "location": "Southern Lebanon",
+      "lat": 33.2000,
+      "lng": 35.4000,
+      "date": "Jun 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Israeli Air Strikes Hit Beirut Suburb",
+      "desc": "Israel conducted strikes on a Beirut suburb days after a US-brokered truce. The Israeli military stated these attacks were in response to Hezbollah firing at Israeli territory.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8568,
+      "lng": 35.8552,
+      "date": "Jun 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Three Indian Sailors Killed in US Strike on Oil Tanker",
+      "desc": "Three Indian sailors lost their lives when the US military attacked a Palau-flagged oil tanker on Wednesday, citing non-compliance with directions. The crew issued a distress call after the vessel was hit by a US missile.",
+      "location": "Off the coast of Oman",
+      "lat": 21.0000,
+      "lng": 57.0000,
+      "date": "Jun 13, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "US Strikes Target Oil Tanker",
+      "desc": "US military forces attacked a Palau-flagged oil tanker after accusing it of not complying with directions. This incident resulted in the death of three Indian sailors.",
+      "location": "International Waters",
+      "lat": 27.0000,
+      "lng": 56.0000,
+      "date": "Jun 13, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Five Indian Air Force Staff Killed in Transport Plane Crash",
+      "desc": "An Antonov An-32 transport aircraft crashed near Jorhat in India's Assam region, killing five Indian Air Force staff. The plane was reportedly on a routine flight.",
+      "location": "Assam, India",
+      "lat": 26.7452,
+      "lng": 93.2442,
+      "date": "Jun 13, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Deadly Military Plane Crash in India",
+      "desc": "A military transport aircraft crashed in India's northeastern Assam region during a routine flight, resulting in fatalities. The exact cause of the crash is under investigation.",
+      "location": "Assam, India",
+      "lat": 26.7452,
+      "lng": 93.2442,
+      "date": "Jun 13, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Gaza Post-Ceasefire Deaths Rise Amid Refugee Camp Attack",
+      "desc": "Deaths in Gaza following a ceasefire have reached 983, with an Israeli attack targeting a refugee camp in central Gaza's Bureij area resulting in one fatality. A disabled Palestinian was also shot in the occupied West Bank.",
+      "location": "Gaza",
+      "lat": 31.4167,
+      "lng": 34.3333,
+      "date": "Jun 13, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Israeli Strikes in Southern Lebanon",
+      "desc": "Reports from Lebanon's state news agency indicate that Israeli strikes in the town of Tayr Debba, southern Lebanon, killed nine people as part of a series of attacks. The total death toll from Israeli strikes in southern Lebanon has reached 17.",
+      "location": "Tayr Debba, Lebanon",
+      "lat": 33.1406,
+      "lng": 35.1489,
+      "date": "Jun 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "One Dead, Five Injured in Shooting Incident",
+      "desc": "A shooting incident in Israel resulted in one fatality and five injuries. The suspect opened fire from a vehicle at multiple locations before being shot and killed by authorities.",
+      "location": "Israel",
+      "lat": 31.4167,
+      "lng": 35.0000,
+      "date": "Jun 13, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
