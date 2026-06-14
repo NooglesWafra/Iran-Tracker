@@ -1,1 +1,235 @@
-{"lastUpdated": "2026-06-14T13:59:08-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 11, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "Israel strikes Hezbollah targets in Beirut's southern suburbs", "desc": "Israel stated that its military attacked Hezbollah targets in the southern suburbs of Beirut in response to Hezbollah launching projectiles into Israeli territory. The Lebanese state news agency reported that two people were killed in the strikes. This escalation occurs amid expectations of an imminent US-Iran deal to end the Middle East war.", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/israel-attacks-hezbollah-targets-beiruts-southern-suburbs"}, {"id": 2, "type": "kinetic", "title": "Three dead as Israel strikes Hezbollah in Beirut's southern suburbs", "desc": "Israel carried out strikes in Beirut's southern suburbs, resulting in three fatalities. This action was in retaliation for what Israel claimed was Hezbollah firing into northern Israel. The Israeli military also conducted broader strikes across southern Lebanon. The escalation coincides with potential US-Iran peace deal talks, though Iran's chief negotiator expressed pessimism.", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/three-dead-israel-says-strikes-hezbollah-beiruts-southern-suburbs"}, {"id": 3, "type": "kinetic", "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings", "desc": "Lebanon reported Israeli strikes in its southern and eastern regions, with the Israeli army issuing evacuation warnings for Nabatieh and over twenty other locations. These strikes occur as the US and Iran signal closeness to a deal that could encompass Lebanon, which was drawn into the conflict by Hezbollah's support for Tehran.", "location": "Lebanon", "lat": 33.8567, "lng": 35.8611, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/lebanon-reports-strikes-south-east-israel-issues-broad-evacuation-warnings"}, {"id": 4, "type": "kinetic", "title": "Trump decries Israeli strike on Beirut, insists deal still close", "desc": "Donald Trump criticized an Israeli strike on Beirut, stating it \"should not have happened\" and that it drew a strong protest from Iran, potentially jeopardizing his pledge for a Sunday peace deal signing. Despite this, dialogue channels remain open, and Trump maintains that a deal is \"close.\"", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/trump-decries-israeli-strike-beirut-insists-deal-still-close"}, {"id": 5, "type": "kinetic", "title": "US asks Anthropic to block global access to top AI models: Why it matters", "desc": "The US government has reportedly requested AI company Anthropic to block international access to its most advanced AI models. This move underscores a policy of export controls on high-technology, potentially impacting global AI development and access.", "location": "United States", "lat": 37.0902, "lng": -95.7129, "date": "Jun 14, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters"}, {"id": 6, "type": "kinetic", "title": "Israeli military says Hezbollah targets struck in Beirut", "desc": "Israel reported striking Hezbollah targets in Beirut, an action that Iran warned could jeopardize a US-brokered deal to end the fighting. The Israeli military identified the targets as belonging to the Iran-backed armed group.", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/czj83zlx1vjo"}, {"id": 7, "type": "kinetic", "title": "Israel strikes Beirut suburb days after US-brokered truce", "desc": "Israel conducted strikes in a Beirut suburb, citing them as a response to Hezbollah's firing into Israeli territory. This action follows days after a US-brokered truce, raising concerns about the de-escalation process.", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/c0qyevk8139o"}, {"id": 8, "type": "kinetic", "title": "Three Indian sailors killed in US strike on oil tanker", "desc": "The US military attacked a Palau-flagged oil tanker, resulting in the deaths of three Indian sailors. The US stated the action was taken because the tanker failed to comply with directions, raising concerns about maritime safety and accidental escalations.", "location": "Persian Gulf", "lat": 27.2046, "lng": 53.8420, "date": "Jun 12, 2026", "escalation": false, "url": "https://www.bbc.com/news/articles/cy73dr081p8o"}, {"id": 9, "type": "kinetic", "title": "Israeli strikes in southern Lebanon kill 17, reports say", "desc": "Reports indicate that 17 individuals were killed in Israeli strikes in southern Lebanon, with nine fatalities occurring in the town of Tayr Debba. This is according to Lebanon's state news agency, highlighting ongoing kinetic exchanges in the region.", "location": "Southern Lebanon", "lat": 33.2444, "lng": 35.4473, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cpq3d44l907o"}, {"id": 10, "type": "kinetic", "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again", "desc": "Both Iran and Israel have announced a pause in their strikes, with Israel's Prime Minister stating a current ceasefire. Iran's armed forces also confirmed a halt to military action, but both sides issued warnings of retaliation if the ceasefire is violated.", "location": "Middle East", "lat": 31.0000, "lng": 35.0000, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cj6ge150z5go"}, {"id": 11, "type": "kinetic", "title": "Israel attacks Hezbollah targets in Beirut's southern suburbs", "desc": "Israel stated its military attacked Hezbollah targets in Beirut's southern suburbs on Sunday after the Iran-aligned armed group fired into Israeli territory. The Lebanese state news agency reported that two people were killed.", "location": "Beirut, Lebanon", "lat": 33.8518, "lng": 35.4845, "date": "Jun 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-06-14T18:59:07-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 10,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "diplomatic",
+      "title": "US and Iran Reach Peace Deal",
+      "desc": "The United States and Iran have reportedly reached a comprehensive deal to end their war, with a signing ceremony planned for June 19 in Switzerland. This agreement includes an immediate and permanent termination of military operations on all fronts, including in Lebanon. The deal comes after extensive negotiations and signifies a potential de-escalation in the region.",
+      "location": "Switzerland",
+      "lat": 46.8182,
+      "lng": 8.2275,
+      "date": "June 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/us-iran-reach-peace-deal-signing-set-friday-pakistan-says"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Israel Strikes Hezbollah Targets in Beirut",
+      "desc": "Israel's military conducted strikes against Hezbollah targets in Beirut's southern suburbs following Hezbollah's firing of projectiles into northern Israel. The Lebanese state news agency reported two fatalities. This incident marks a significant escalation amidst ongoing efforts to secure a US-Iran peace deal.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/israel-attacks-hezbollah-targets-beiruts-southern-suburbs"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Three Dead in Israeli Strikes on Beirut Suburbs",
+      "desc": "Three people were killed in Israeli strikes on Beirut's southern suburbs, carried out in response to Hezbollah's alleged fire at northern Israel. The Israeli military also conducted broader strikes across southern Lebanon. This escalation occurred as expectations of a US-Iran peace deal rose, though Iran's chief negotiator expressed doubts about continuing talks.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/three-dead-israel-says-strikes-hezbollah-beiruts-southern-suburbs"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Iran Team Arrives in US for World Cup",
+      "desc": "Iran's national soccer team arrived in Los Angeles for their World Cup opener against New Zealand. This marks the team's first arrival in the United States. The team's presence is shadowed by political tensions and potential protests from Iranian-Americans.",
+      "location": "Los Angeles, USA",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "date": "June 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/soccer-iran-team-arrive-us-world-cup-opener-against-new-zealand-la"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Iran Reports Draft US Deal Includes Nuclear Limits and Oil Sanctions Waiver",
+      "desc": "A senior Iranian official stated that a draft memorandum of understanding with the U.S. includes provisions for Iran's nuclear work, the reopening of the Strait of Hormuz, and U.S. waivers on oil sanctions. The final deal is subject to discussion within 60 days of agreement.",
+      "location": "Tehran, Iran",
+      "lat": 35.6892,
+      "lng": 51.3890,
+      "date": "June 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/iran-says-draft-us-deal-includes-oil-sanctions-waiver-nuclear-limits-and-asset"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Lebanon Reports Strikes as US-Iran Deal Nears",
+      "desc": "Lebanon reported Israeli strikes in its southern regions and the east on Saturday, with the Israeli army issuing evacuation warnings for Nabatieh and other locations. These strikes occurred as the US and Iran indicated proximity to a deal to end the Middle East war, which could involve Lebanon.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8623,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/lebanon-reports-strikes-south-east-israel-issues-broad-evacuation-warnings"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Israel Strikes Hezbollah in Beirut Suburbs Amidst Truce",
+      "desc": "Israel carried out strikes on Beirut's southern suburbs, resulting in casualties, days after a US-brokered truce. The Israeli military stated the attacks were in response to Hezbollah firing at Israeli territory. This action raises concerns about the durability of the ceasefire and the ongoing peace process.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "17 Killed in Israeli Strikes in Southern Lebanon",
+      "desc": "Reports indicate that Israeli strikes in southern Lebanon have resulted in the deaths of 17 individuals, with nine fatalities reported in Tayr Debba. This incident follows recent escalations and underscores the volatile security situation in the region.",
+      "location": "Southern Lebanon",
+      "lat": 33.4550,
+      "lng": 35.1825,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Three Indian Sailors Killed in US Strike on Oil Tanker",
+      "desc": "Three Indian sailors died when a U.S. military strike hit an oil tanker, identified as Palau-flagged. The U.S. military stated the action was taken after the tanker failed to comply with directions, highlighting risks to maritime operations in contested waters.",
+      "location": "Persian Gulf",
+      "lat": 26.0,
+      "lng": 52.0,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Iran and Israel Pause Strikes, Warn of Retaliation",
+      "desc": "Both Israel and Iran have announced a pause in their strikes, with Israel's Prime Minister stating they are holding fire 'at the moment' and Iran's armed forces confirming a cessation of military action. However, both sides have issued warnings of retaliation if the ceasefire is breached again.",
+      "location": "Middle East",
+      "lat": 31.0,
+      "lng": 38.0,
+      "date": "June 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "One Dead, Five Injured in Shooting Incident in Israel",
+      "desc": "A shooting incident in Israel resulted in one fatality and five injuries. The suspect reportedly opened fire from a vehicle at multiple locations before being killed by authorities. This incident adds to the security concerns in the region.",
+      "location": "Israel",
+      "lat": 31.0,
+      "lng": 35.0,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Funeral Held for Baby Killed by Israeli Troops",
+      "desc": "A funeral was held for a seven-month-old baby who was fatally shot by Israeli troops in the occupied West Bank. The incident has drawn significant international attention and condemnation, highlighting ongoing tensions and violence in the region.",
+      "location": "Occupied West Bank",
+      "lat": 32.0,
+      "lng": 35.0,
+      "date": "June 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Grain Smuggling from Ukraine to Libya Tracked",
+      "desc": "A new technique has been employed to track grain smuggling operations, including the vessel Grumant, which was observed at the occupied Ukrainian Port of Feodosia and later docked in Benghazi, Libya. This highlights ongoing illicit trade routes despite international scrutiny.",
+      "location": "Libya",
+      "lat": 28.0,
+      "lng": 25.0,
+      "date": "June 12, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/06/12/shadow-fleet-russian-grain-stolen-ukraine-libya-ais-technique-grumant/"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Banned Russian Cluster Munitions Found in Mali",
+      "desc": "Unexploded Russian-made cluster munition bomblets have been discovered in a village in northern Mali, coinciding with the Malian military's announcement of airstrikes. This finding is significant as Mali is a state party to the Convention on Cluster Munitions.",
+      "location": "Mali",
+      "lat": 17.0,
+      "lng": -4.0,
+      "date": "May 26, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "Demolitions Continue in Southern Lebanon",
+      "desc": "Satellite imagery reveals ongoing demolitions across southern Lebanon, with at least 46 out of 54 towns and villages within the Israeli Defense Forces' 'Yellow Line' showing heavy damage or complete flattening. This destruction occurs despite a fragile ceasefire.",
+      "location": "Southern Lebanon",
+      "lat": 33.4550,
+      "lng": 35.1825,
+      "date": "May 14, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ \u2014 Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold \u2014 South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area \u2014 Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ \u2014 Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
