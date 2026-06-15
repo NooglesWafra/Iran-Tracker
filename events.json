@@ -1,1 +1,235 @@
-{"lastUpdated": "2026-06-15T09:59:09-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 12, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US-Iran Agreement to Halt War and Reopen Strait of Hormuz", "desc": "The United States and Iran have reached a tentative agreement to end the ongoing war, a development brokered by Pakistan. The deal includes the 'immediate and permanent termination of military operations on all fronts, including in Lebanon.' A key provision is the reopening of the Strait of Hormuz, a critical waterway for global oil transport. The agreement is expected to be finalized in Geneva.", "location": "Strait of Hormuz", "lat": 27.0000, "lng": 56.0000, "date": "Jun 15, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/6/15/how-pakistan-mediated-a-us-iran-agreement-after-more-than-100-days-of-war?traffic_source=rss"}, {"id": 2, "type": "kinetic", "title": "Israeli Airstrikes in Southern Lebanon", "desc": "Israeli forces carried out air strikes in southern Lebanon, reportedly killing 17 people, including nine in the town of Tayr Debba. This escalation occurred despite Iran's warning to Israel to stop attacks on Hezbollah and a developing US-Iran peace deal. The strikes raise concerns about the stability of the fragile ceasefire and the potential derailment of the peace agreement.", "location": "Southern Lebanon", "lat": 33.3000, "lng": 35.8000, "date": "Jun 15, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"}, {"id": 3, "type": "kinetic", "title": "Israeli Forces Kill Palestinian Boy in Gaza", "desc": "Israeli forces reportedly shot and killed a three-year-old Palestinian boy, Rayan Abu al-Ajeen, while he was being carried by his father on their family farm in Gaza. This incident highlights ongoing civilian casualties in the conflict.", "location": "Gaza", "lat": 31.5000, "lng": 34.5000, "date": "Jun 15, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss"}, {"id": 4, "type": "kinetic", "title": "Russia Intensifies Air Raids on Ukraine, Kyiv Cathedral Damaged", "desc": "Russian forces conducted heavy air raids across Ukraine, resulting in a fire at the Dormition Cathedral in Kyiv, a UNESCO World Heritage site. This intensification of attacks comes amid ongoing conflict and diplomatic efforts elsewhere.", "location": "Kyiv", "lat": 50.4501, "lng": 30.5234, "date": "Jun 15, 2026", "escalation": true, "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss"}, {"id": 5, "type": "kinetic", "title": "Israeli Drone Strike in Gaza", "desc": "Video footage reportedly shows a man being shot and killed by an Israeli drone while sitting with other individuals in Gaza. This incident underscores the continued kinetic activity and civilian impact in the region.", "location": "Gaza", "lat": 31.5000, "lng": 34.5000, "date": "Jun 15, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss"}, {"id": 6, "type": "kinetic", "title": "Hezbollah Targets Struck by Israeli Military", "desc": "The Israeli military announced it had targeted sites associated with Hezbollah in Beirut. This action occurred as Iran warned that such strikes could jeopardize the developing US-Iran peace deal, highlighting the volatile interconnectedness of regional conflicts.", "location": "Beirut", "lat": 33.8688, "lng": 35.8455, "date": "Jun 15, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss"}, {"id": 7, "type": "kinetic", "title": "US Strikes Oil Tanker, Killing Sailors", "desc": "The US military attacked a Palau-flagged oil tanker, resulting in the deaths of three Indian sailors. The US claimed the tanker was not complying with directions, an incident that adds to regional maritime tensions.", "location": "Persian Gulf", "lat": 27.0000, "lng": 50.0000, "date": "Jun 15, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss"}, {"id": 8, "type": "kinetic", "title": "Explosions and Fire at Kyiv Cathedral Following Russian Air Raids", "desc": "Intensified Russian air raids on Ukraine led to a fire engulfing the Dormition Cathedral in Kyiv, a significant cultural landmark. The extent of the damage and casualties is still being assessed.", "location": "Kyiv", "lat": 50.4501, "lng": 30.5234, "date": "Jun 15, 2026", "escalation": true, "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss"}, {"id": 9, "type": "kinetic", "title": "Cluster Munitions Found in Mali", "desc": "Unexploded Russian-made cluster munition bomblets were discovered in a village in northern Mali, following airstrikes announced by the Malian military. This finding raises concerns as Mali is a state party to the convention banning such weapons.", "location": "Mali", "lat": 17.0000, "lng": -3.0000, "date": "May 26, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/"}, {"id": 10, "type": "kinetic", "title": "Ongoing Demolitions in Southern Lebanon", "desc": "Satellite imagery indicates significant ongoing demolitions and destruction in towns and villages within southern Lebanon, despite a fragile ceasefire. At least 46 out of 54 assessed locations show heavy damage or have been flattened.", "location": "Southern Lebanon", "lat": 33.3000, "lng": 35.8000, "date": "May 14, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"}, {"id": 11, "type": "kinetic", "title": "Iranian Police Infrastructure Targeted", "desc": "Reports indicate that a significant number of Iranian police stations and Basij paramilitary infrastructure have been damaged or destroyed during the ongoing conflict with the United States and Israel. The aim appears to be degrading the regime's 'repressive capacity'.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "Apr 24, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"}, {"id": 12, "type": "diplomatic", "title": "US-Iran Deal Potential 'Catastrophe' for Israel", "desc": "Israeli analysts view the tentative US-Iran agreement to end the war as a significant strategic setback, potentially locking in Iranian gains while deferring security concerns. Prime Minister Netanyahu is reportedly in a collision course with President Trump over the deal, with their respective goals unmet.", "location": "Middle East", "lat": 31.0000, "lng": 37.0000, "date": "Jun 15, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/us-iran-deal-catastrophe-israel-analysts-say"}, {"id": 13, "type": "diplomatic", "title": "Gulf Confidence in US Protection Shaken by Iran War Outcome", "desc": "Following over three months of war, the balance of power in the region remains largely unchanged, with Iran emerging politically emboldened. Gulf sources and diplomats indicate a significant erosion of confidence in U.S. protection, prompting a recalibration of regional dynamics.", "location": "Persian Gulf", "lat": 27.0000, "lng": 50.0000, "date": "Jun 15, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/analysis-gulf-recalibrates-iran-emerges-intact-war"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-06-15T14:59:08-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 10,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "diplomatic",
+      "title": "US and Iran Sign Deal to End Middle East War, Reopen Strait of Hormuz",
+      "desc": "The United States and Iran have signed a memorandum of understanding to end a nearly four-month war. A signing ceremony is scheduled for Friday, and shipping traffic in the Strait of Hormuz is expected to gradually increase. The deal, signed electronically by President Donald Trump, Vice President JD Vance, and Iranian parliament speaker Mohammad Bagher Qalibaf, aims to de-escalate regional tensions and restore maritime security.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0464,
+      "lng": 56.2074,
+      "date": "Jun 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/us-officials-says-iran-pact-signed-hormuz-traffic-will-rise-significantly"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Israeli Air Strikes in Southern Lebanon Kill 17",
+      "desc": "Israeli airstrikes in southern Lebanon have resulted in the deaths of at least 17 people. Nine fatalities were reported in Tayr Debba following a series of attacks. This escalation occurs despite a fragile ceasefire and ongoing diplomatic efforts to secure a lasting peace.",
+      "location": "Southern Lebanon",
+      "lat": 33.3213,
+      "lng": 35.3937,
+      "date": "Jun 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Russian Strategic Bomber Crashes in Siberia",
+      "desc": "A Russian Tu-22M3 strategic bomber crashed during a training flight in the Irkutsk region of Siberia. The aircraft's crew successfully ejected. The Tu-22M3, capable of carrying hypersonic missiles, has been a key component of Russia's strategic air power.",
+      "location": "Siberia, Russia",
+      "lat": 56.4833,
+      "lng": 104.9667,
+      "date": "Jun 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/russian-strategic-bomber-plane-crashes-siberia-training-exercise"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Drone Warfare Intensifies in Sudan, UN Reports Over 1,000 Civilian Deaths",
+      "desc": "The United Nations reports that drone warfare has resulted in over 1,000 civilian deaths in Sudan during the first five months of 2026. The increasing use of drones signals a significant escalation in the conflict and a growing threat to civilian populations.",
+      "location": "Sudan",
+      "lat": 14.0582,
+      "lng": 31.2474,
+      "date": "Jun 15, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/6/15/drone-warfare-kills-over-1000-in-sudan-in-2026-as-strikes-multiply-un"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Four Palestinians Killed in Israeli Strikes in Gaza",
+      "desc": "At least four Palestinians were killed in Israeli strikes and gunfire in Gaza. The incidents occurred as mediators engaged in further ceasefire talks in Cairo aimed at safeguarding a U.S.-brokered peace plan. One woman was killed in Zawayda and another person died in Nuseirat refugee camp.",
+      "location": "Gaza Strip",
+      "lat": 31.417,
+      "lng": 34.305,
+      "date": "Jun 15, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/06/israeli-fire-kills-four-gaza-mediators-hold-more-ceasefire-talks"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Israeli Strikes Target Hezbollah in Beirut",
+      "desc": "Israel claims to have targeted Hezbollah positions in Beirut. Iran has issued a warning that such actions could jeopardize the recently agreed-upon U.S.-Iran deal to end the broader conflict.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8567,
+      "lng": 35.8544,
+      "date": "Jun 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Iran and Israel Trade Direct Strikes",
+      "desc": "Following increased fighting between Israel and Hezbollah, both Iran and Israel reportedly engaged in direct strikes on June 7. This exchange marks a significant escalation, potentially jeopardizing ongoing negotiations and regional stability.",
+      "location": "Middle East",
+      "lat": 31.0,
+      "lng": 37.0,
+      "date": "Jun 07, 2026",
+      "escalation": true,
+      "url": "https://warontherocks.com/strike-counterstrike-repeat/"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Russian Ban on Cluster Munitions Violated in Mali",
+      "desc": "Unexploded Russian-made cluster munition bomblets have been found in Mali, despite the country being a party to the Convention on Cluster Munitions. This discovery follows airstrikes announced by the Malian military, raising concerns about the use of banned weaponry.",
+      "location": "Mali",
+      "lat": 17.5706,
+      "lng": -3.9961,
+      "date": "May 26, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Iranian Police Infrastructure Damaged in Attacks",
+      "desc": "At least 80 police stations and infrastructure related to law enforcement and the Basij paramilitary group have been damaged or destroyed in Iran amid the ongoing conflict. Experts suggest these attacks aim to degrade the regime's 'repressive capacity'.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.688,
+      "date": "Apr 24, 2026",
+      "escalation": true,
+      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"
+    },
+    {
+      "id": 10,
+      "type": "diplomatic",
+      "title": "UK Court Convicts Two Over Plot Linked to Russian Intelligence",
+      "desc": "A UK court has convicted two individuals in connection with a plot targeting British government officials, reportedly orchestrated by a shadowy Russian figure. Reports suggest the attacks were part of a broader campaign of sabotage and misinformation attributed to the Russian state.",
+      "location": "London, United Kingdom",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "date": "Jun 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/6/15/uk-court-convicts-two-over-pm-targeting-plot-run-by-mysterious-russian"
+    },
+    {
+      "id": 11,
+      "type": "proxy",
+      "title": "Amateur Saboteurs Used in Attacks for Gangs, Russia, and Iran",
+      "desc": "Young individuals are being recruited as amateur saboteurs for attacks commissioned by gangs, Russia, and Iran. A recent case involved a Ukrainian national instructed to carry out arson attacks linked to a prominent British politician, highlighting the use of non-state actors in complex operations.",
+      "location": "United Kingdom",
+      "lat": 52.3555,
+      "lng": 1.1743,
+      "date": "Jun 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/amateur-saboteurs-young-men-carrying-out-attacks-gangs-russia-and-iran"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Three Indian Sailors Killed in US Strike on Oil Tanker",
+      "desc": "The U.S. military attacked a Palau-flagged oil tanker, resulting in the deaths of three Indian sailors. The U.S. stated the action was taken after the tanker failed to comply with directions. The incident raises concerns about maritime safety and potential miscalculations in the region.",
+      "location": "Persian Gulf",
+      "lat": 27.0,
+      "lng": 52.0,
+      "date": "Jun 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Syrian Armed Forces Strike Targets in Homs Province",
+      "desc": "Syrian armed forces reportedly conducted strikes targeting areas within Homs Province. The specific targets and extent of casualties remain unclear, but such operations are indicative of ongoing conflict dynamics in the region.",
+      "location": "Homs, Syria",
+      "lat": 34.7465,
+      "lng": 36.7285,
+      "date": "Jun 15, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/6/15/syrian-forces-strike-targets-in-homs-province"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Zelenskyy Visits Damaged Kyiv Cathedral After Russian Strike",
+      "desc": "Ukrainian President Volodymyr Zelenskyy visited a historic cathedral in Kyiv that was damaged by recent Russian missile and drone attacks. The visit highlights the continued impact of the conflict on Ukraine's cultural heritage and civilian infrastructure.",
+      "location": "Kyiv, Ukraine",
+      "lat": 50.4501,
+      "lng": 30.5234,
+      "date": "Jun 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike"
+    },
+    {
+      "id": 15,
+      "type": "diplomatic",
+      "title": "EU Fails to Agree on Sanctions for Israeli Minister Ben-Gvir",
+      "desc": "European Union foreign ministers could not reach a consensus on imposing sanctions against Israeli far-right minister Itamar Ben-Gvir. The division within the EU highlights differing approaches to Israeli policies and the broader Middle East conflict.",
+      "location": "Brussels, Belgium",
+      "lat": 50.8371,
+      "lng": 4.3676,
+      "date": "Jun 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
