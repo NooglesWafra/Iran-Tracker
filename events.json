@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-06-16T05:59:12-04:00", "threatLevel": "HIGH", "weeklyStats": {"kinetic": 15, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "diplomatic", "title": "US and Iran Sign Interim Deal to End War", "desc": "The United States and Iran have signed an interim agreement to end their prolonged conflict. The deal, which includes provisions for the reopening of the Strait of Hormuz, was announced by US President Donald Trump. Details remain vague, and the full implications are yet to be seen, but the agreement signals a significant de-escalation.", "location": "Geneva", "lat": 46.2044, "lng": 6.1444, "date": "Jun 16, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear"}, {"id": 2, "type": "diplomatic", "title": "G7 Leaders Meet to Discuss Iran and Ukraine", "desc": "Leaders of the G7 nations are convening in France, with discussions heavily focused on the ongoing conflict with Iran and the situation in Ukraine. French President Emmanuel Macron indicated that reopening the Strait of Hormuz would be a key topic, alongside concerns about Iran's nuclear program.", "location": "Evian-les-Bains, France", "lat": 46.4066, "lng": 6.7913, "date": "Jun 16, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7"}, {"id": 3, "type": "kinetic", "title": "Iran Executes Two for 2026 Unrest", "desc": "Iran has executed two individuals identified as 'armed leaders of early 2026 unrest' in the city of Shahrud. The judiciary's news outlet Mizan reported that the men, Javad Zamani and Abolfazl Saedi, were convicted of serious charges including 'waging war against God' and crimes against national security.", "location": "Shahrud, Iran", "lat": 36.4196, "lng": 54.9625, "date": "Jun 16, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/06/iran-executes-two-men-over-role-january-2026-protests-judiciary-news-outlet-says"}, {"id": 4, "type": "kinetic", "title": "Israeli Airstrikes in Southern Lebanon", "desc": "Reports indicate that Israeli air strikes have targeted southern Lebanon, including the city of Tyre, despite warnings from Iran. These strikes have resulted in casualties, with at least 17 people reportedly killed in the town of Tayr Debba.", "location": "Southern Lebanon", "lat": 33.2833, "lng": 35.1500, "date": "Jun 16, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cpq3d44l907o"}, {"id": 5, "type": "kinetic", "title": "Hezbollah Targets Struck in Beirut by Israel", "desc": "The Israeli military announced it had struck targets belonging to the Iran-backed group Hezbollah in Beirut. This action occurred as Tehran warned that such strikes could jeopardize the recently announced US-Iran deal to end the wider conflict.", "location": "Beirut, Lebanon", "lat": 33.8938, "lng": 35.5018, "date": "Jun 16, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/czj83zlx1vjo"}, {"id": 6, "type": "kinetic", "title": "Three Indian Sailors Killed in US Strike on Oil Tanker", "desc": "The US military has confirmed the deaths of three Indian sailors following an attack on a Palau-flagged oil tanker. The US stated the strike was a result of the tanker not complying with directions near the Strait of Hormuz.", "location": "Persian Gulf", "lat": 26.0707, "lng": 52.1373, "date": "Jun 16, 2026", "escalation": true, "url": "https://www.bbc.com/news/articles/cy73dr081p8o"}, {"id": 7, "type": "kinetic", "title": "US Air Force B-52 Bomber Crashes", "desc": "An eight-member crew was killed when a US Air Force B-52 bomber crashed during a routine test mission in California. The exact cause of the crash is under investigation.", "location": "California, USA", "lat": 37.0902, "lng": -119.4179, "date": "Jun 16, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/06/16/us-b-52-bomber-crashes-in-california-what-we-know"}, {"id": 8, "type": "diplomatic", "title": "Iran Issues Statement on Israeli Occupation in Lebanon", "desc": "Iran has declared that any continued Israeli occupation in Lebanon would constitute a breach of the Memorandum of Understanding (MoU) signed with the United States. This statement adds a layer of complexity to the fragile peace agreement.", "location": "Tehran, Iran", "lat": 35.6892, "lng": 51.3890, "date": "Jun 16, 2026", "escalation": false, "url": "https://www.aljazeera.com/video/newsfeed/2026/06/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal"}, {"id": 9, "type": "kinetic", "title": "US Navy Uses Iranian Smuggling Tactic for Oil Exports", "desc": "The United States military has reportedly employed a ship-to-ship oil transfer tactic, similar to methods used by Iran, to facilitate oil exports from the Gulf. This operation involved the use of drones and helicopters to guide tankers.", "location": "Persian Gulf", "lat": 26.0707, "lng": 52.1373, "date": "Jun 16, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/06/exclusive-us-using-iranian-smuggling-tactic-sneak-oil-out-gulf"}, {"id": 10, "type": "kinetic", "title": "Russian Grain Smuggling to Libya Tracked", "desc": "An investigation using AIS data has tracked the movement of a bulk carrier, the Grumant, from occupied Ukrainian territory to Libya, allegedly involved in grain smuggling. This highlights ongoing illicit trade activities.", "location": "Libya", "lat": 27.5197, "lng": 17.1992, "date": "Jun 12, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/2026/06/12/shadow-fleet-russian-grain-stolen-ukraine-libya-ais-technique-grumant/"}, {"id": 11, "type": "kinetic", "title": "Ongoing Demolitions in Southern Lebanon", "desc": "Despite a fragile ceasefire, satellite imagery reveals extensive demolitions across southern Lebanon. At least 46 out of 54 towns and villages within the Israel Defense Forces' 'Yellow Line' have suffered heavy damage, with some being completely flattened.", "location": "Southern Lebanon", "lat": 33.2833, "lng": 35.1500, "date": "May 14, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"}, {"id": 12, "type": "kinetic", "title": "Damaged Police Infrastructure in Iran", "desc": "In the initial three weeks of the US and Israeli war against Iran, at least 80 police stations and related infrastructure have been damaged or destroyed. This campaign appears aimed at degrading the Iranian regime's repressive capabilities.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Apr 24, 2026", "escalation": true, "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/"}, {"id": 13, "type": "kinetic", "title": "Russian Submunitions Found in Mali", "desc": "Unexploded Russian-made cluster munition bomblets have been discovered in northern Mali, raising concerns as the country is a state party to the Convention on Cluster Munitions. This discovery follows Mali's announcement of airstrikes.", "location": "Mali", "lat": 16.7772, "lng": 1.4797, "date": "May 26, 2026", "escalation": false, "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/"}, {"id": 14, "type": "kinetic", "title": "US-Iran Hostilities Intensify", "desc": "Hostilities between the US and Iran have notably increased, ending a recent truce. Fighting has intensified between Israel and Hezbollah, with direct strikes traded between Iran and Israel on June 7. Iran has linked these actions to ongoing US-Iranian negotiations.", "location": "Middle East", "lat": 31.0000, "lng": 38.0000, "date": "Jun 10, 2026", "escalation": true, "url": "https://warontherocks.com/strike-counterstrike-repeat/"}, {"id": 15, "type": "kinetic", "title": "Lebanese Armed Forces Slow Progress on Disarmament", "desc": "The Lebanese Armed Forces have made slow progress in their plan to disarm Hezbollah, partly due to fears of internal splintering. Meanwhile, Israeli attacks continue, complicating efforts towards a stable ceasefire.", "location": "Lebanon", "lat": 33.8567, "lng": 35.8616, "date": "Jun 16, 2026", "escalation": true, "url": "https://warontherocks.com/how-can-lebanons-partners-help-strengthen-the-lebanese-armed-forces/"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-06-16T10:59:09-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 15,
+    "cyber": 0,
+    "nuclear": 1
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "diplomatic",
+      "title": "US and Iran Announce Deal to End Conflict, Reopen Strait of Hormuz",
+      "desc": "The United States and Iran have announced a deal to end their recent conflict, with a commitment to the immediate and permanent termination of military operations on all fronts. A key component of the agreement is the reopening of the Strait of Hormuz, a vital waterway for global oil transport. This development has led to a drop in oil prices and a rise in stock markets.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2206,
+      "lng": 56.2350,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c39yvvy273ko"
+    },
+    {
+      "id": 2,
+      "type": "nuclear",
+      "title": "Trump States Iran Will Not Possess Nuclear Weapon Under New Deal",
+      "desc": "U.S. President Donald Trump asserted that a memorandum of understanding with Iran clearly states Tehran will not develop nuclear weapons. He indicated that the text of this agreement would be formally released and suggested the possibility of submitting the deal to Congress for review, a move sought by some Republican lawmakers.",
+      "location": "G7 Summit, France",
+      "lat": 45.9237,
+      "lng": 6.6713,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/trump-says-memo-states-clearly-iran-will-not-have-nuclear-weapon"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israeli Air Strikes Target Hezbollah in Beirut Amidst Deal Uncertainty",
+      "desc": "The Israeli military reported conducting air strikes on targets associated with Hezbollah in Beirut. Iran issued a warning that such actions could jeopardize the recently announced US-Iran deal to end the fighting. This exchange highlights the volatile security situation and the potential for de-escalation to falter.",
+      "location": "Beirut, Lebanon",
+      "lat": 33.8869,
+      "lng": 35.5135,
+      "date": "Jun 16, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Families Return to Damaged Homes in Southern Lebanon Following Ceasefire",
+      "desc": "Thousands of Lebanese are returning to their homes in southern Lebanon, which sustained significant damage during recent hostilities. The return occurs despite Israel indicating it would not end its occupation of Lebanon. The fragile ceasefire appears to be holding, but the long-term impact of the destruction is severe.",
+      "location": "Southern Lebanon",
+      "lat": 33.4000,
+      "lng": 35.5000,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/features/2026/6/16/lebanese-rush-back-to-their-devastated-homes-in-south-after-us-iran-deal"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Satellite Imagery Confirms Widespread Demolition in Southern Lebanon",
+      "desc": "Recent satellite imagery reveals extensive destruction in southern Lebanon, with at least 46 out of 54 towns and villages within the Israel Defense Forces' 'Yellow Line' being heavily damaged or completely flattened. While a ceasefire is reportedly holding, the scale of demolition indicates significant recent conflict.",
+      "location": "Southern Lebanon",
+      "lat": 33.4000,
+      "lng": 35.5000,
+      "date": "May 14, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Iran Executes Two Individuals Over January 2026 Unrest",
+      "desc": "Iran's judiciary news outlet Mizan reported the execution of two individuals, identified as Javad Zamani and Abolfazl Saedi, in the county of Shahrud. They were convicted of charges including 'waging war against God' and 'corruption on earth' stemming from their alleged roles in protests in early 2026.",
+      "location": "Shahrud County, Iran",
+      "lat": 36.4167,
+      "lng": 54.9667,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/iran-executes-two-men-over-role-january-2026-protests-judiciary-news-outlet-says"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Israeli Court Upholds Detention of Palestinian Doctor Without Charge",
+      "desc": "Israel's Supreme Court rejected an appeal for the release of a prominent Palestinian doctor, Hussam Abu Safiya, who has been held without charge since his capture in Gaza in late 2024. He is among at least 14 Gaza doctors detained in Israel under similar circumstances.",
+      "location": "Gaza Strip",
+      "lat": 31.4000,
+      "lng": 34.3000,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/israeli-supreme-court-rejects-appeal-release-gaza-doctor-held-without-charge"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Lebanon and Israel Trade Strikes Amidst Ceasefire Efforts",
+      "desc": "Following intensified fighting between Israel and Hezbollah, both sides have engaged in direct strikes. While a US-Iran deal has been announced to end the broader conflict, recent escalations, including Israeli air strikes in southern Lebanon that reportedly killed 17 people, underscore the precariousness of the situation.",
+      "location": "Southern Lebanon",
+      "lat": 33.4000,
+      "lng": 35.5000,
+      "date": "Jun 16, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Three Indian Sailors Killed in US Strike on Oil Tanker",
+      "desc": "The US military struck a Palau-flagged oil tanker, resulting in the deaths of three Indian sailors. The US stated the action was taken after the tanker failed to comply with directions. This incident adds to maritime security concerns in the region.",
+      "location": "Persian Gulf",
+      "lat": 27.0000,
+      "lng": 53.0000,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o"
+    },
+    {
+      "id": 10,
+      "type": "diplomatic",
+      "title": "Turkey Urges Russia to Avoid Actions Threatening Black Sea Security",
+      "desc": "Turkey's foreign minister communicated to his Russian counterpart the necessity of avoiding actions in the Black Sea that could jeopardize regional security and Turkish interests. Turkey reiterated its offer to mediate between Ukraine and Russia, amidst ongoing tensions and accusations of drone attacks.",
+      "location": "Black Sea",
+      "lat": 44.0000,
+      "lng": 32.0000,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/turkey-told-russia-avoid-steps-threatening-security-interests-black-sea"
+    },
+    {
+      "id": 11,
+      "type": "diplomatic",
+      "title": "US-Iran Deal's Impact on Lebanon Remains Unclear",
+      "desc": "While Pakistan announced that the US-Iran deal includes Lebanon, the effectiveness of recent ceasefires in the region has been limited. The inclusion of Lebanon in the broader agreement suggests an attempt to de-escalate regional tensions, but recent events indicate challenges in achieving lasting peace.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8613,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/cd952n4qz2qo"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Israel Seizes Control of Hebron Shrine Powers from Palestinian Authority",
+      "desc": "Israel has revoked the Palestinian Authority's planning and construction powers at a shrine in Hebron, a site sacred to both Jews and Muslims. This move nullifies an agreement from the 1990s, altering the management of the Tomb of the Patriarchs and the Ibrahimi Mosque.",
+      "location": "Hebron, West Bank",
+      "lat": 31.5200,
+      "lng": 35.1025,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/06/israel-seizes-powers-over-hebron-shrine-palestinian-authority"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Banned Russian Submunitions Discovered in Mali After Airstrikes",
+      "desc": "Unexploded cluster munition bomblets, identified as Russian-made and banned under international convention, have been found in northern Mali. Their discovery follows an announcement of airstrikes by Mali's military, raising concerns about the use of prohibited weapons.",
+      "location": "Mali",
+      "lat": 17.0000,
+      "lng": -4.0000,
+      "date": "May 26, 2026",
+      "escalation": false,
+      "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/"
+    },
+    {
+      "id": 14,
+      "type": "proxy",
+      "title": "Iran-US Deal Triggers Debate on Regional Factional Politics",
+      "desc": "Factional divisions within Iran are surfacing as leaders discuss the implementation of a deal with the US. Hardliners and moderates are reportedly debating the agreement, with concerns raised about potential capitulation. This internal debate highlights the complex political landscape in Iran.",
+      "location": "Tehran, Iran",
+      "lat": 35.7153,
+      "lng": 51.3856,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/6/16/hardliners-and-moderates-what-do-irans-factions-think-of-deal-with-us"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "US-Iran Deal Announced, Strait of Hormuz to Reopen",
+      "desc": "A comprehensive deal has been reached between the US and Iran to end the recent conflict, with both sides declaring an 'immediate and permanent termination of military operations on all fronts.' President Donald Trump confirmed that the Strait of Hormuz will be reopened as part of the agreement.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2206,
+      "lng": 56.2350,
+      "date": "Jun 16, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.com/news/articles/c39yvvy273ko"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
