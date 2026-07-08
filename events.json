@@ -1,1 +1,235 @@
-{"lastUpdated": "2026-07-08T12:59:10-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 15, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US and Iran Exchange Strikes Over Strait of Hormuz", "desc": "The US military reported striking missile sites and command centers in Iran, while Iran claimed to have attacked US bases. This exchange follows attacks on cargo ships in the Strait of Hormuz, escalating tensions in the region.", "location": "Strait of Hormuz", "lat": 26.7000, "lng": 56.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"}, {"id": 2, "type": "kinetic", "title": "US Strikes Iran After Attack on Cargo Ship", "desc": "Iran accused the US of violating their deal and stated it launched retaliatory attacks on targets linked to American forces. This action comes after the US conducted strikes in response to an attack on a cargo ship.", "location": "Persian Gulf", "lat": 26.0000, "lng": 51.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"}, {"id": 3, "type": "kinetic", "title": "Trump Threatens Further Strikes on Iran, Declares MOU 'Over'", "desc": "US President Donald Trump threatened further strikes on Iran, stating that an initial ceasefire deal with the Islamic Republic was \"over\". This follows renewed attacks around the Strait of Hormuz, intensifying concerns about a broader conflict.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/trump-iran-us-will-probably-hit-them-again-wednesday-night?traffic_source=rss"}, {"id": 4, "type": "kinetic", "title": "Israeli Airstrikes Kill Seven in Gaza", "desc": "Israeli airstrikes and gunfire resulted in the deaths of at least seven Palestinians, including two children, in the Gaza Strip. The Israeli military stated it struck militants but was unaware of civilian casualties.", "location": "Gaza Strip", "lat": 31.3547, "lng": 34.3110, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/israeli-fire-kills-seven-people-including-two-children-gaza-medics-say?traffic_source=rss"}, {"id": 5, "type": "kinetic", "title": "Pakistan Military Reports 42 Killed in Balochistan Fighter Attacks", "desc": "The Pakistan military announced that 42 individuals were killed in fighter attacks in Balochistan, with a military spokesman vowing to pursue the perpetrators.", "location": "Balochistan", "lat": 27.0000, "lng": 64.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.al-azeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss"}, {"id": 6, "type": "kinetic", "title": "Bomb Blasts Injure 18 in Damascus During Macron's Visit", "desc": "Two bomb explosions in Damascus injured 18 people. The attacks occurred during a visit by French President Macron, although state television reported Macron was welcomed by the Syrian President.", "location": "Damascus", "lat": 33.5138, "lng": 36.3031, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss"}, {"id": 7, "type": "kinetic", "title": "US and Iran Exchange Strikes After Tankers Hit in Strait of Hormuz", "desc": "The US military reported striking missile sites and command centers while Iran claimed to have attacked US bases. This escalation follows attacks on tankers in the Strait of Hormuz and accusations of ceasefire violations.", "location": "Strait of Hormuz", "lat": 26.7000, "lng": 56.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"}, {"id": 8, "type": "kinetic", "title": "Israeli Fire Kills Seven, Including Two Children, in Gaza", "desc": "Israeli airstrikes and gunfire killed at least seven Palestinians, including two children, in the Gaza Strip. Health officials confirmed the casualties, while the Israeli military stated it struck militants.", "location": "Gaza Strip", "lat": 31.3547, "lng": 34.3110, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/israeli-fire-kills-seven-people-including-two-children-gaza-medics-say?traffic_source=rss"}, {"id": 9, "type": "kinetic", "title": "Headteacher Among Four Killed in Deadliest Israeli Attack on Lebanon Since Ceasefire", "desc": "Four people, including a headteacher, were killed in an Israeli attack on southern Lebanon, described as the deadliest since the latest ceasefire. Three women and one man were reportedly traveling in a car when the attack occurred.", "location": "Southern Lebanon", "lat": 33.0000, "lng": 35.5000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss"}, {"id": 10, "type": "kinetic", "title": "Bomb Blast at Damascus Cafe Kills Nine", "desc": "A bomb blast at a cafe in Damascus killed nine people. The cafe was located near the Palace of Justice, a significant government building. No group has claimed responsibility for the attack.", "location": "Damascus", "lat": 33.5138, "lng": 36.3031, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"}, {"id": 11, "type": "kinetic", "title": "Fourteen Killed in Saudi Arabia Helicopter Crash", "desc": "A helicopter belonging to the Saudi state oil giant Aramco crashed, resulting in fourteen fatalities. The cause of the crash is currently under investigation.", "location": "Saudi Arabia", "lat": 24.0000, "lng": 45.0000, "date": "Jul 08, 2026", "escalation": false, "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"}, {"id": 12, "type": "kinetic", "title": "US Strikes Iran After Attack on Cargo Ship", "desc": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response. This follows US strikes after an attack on a cargo ship.", "location": "Persian Gulf", "lat": 26.0000, "lng": 51.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"}, {"id": 13, "type": "kinetic", "title": "Russia Bans Diesel Exports Amid Ukrainian Drone Attacks", "desc": "Russia has implemented a ban on diesel exports to bolster its domestic fuel market, following persistent Ukrainian drone attacks on oil refineries that have caused shortages and price spikes.", "location": "Russia", "lat": 60.0000, "lng": 100.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/russia-bans-diesel-exports-ensure-domestic-supply-after-targeted-ukrainian-drone"}, {"id": 14, "type": "kinetic", "title": "Iran's Nuclear and Military Damage Revealed in Satellite Images", "desc": "Restricted satellite imagery has revealed damage to Iranian nuclear sites, ballistic missile infrastructure, and naval bases following recent strikes.", "location": "Iran", "lat": 32.0000, "lng": 53.0000, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss"}, {"id": 15, "type": "kinetic", "title": "Trump Says Israel Will Withdraw Troops from Southern Lebanon", "desc": "US President Donald Trump expressed his belief that Israel would withdraw troops from southern Lebanon, stating he had discussed the matter with Israeli Prime Minister Netanyahu and that a deal was in place.", "location": "Southern Lebanon", "lat": 33.0000, "lng": 35.5000, "date": "Jul 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/trump-says-he-thinks-israel-will-withdraw-troops-southern-lebanon?traffic_source=rss"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-07-08T12:59:55-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 17,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US Strikes Iran Following Strait of Hormuz Incident",
+      "desc": "The US military conducted strikes on missile sites and command centers in Iran following an incident involving attacks on cargo ships in the Strait of Hormuz. Iran claimed to have attacked US bases in response, escalating tensions in the region. This exchange threatens a previously agreed-upon interim peace deal.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 56.2667,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Iran Escalates with Retaliatory Strikes on US Infrastructure",
+      "desc": "Iran announced retaliatory attacks on US infrastructure in Kuwait and Bahrain following US strikes across Iran. This action directly violates the ceasefire and escalates the conflict, with both sides accusing each other of breaking their agreements.",
+      "location": "Kuwait and Bahrain",
+      "lat": 29.3759,
+      "lng": 47.9589,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Trump Threatens Further Strikes on Iran",
+      "desc": "US President Donald Trump stated that the US would 'probably' carry out another round of strikes on Iran, suggesting the interim peace deal was 'over'. This indicates a potential shift back towards full-scale conflict despite previous diplomatic efforts.",
+      "location": "Iran",
+      "lat": 32.0833,
+      "lng": 53.0833,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-iran-us-will-probably-hit-them-again-wednesday-night"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Israeli Airstrikes Kill Seven Palestinians in Gaza",
+      "desc": "At least seven Palestinians, including two children, were killed in Israeli airstrikes and gunfire in the Gaza Strip. The Israeli military stated it struck militants but was unaware of civilian casualties, highlighting ongoing conflict and the risk to non-combatants.",
+      "location": "Gaza Strip",
+      "lat": 31.4167,
+      "lng": 34.3333,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/israeli-fire-kills-seven-people-including-two-children-gaza-medics-say"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Pakistan Military Reports 42 Killed in Balochistan Fighter Attacks",
+      "desc": "The Pakistan military announced that 42 individuals were killed in fighter attacks in Balochistan. A military spokesman vowed to pursue the attackers, indicating a significant escalation of violence and a strong retaliatory stance from Pakistan.",
+      "location": "Balochistan, Pakistan",
+      "lat": 27.3333,
+      "lng": 65.5000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Bombings in Damascus Kill Nine",
+      "desc": "A bomb blast at a cafe in Damascus killed nine people. The bombing occurred near the Palace of Justice, a significant government building, raising concerns about the security situation in the Syrian capital.",
+      "location": "Damascus, Syria",
+      "lat": 33.5138,
+      "lng": 36.2913,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Headteacher Among Four Killed in Israeli Attack on Southern Lebanon",
+      "desc": "An Israeli strike in southern Lebanon killed four people, including a headteacher, who were travelling in a car. This marks the deadliest attack since the latest ceasefire, indicating a breakdown in the cessation of hostilities.",
+      "location": "Southern Lebanon",
+      "lat": 33.2000,
+      "lng": 35.5000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Russian Diesel Export Ban Amid Ukrainian Drone Attacks",
+      "desc": "Russia has imposed a ban on diesel exports to secure domestic supply following intensified Ukrainian drone attacks on oil refineries. These attacks have led to shortages and price spikes, impacting fuel availability.",
+      "location": "Russia",
+      "lat": 61.5240,
+      "lng": 105.3188,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/russia-bans-diesel-exports-ensure-domestic-supply-after-targeted-ukrainian-drone"
+    },
+    {
+      "id": 9,
+      "type": "proxy",
+      "title": "US Charges Indian Crime Leader in Sikh Activist Assassination",
+      "desc": "The United States has indicted an Indian crime leader and linked him to the assassination of a Sikh activist. This development has strained India-Canada relations and highlights the transnational nature of targeted killings.",
+      "location": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "proxy",
+      "title": "US Mediation Plan for Libya Involves Oil Investments for Unity",
+      "desc": "A US-led mediation plan for Libya, spearheaded by Massad Boulos, proposes oil investments as an incentive for rival factions to cooperate. This initiative aims to stabilize the country through economic leverage.",
+      "location": "Libya",
+      "lat": 26.3351,
+      "lng": 17.2283,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/7/8/oil-for-unity-what-is-the-us-mediation-plan-in-libya?traffic_source=rss"
+    },
+    {
+      "id": 11,
+      "type": "diplomatic",
+      "title": "Germany Urges US-Iran Negotiations and Offers Minesweeping Support",
+      "desc": "German Foreign Minister Johann Wadephul has called for renewed negotiations between the US and Iran, while also offering to assist with minesweeping operations in the Strait of Hormuz, signaling a diplomatic push to de-escalate tensions.",
+      "location": "Strait of Hormuz",
+      "lat": 26.6667,
+      "lng": 56.2667,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss"
+    },
+    {
+      "id": 12,
+      "type": "diplomatic",
+      "title": "Trump Considers Removing Syria from Terrorist Blacklist",
+      "desc": "President Donald Trump indicated that the US is prepared to remove Syria from its terror blacklist. This move could significantly impact Syria's post-war reconstruction efforts.",
+      "location": "Syria",
+      "lat": 34.8021,
+      "lng": 38.9968,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-says-us-poised-drop-syria-terror-blacklist"
+    },
+    {
+      "id": 13,
+      "type": "diplomatic",
+      "title": "Lebanon's Aoun to Meet Trump Amid US-Israel Talks",
+      "desc": "Lebanese President Aoun is scheduled to meet with President Trump in the US, marking the first presidential summit between the two nations since 2009. The meeting coincides with ongoing US-sponsored negotiations between Lebanon and Israel.",
+      "location": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/lebanons-aoun-meet-trump-first-presidential-summit-us-2009"
+    },
+    {
+      "id": 14,
+      "type": "diplomatic",
+      "title": "Trump Board of Peace Planning Humanitarian Zone in Gaza",
+      "desc": "Donald Trump's Board of Peace is developing plans for a pilot humanitarian zone in Gaza, aimed at revitalizing the stalled peace process. This initiative will proceed regardless of a deal with Hamas on the plan's second phase.",
+      "location": "Gaza Strip",
+      "lat": 31.4167,
+      "lng": 34.3333,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/trumps-board-peace-planning-pilot-humanitarian-zone-gaza-official-says"
+    },
+    {
+      "id": 15,
+      "type": "diplomatic",
+      "title": "IMF Lowers 2026 Global Growth Forecast Amid Middle East Conflict",
+      "desc": "The International Monetary Fund (IMF) has reduced its 2026 global growth forecast, citing \"uncertainty and risks\" associated with renewed fighting in the Middle East. The conflict is impacting the economic outlook, highlighting geopolitical instability's broader effects.",
+      "location": "Middle East",
+      "lat": 31.0000,
+      "lng": 38.0000,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/imf-cuts-2026-world-growth-forecast-flags-risks-new-mideast-fighting"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
