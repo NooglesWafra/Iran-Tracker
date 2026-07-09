@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-07-08T17:59:49-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 15, "cyber": 1, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Conducts New Wave of Strikes on Iran", "desc": "The U.S. military is conducting fresh strikes on Iran, hours after President Donald Trump declared that an interim agreement to end the war with Iran was 'over'. The strikes are aimed at degrading Iran's ability to threaten freedom of navigation in the Strait of Hormuz.", "location": "Strait of Hormuz", "lat": 26.4836, "lng": 55.9558, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/us-military-conducting-fresh-strikes-iran"}, {"id": 2, "type": "kinetic", "title": "US and Iran Exchange Strikes in Strait of Hormuz", "desc": "The US military reported hitting missile sites and command centers in Iran, while Iran stated it attacked US bases. This exchange follows attacks on cargo ships in the Strait of Hormuz, escalating tensions.", "location": "Strait of Hormuz", "lat": 26.4836, "lng": 55.9558, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo"}, {"id": 3, "type": "kinetic", "title": "US Strikes Iran After Attack on Cargo Ship", "desc": "The US military conducted strikes on Iran following an attack on a cargo ship. Iran accused the US of violating their deal and stated it retaliated by striking targets linked to American forces.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo"}, {"id": 4, "type": "kinetic", "title": "Deadly Israeli Strikes in Gaza", "desc": "Israeli airstrikes in Khan Yunis and Gaza City resulted in five deaths and wounded individuals, including children. The attacks underscore the ongoing conflict and humanitarian crisis in the region.", "location": "Gaza City", "lat": 31.5205, "lng": 34.4587, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss"}, {"id": 5, "type": "kinetic", "title": "US to Remove Syria from Terrorist Blacklist", "desc": "The United States announced its decision to delist Syria as a state sponsor of terrorism, a designation held since 1979. This move is seen as a significant boost to leader Ahmed al-Sharaa and aims to facilitate investment.", "location": "Syria", "lat": 34.8021, "lng": 38.9968, "date": "Jul 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/us-remove-syria-terror-blacklist-new-boost-sharaa"}, {"id": 6, "type": "kinetic", "title": "Bomb Blast in Damascus", "desc": "A bomb explosion occurred at a cafe near the Palace of Justice in Damascus, resulting in nine fatalities. No group has yet claimed responsibility for the attack.", "location": "Damascus", "lat": 33.4487, "lng": 36.2963, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo"}, {"id": 7, "type": "kinetic", "title": "Israel Strikes Southern Lebanon", "desc": "Following a new deal signed between Lebanon and Israel, Israeli forces conducted strikes in southern Lebanon, killing at least one person. Hezbollah condemned the new agreement.", "location": "Southern Lebanon", "lat": 33.4250, "lng": 35.6460, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo"}, {"id": 8, "type": "kinetic", "title": "Headteacher Among Four Killed in Israeli Attack on Lebanon", "desc": "The deadliest Israeli attack on Lebanon since the recent ceasefire claimed four lives, including a headteacher. The victims were traveling in a car after visiting family.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8623, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do"}, {"id": 9, "type": "kinetic", "title": "Fourteen Killed in Saudi Arabia Helicopter Crash", "desc": "A helicopter belonging to Saudi Aramco crashed, resulting in fourteen fatalities. The cause of the crash is currently under investigation.", "location": "Saudi Arabia", "lat": 24.7136, "lng": 46.6753, "date": "Jul 08, 2026", "escalation": false, "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo"}, {"id": 10, "type": "kinetic", "title": "Houthi Threat to Maritime Shipping", "desc": "This article re-examines the Houthi threat to maritime shipping in the Red Sea, noting the shift in global attention to the Strait of Hormuz and questioning the adequacy of the international response.", "location": "Red Sea", "lat": 21.0462, "lng": 38.3697, "date": "Jul 08, 2026", "escalation": false, "url": "https://warontherocks.com/a-fresh-look-at-the-houthi-threat-to-maritime-shipping/"}, {"id": 11, "type": "kinetic", "title": "Somali Pirates Re-emerge", "desc": "Recent pirate attacks, including the hijacking of three merchant vessels, signal the resurgence of Somali piracy. The article notes the absence of the multinational coalitions that previously combatted the threat.", "location": "Horn of Africa", "lat": 12.4449, "lng": 49.0906, "date": "Jul 08, 2026", "escalation": true, "url": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/"}, {"id": 12, "type": "kinetic", "title": "US Military Strikes Iran's Nuclear and Military Infrastructure", "desc": "The U.S. military is conducting strikes targeting Iran's nuclear sites, ballistic missile infrastructure, and naval bases. This action follows heightened tensions and attacks on commercial shipping.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 08, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno"}, {"id": 13, "type": "diplomatic", "title": "Rahm Emanuel Urges Israel to Change Course on Palestinians", "desc": "Rahm Emanuel, considering a 2028 presidential run, advised Israel to alter its approach to the Palestinian issue, warning that growing unease among U.S. voters risks jeopardizing the alliance with Washington.", "location": "Tel Aviv", "lat": 32.0853, "lng": 34.7818, "date": "Jul 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/democrat-rahm-emanuel-tells-israel-change-course-or-risk-us-alliance"}, {"id": 14, "type": "diplomatic", "title": "Pakistan Urges Adherence to Islamabad MoU", "desc": "Following President Trump's declaration that the interim deal with Iran was 'over,' Pakistan urged all parties to uphold their commitments under the Islamabad Memorandum of Understanding, emphasizing its role in regional stability.", "location": "Islamabad", "lat": 33.6844, "lng": 73.0479, "date": "Jul 08, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/pakistan-urges-all-sides-uphold-commitments-under-islamabad-mou"}, {"id": 15, "type": "cyber", "title": "Gathering Clouds: Building Digital Strategic Depth", "desc": "This article discusses the increasing vulnerability of data centers and cloud regions as strategic targets in modern warfare due to cyber capabilities and long-range strike systems. It calls for a re-evaluation of 'strategic depth' in the context of data resilience.", "location": "Global", "lat": 0, "lng": 0, "date": "Jul 08, 2026", "escalation": false, "url": "https://warontherocks.com/cogs-of-war/gathering-clouds-building-digital-strategic-depth-in-the-compute-age/"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-07-08T22:59:41-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 25,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US conducts fresh strikes on Iran",
+      "desc": "The U.S. military is conducting fresh strikes on Iran, the U.S. Central Command announced, hours after President Donald Trump declared that an interim agreement to end the war with Iran was 'over.' The strikes are aimed at degrading Iran's ability to threaten freedom of navigation in the Strait of Hormuz.",
+      "location": "Strait of Hormuz",
+      "lat": 26.5000,
+      "lng": 54.0000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-military-conducting-fresh-strikes-iran"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US and Iran exchange strikes after tanker attacks",
+      "desc": "The US military stated it hit missile sites and command centers while Iran claimed it attacked US bases. This exchange follows attacks on cargo ships in the Strait of Hormuz and Trump's declaration that the interim agreement to end the war was 'over.'",
+      "location": "Strait of Hormuz",
+      "lat": 26.5000,
+      "lng": 54.0000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Iran conducts retaliatory strikes on US infrastructure",
+      "desc": "Iran stated it launched retaliatory attacks at US infrastructure in Kuwait and Bahrain following US strikes on multiple targets across Iran. This escalation occurred after the US military conducted fresh strikes and President Trump declared an interim agreement to end the war 'over.'",
+      "location": "Kuwait City, Kuwait / Manama, Bahrain",
+      "lat": 29.3759,
+      "lng": 47.9959,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US expands military strikes on Iran",
+      "desc": "US forces have expanded their military strikes on Iran, following President Donald Trump's statement that he would 'hit them hard' and his declaration that the interim agreement to end the war was 'over.' The strikes aim to degrade Iran's ability to threaten freedom of navigation.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "US strikes Iran after tanker attacks in Strait of Hormuz",
+      "desc": "The US military conducted strikes on Iran after blaming Tehran for recent attacks on commercial shipping and civilian crews in the Strait of Hormuz. President Trump declared an interim agreement to end the war 'over' following the exchange.",
+      "location": "Strait of Hormuz",
+      "lat": 26.5000,
+      "lng": 54.0000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US bombs targets in Iran, including in Iranshahr and Chabahar",
+      "desc": "US attacks killed at least one person in the city of Iranshahr and caused widespread power outages in Chabahar, Iran. This follows retaliatory strikes from Iran on US military sites in Bahrain and Kuwait.",
+      "location": "Iranshahr, Iran / Chabahar, Iran",
+      "lat": 27.2150,
+      "lng": 60.6825,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Iran nuclear and military damage revealed after satellite images released",
+      "desc": "Restricted satellite imagery has revealed damage to Iranian targets, including ballistic missile infrastructure, nuclear sites, and naval bases, following recent US strikes.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Bomb blast at Damascus cafe kills nine",
+      "desc": "A bomb blast at a cafe near the Palace of Justice in Damascus killed nine people. There was no immediate claim of responsibility for the attack.",
+      "location": "Damascus, Syria",
+      "lat": 33.5138,
+      "lng": 36.3042,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Headteacher among four killed in Israeli attack on southern Lebanon",
+      "desc": "An Israeli strike in southern Lebanon killed at least four people, including a headteacher, who were travelling in a car. The attack occurred a day after Lebanon and Israel signed a framework agreement.",
+      "location": "Southern Lebanon",
+      "lat": 33.5000,
+      "lng": 36.0000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+      "desc": "Eighteen people were injured in bomb explosions in Damascus during a visit by French President Macron. State television reported that Syrian President Bashar al-Assad welcomed Macron at the presidential palace despite the attacks.",
+      "location": "Damascus, Syria",
+      "lat": 33.5138,
+      "lng": 36.3042,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "desc": "A helicopter belonging to Saudi oil giant Aramco crashed in Saudi Arabia, killing fourteen people. The cause of the crash is under investigation.",
+      "location": "Saudi Arabia",
+      "lat": 25.0000,
+      "lng": 45.0000,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Landslide hits Rohingya school in Bangladesh, killing eight",
+      "desc": "A landslide struck a girls' school at a refugee camp in Bangladesh, killing at least eight people, including seven children and a teacher.",
+      "location": "Bangladesh",
+      "lat": 24.0000,
+      "lng": 90.0000,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/eight-killed-as-landslide-hits-rohingya-school-in-bangladesh?traffic_source=rss"
+    },
+    {
+      "id": 13,
+      "type": "proxy",
+      "title": "Houthi attacks on maritime shipping continue",
+      "desc": "The Houthi threat to maritime shipping in the Red Sea and Strait of Hormuz remains a significant concern. An analysis suggests the international response has been inadequate, with attention shifting between these key waterways.",
+      "location": "Red Sea / Strait of Hormuz",
+      "lat": 21.0000,
+      "lng": 53.0000,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/a-fresh-look-at-the-houthi-threat-to-maritime-shipping/"
+    },
+    {
+      "id": 14,
+      "type": "proxy",
+      "title": "Somali piracy re-emerging",
+      "desc": "Somali piracy is re-emerging, with several recent attacks including the hijacking of three merchant vessels. The conditions that allowed for its previous suppression by multinational coalitions are no longer in place.",
+      "location": "Horn of Africa",
+      "lat": 2.0000,
+      "lng": 45.0000,
+      "date": "Jul 08, 2026",
+      "escalation": true,
+      "url": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/"
+    },
+    {
+      "id": 15,
+      "type": "proxy",
+      "title": "Hizballah predicament requires integrated approach",
+      "desc": "Hizballah's complex nature as a militia, political party, and social services network poses unique challenges. Leaders must adopt an integrated approach to address the 'Hizballah predicament' effectively, avoiding conditions that could lead to new conflicts.",
+      "location": "Levant",
+      "lat": 33.8500,
+      "lng": 35.8500,
+      "date": "Jul 08, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/the-hizballah-predicament-why-an-integrated-approach-is-necessary/"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
