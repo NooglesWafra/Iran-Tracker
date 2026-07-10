@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T04:59:43-04:00",
+  "lastUpdated": "2026-07-10T09:59:51-04:00",
   "threatLevel": "HIGH",
   "weeklyStats": {
     "kinetic": 12,
@@ -10,119 +10,119 @@
     {
       "id": 1,
       "type": "kinetic",
-      "title": "US and Iran Exchange Strikes, Hormuz Traffic Declines",
-      "desc": "The United States and Iran have engaged in reciprocal strikes, targeting missile sites, command centers, and bases. This escalation has led to a significant slump in traffic through the Strait of Hormuz, with vessels avoiding the UN-backed Omani route. Analysts note this is the biggest threat to their framework deal since the April ceasefire.",
+      "title": "US and Iran Trade Strikes in Strait of Hormuz",
+      "desc": "The US military conducted strikes on missile sites and command centers in response to attacks on ships, while Iran reported retaliatory attacks on US bases. This exchange highlights the ongoing tensions and potential for wider conflict in the region.",
       "location": "Strait of Hormuz",
       "lat": 26.7000,
-      "lng": 56.0000,
+      "lng": 53.9500,
       "date": "Jul 10, 2026",
       "escalation": true,
-      "url": "https://www.al-monitor.com/originals/2026/07/hormuz-traffic-slumps-us-iran-trade-strikes"
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo"
     },
     {
       "id": 2,
       "type": "kinetic",
-      "title": "Trump Threatens Further Strikes on Iran Following Exchange",
-      "desc": "President Trump has stated that the US will \"probably\" strike Iran again following the recent exchange of hostilities, while also warning that any future actions would be \"over quickly.\" This statement was made during a NATO summit, highlighting ongoing tensions between the US and Iran.",
-      "location": "Ankara",
-      "lat": 39.9334,
-      "lng": 32.8597,
+      "title": "Tanker Traffic Slows in Strait of Hormuz Amid US-Iran Clashes",
+      "desc": "Daily tanker traffic in the Strait of Hormuz has reportedly slowed following recent exchanges of hostilities between the US and Iran. The incidents have renewed concerns about the recovery of global oil supplies and shipping routes.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7000,
+      "lng": 53.9500,
       "date": "Jul 10, 2026",
-      "escalation": true,
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o"
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/tanker-traffic-slows-strait-hormuz-after-us-and-iran-clashes"
     },
     {
       "id": 3,
       "type": "kinetic",
-      "title": "Damascus Bombings Linked to Islamic State Cell",
-      "desc": "Syrian authorities have announced the capture of an Islamic State-affiliated cell responsible for two bomb blasts that occurred in Damascus during French President Emmanuel Macron's visit. Preliminary investigations indicate the cell's affiliation with IS, with a senior security official confirming their custody.",
-      "location": "Damascus",
-      "lat": 33.5138,
-      "lng": 36.2919,
+      "title": "UN Agency Rejects Iran's Claim of Sovereignty Over Strait of Hormuz",
+      "desc": "The UN shipping agency's governing council has agreed that countries should reject Iran's attempts to impose sovereignty over the Strait of Hormuz and its unilateral decision to establish a body to control traffic through the waterway. This follows recent clashes between the US and Iran.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7000,
+      "lng": 53.9500,
       "date": "Jul 10, 2026",
       "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/07/syria-authorities-say-captured-linked-cell-behind-blasts"
+      "url": "https://www.al-monitor.com/originals/2026/07/countries-must-reject-iran-efforts-control-hormuz-un-agency-document-says"
     },
     {
       "id": 4,
       "type": "kinetic",
-      "title": "Deadly Wildfires in Southern Spain Kill at Least 12",
-      "desc": "Wildfires in southern Spain have resulted in at least 12 fatalities, with bodies discovered in cars. The region's deadliest fire occurs amidst widespread heatwaves across Europe, contributing to highly vulnerable conditions.",
-      "location": "Andalusia",
-      "lat": 37.3891,
-      "lng": -6.0031,
-      "date": "Jul 10, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/07/wildfires-in-southern-spain-kill-at-least-12"
-    },
-    {
-      "id": 5,
-      "type": "kinetic",
-      "title": "Palestinians Mourn Aid Worker Killed in Israeli Strike in Gaza",
-      "desc": "Mohammed al-Wahidi, an aid worker and prominent humanitarian figure during the Israel-Hamas war, was killed in an Israeli strike in Gaza. His death occurred amidst ongoing conflict and concerns over civilian casualties.",
-      "location": "Gaza",
-      "lat": 31.5000,
-      "lng": 34.4667,
-      "date": "Jul 10, 2026",
-      "escalation": false,
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o"
-    },
-    {
-      "id": 6,
-      "type": "kinetic",
       "title": "Headteacher Among Four Killed in Israeli Attack on Lebanon",
-      "desc": "An Israeli attack on Lebanon resulted in the deaths of four individuals, including a headteacher, who were traveling in a car. This incident is reported as the deadliest Israeli attack on Lebanon since the latest ceasefire.",
+      "desc": "A headteacher was among four individuals killed in the deadliest Israeli attack on Lebanon since the recent ceasefire. The victims were traveling in a car after visiting their family home.",
       "location": "Lebanon",
       "lat": 33.8566,
-      "lng": 35.8623,
+      "lng": 35.8615,
       "date": "Jul 10, 2026",
       "escalation": false,
       "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do"
     },
     {
-      "id": 7,
-      "type": "diplomatic",
-      "title": "US Building Pressure Architecture Against Iran",
-      "desc": "The US is reportedly constructing a new pressure architecture against Iran, which includes reshaping the region around Tehran. This strategy is seen as part of efforts to weaken Iran's influence.",
-      "location": "Middle East",
-      "lat": 27.0000,
-      "lng": 50.0000,
+      "id": 5,
+      "type": "kinetic",
+      "title": "Syrian Authorities Capture IS-Linked Cell Behind Damascus Bombings",
+      "desc": "Syrian officials announced the capture of an Islamic State-linked cell responsible for two bomb blasts that occurred during French President Emmanuel Macron's visit to Damascus. The blasts wounded 18 people.",
+      "location": "Damascus",
+      "lat": 33.5138,
+      "lng": 36.3013,
       "date": "Jul 10, 2026",
       "escalation": false,
-      "url": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran"
+      "url": "https://www.al-monitor.com/originals/2026/07/syria-authorities-say-captured-linked-cell-behind-blasts"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Explainer: Islamic State group linked to Damascus bombings",
+      "desc": "Preliminary investigations suggest the cell behind recent bombings in Damascus, near a hotel visited by French President Macron, is affiliated with the Islamic State group. The bombings wounded 18 people.",
+      "location": "Damascus",
+      "lat": 33.5138,
+      "lng": 36.3013,
+      "date": "Jul 10, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/explainer-what-islamic-state-group-linked-weeks-damascus-bombs"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Sudan's El Obeid Faces Intensifying RSF Drone Attacks",
+      "desc": "The city of El Obeid in Sudan is experiencing escalating drone attacks attributed to the Rapid Support Forces (RSF), indicating a continuation and potential intensification of the conflict in the region.",
+      "location": "El Obeid, Sudan",
+      "lat": 13.1879,
+      "lng": 30.2117,
+      "date": "Jul 10, 2026",
+      "escalation": false,
+      "url": "https://www.al-jazeera.com/video/newsfeed/2026/7/10/sudans-el-obeid-faces-intensifying-rsf-drone-attacks?traffic_source=rss"
     },
     {
       "id": 8,
-      "type": "diplomatic",
-      "title": "Netanyahu Races to Fulfill Promises Amidst Election Campaign",
-      "desc": "Israeli Prime Minister Benjamin Netanyahu is working to pass a series of bills before the upcoming national elections, facing criticism from the opposition. This comes amidst public anger over failures leading to the October 7th attack and the subsequent war in Gaza.",
-      "location": "Jerusalem",
-      "lat": 31.7683,
-      "lng": 35.2137,
+      "type": "kinetic",
+      "title": "Palestinians Mourn Gaza World Cup Screenings Organizer Killed in Israeli Strike",
+      "desc": "Mohammed al-Wahidi, an aid worker and organizer of World Cup screenings in Gaza, was killed in an Israeli strike. He had become a prominent humanitarian figure during the recent conflict.",
+      "location": "Gaza",
+      "lat": 31.4167,
+      "lng": 34.3333,
       "date": "Jul 10, 2026",
       "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/07/netanyahu-races-keep-promises-allies-ahead-election"
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o"
     },
     {
       "id": 9,
-      "type": "diplomatic",
-      "title": "UK's Likely Next PM to Increase Pressure on Israel",
-      "desc": "Andy Burnham, expected to become Britain's next Prime Minister, intends to exert more pressure on the Israeli government regarding its actions in Gaza. He has been critical of the current government's initial response to the conflict following the October 2023 attack by Hamas-led gunmen.",
-      "location": "London",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "date": "Jul 09, 2026",
-      "escalation": false,
-      "url": "https://www.al-monitor.com/originals/2026/07/uks-likely-next-pm-andy-burnham-says-he-wants-put-more-pressure-israel"
+      "type": "kinetic",
+      "title": "US-Iran Escalation Threatens Oil Supply Recovery, Warns IEA",
+      "desc": "The International Energy Agency (IEA) has warned that the recent escalation between the US and Iran poses a threat to the recovery of global oil supplies. Sources suggest potential for reviving a ceasefire amid diplomatic efforts.",
+      "location": "Region",
+      "lat": 28.0000,
+      "lng": 53.0000,
+      "date": "Jul 10, 2026",
+      "escalation": true,
+      "url": "https://www.al-jazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
     },
     {
       "id": 10,
-      "type": "nuclear",
-      "title": "Iran Nuclear and Military Damage Revealed",
-      "desc": "Restricted satellite imagery has revealed damage to Iranian targets, including ballistic missile infrastructure, nuclear sites, and naval bases. The extent of the damage is becoming clearer following recent events.",
+      "type": "kinetic",
+      "title": "Iran Nuclear and Military Damage Revealed After Satellite Images Released",
+      "desc": "Restricted satellite images have revealed damage to Iranian nuclear sites and military infrastructure, including ballistic missile sites and naval bases, following recent escalations.",
       "location": "Iran",
-      "lat": 33.0000,
-      "lng": 50.0000,
+      "lat": 32.0000,
+      "lng": 53.0000,
       "date": "Jul 10, 2026",
       "escalation": true,
       "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno"
@@ -130,59 +130,82 @@
     {
       "id": 11,
       "type": "kinetic",
-      "title": "Somali Pirates Re-emerge Amidst Reduced Naval Coalitions",
-      "desc": "Recent pirate attacks off the Horn of Africa, including the hijacking of three merchant vessels, signal a resurgence of Somali piracy. This re-emergence occurs as multinational naval coalitions, which previously combatted piracy, are no longer prioritizing the threat.",
-      "location": "Horn of Africa",
-      "lat": 10.0000,
-      "lng": 48.0000,
+      "title": "US and Iran Trade Strikes After Tankers Hit in Strait of Hormuz",
+      "desc": "Following attacks on tankers in the Strait of Hormuz, the US military states it targeted Iranian missile sites and command centers, while Iran claims to have attacked US bases. This signifies a direct kinetic exchange between the two nations.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7000,
+      "lng": 53.9500,
       "date": "Jul 10, 2026",
-      "escalation": false,
-      "url": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/"
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo"
     },
     {
       "id": 12,
       "type": "kinetic",
-      "title": "Houthi Threat to Maritime Shipping Remains a Concern",
-      "desc": "The threat posed by Houthi activities to maritime shipping, particularly in the Red Sea, continues to be a significant concern. While attention has shifted, the activities in the region warrant ongoing monitoring and analysis.",
-      "location": "Red Sea",
-      "lat": 21.0000,
-      "lng": 38.0000,
+      "title": "Trump Threatens More Strikes on Iran; Tehran Warns of Response",
+      "desc": "US President Trump indicated that further strikes on Iran are probable, stating that any retaliatory action would be swift. Iran has issued warnings of a 'fearless' response, escalating tensions between the two countries.",
+      "location": "Region",
+      "lat": 28.0000,
+      "lng": 53.0000,
       "date": "Jul 10, 2026",
-      "escalation": false,
-      "url": "https://warontherocks.com/a-fresh-look-at-the-houthi-threat-to-maritime-shipping/"
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o"
     },
     {
       "id": 13,
-      "type": "kinetic",
-      "title": "Ceasefire Fraying Between Trump and Iran, Full War Avoided",
-      "desc": "The tit-for-tat strikes between the United States and Iran are escalating, posing the greatest risk to their framework deal since the April ceasefire. Despite the tensions, both sides are currently shying away from a full-scale war.",
-      "location": "Middle East",
-      "lat": 27.0000,
-      "lng": 50.0000,
-      "date": "Jul 10, 2026",
-      "escalation": true,
-      "url": "https://www.al-monitor.com/originals/2026/07/even-ceasefire-frays-trump-and-iran-shy-away-full-war"
-    },
-    {
-      "id": 14,
-      "type": "kinetic",
-      "title": "Deadly Israeli Attack on Lebanon's Headteacher",
-      "desc": "A headteacher was among four killed in what Lebanese state media reported as the deadliest Israeli attack on Lebanon since the latest ceasefire. The victims were traveling by car after visiting family.",
-      "location": "Lebanon",
-      "lat": 33.8566,
-      "lng": 35.8623,
+      "type": "nuclear",
+      "title": "Iran's Nuclear Program and the Fragile US-Iran Deal",
+      "desc": "The framework agreement between the US and Iran, which included provisions on Iran's nuclear program, appears to be unraveling quickly. Mutual claims of violations and bad faith threaten the viability of the deal and could impact nuclear non-proliferation efforts.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
       "date": "Jul 10, 2026",
       "escalation": false,
-      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do"
+      "url": "https://warontherocks.com/fraying-deals-and-rising-strikes/"
     }
   ],
   "infrastructure": [
-    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
-    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
-    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
-    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
-    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
-    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
-    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
   ]
 }
