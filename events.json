@@ -1,1 +1,176 @@
-{"lastUpdated": "2026-07-11T00:59:45-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 8, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Strikes Iran in Retaliation for Tanker Attacks", "desc": "Following attacks on ships in the Strait of Hormuz, the United States military conducted strikes on Iranian missile sites and command centers. Iran claimed to have attacked US bases in response, indicating a significant escalation of hostilities between the two nations.", "location": "Strait of Hormuz", "lat": 27.0000, "lng": 56.0000, "date": "Jul 10, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"}, {"id": 2, "type": "kinetic", "title": "Trump Threatens 'Decimation' of Iran if Assassinated", "desc": "US President Donald Trump issued a stark warning, stating he has ordered military preparations for strikes to 'decimate and destroy all areas of Iran' should the Iranian government attempt to assassinate him. This statement follows heightened tensions and recent exchanges of fire.", "location": "Tehran", "lat": 35.6895, "lng": 51.3890, "date": "Jul 11, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"}, {"id": 3, "type": "kinetic", "title": "Iran Insists Ceasefire Holds Amidst US Truce Declaration", "desc": "Iran has asserted that it has adhered to the ceasefire agreement with the United States, despite President Trump's declaration that the truce is over. This comes after a recent memorandum of understanding aimed at de-escalating tensions.", "location": "Strait of Hormuz", "lat": 27.0000, "lng": 56.0000, "date": "Jul 11, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/iran-hits-back-trump-after-insists-truce-over"}, {"id": 4, "type": "kinetic", "title": "US Demands Public Commitment from Iran on Strait of Hormuz Shipping", "desc": "Senior U.S. officials are pressing Iran for a public commitment to cease attacks on vessels in the Strait of Hormuz and ensure all shipping lanes are open and toll-free. Iran has resisted relinquishing control over this critical oil transit route.", "location": "Strait of Hormuz", "lat": 27.0000, "lng": 56.0000, "date": "Jul 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/us-insists-iran-commit-stopping-attacks-hormuz-strait-say-us-officials"}, {"id": 5, "type": "kinetic", "title": "New US Sanctions Target Iran's Financiers Amid Strait of Hormuz Tensions", "desc": "The U.S. Treasury Department has imposed new sanctions on a key financier of Iran's Supreme Leader and 13 other individuals and entities. These measures follow Iran's renewed attacks on oil tankers in the Strait of Hormuz.", "location": "Tehran", "lat": 35.6895, "lng": 51.3890, "date": "Jul 10, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/us-issues-fresh-iran-related-sanctions-conflict-flares"}, {"id": 6, "type": "kinetic", "title": "Hizballah Conflict Mentioned in US-Iran Deal Framework", "desc": "A framework agreement between the United States and Iran included a commitment to terminate military operations on all fronts, explicitly mentioning the Israel-Hizballah conflict. This suggests a broader diplomatic effort to de-escalate regional tensions.", "location": "Lebanon", "lat": 33.8518, "lng": 35.8567, "date": "Jun 15, 2026", "escalation": false, "url": "https://warontherocks.com/going-over-the-brink-how-hizballahs-risk-strategy-made-lebanon-impossible-to-ignore/"}, {"id": 7, "type": "kinetic", "title": "Explosions in Damascus During French President's Visit", "desc": "Bomb explosions occurred in Damascus, injuring 18 people, during the visit of French President Macron. Syrian state television reported that President Assad welcomed Macron at the presidential palace amidst the incident.", "location": "Damascus", "lat": 33.5138, "lng": 36.2919, "date": "Jul 10, 2026", "escalation": false, "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss"}, {"id": 8, "type": "kinetic", "title": "Russian Advance Reaches Outskirts of Zaporizhzhia", "desc": "The mayor of Zaporizhzhia has reported that a Russian advance has reached the outskirts of the Ukrainian city. Emergency crews are conducting searches for survivors following a Russian air strike.", "location": "Zaporizhzhia", "lat": 47.8478, "lng": 35.1483, "date": "Jul 11, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-07-11T05:59:36-04:00",
+  "threatLevel": "HIGH",
+  "weeklyStats": {
+    "kinetic": 12,
+    "cyber": 2,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US and Iran Trade Strikes After Tankers Hit in Strait of Hormuz",
+      "desc": "The US military reported striking missile sites and command centers in Iran, while Iran claimed to have attacked US bases. This exchange follows recent attacks on oil tankers in the Strait of Hormuz, escalating tensions between the two nations.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7750,
+      "lng": 55.7286,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Trump Threatens More Strikes on Iran as Tehran Warns of 'Fearless' Response",
+      "desc": "At a NATO summit, President Trump stated the US would \"probably\" strike Iran again, though he suggested any further action would be brief. Iran, in turn, issued a warning of a 'fearless' response to any new attacks.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "US Issues Fresh Iran-Related Sanctions as Conflict Flares",
+      "desc": "The U.S. Treasury Department announced new sanctions targeting Ali Ansari, an Iranian banker and businessman based in Dubai, along with 13 other individuals and entities. These sanctions follow Iran's resumption of attacks on oil tankers in the Strait of Hormuz.",
+      "location": "Dubai, UAE",
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "date": "Jul 10, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-issues-fresh-iran-related-sanctions-conflict-flares"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Trump Says US, Iran Agree to Continue Talks but Ceasefire Over",
+      "desc": "President Donald Trump announced that the U.S. and Iran have agreed to continue negotiations, but declared the ceasefire established last month to be over. This statement follows recent escalations and renewed hostilities.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Jul 10, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-says-us-iran-agree-continue-talks-ceasefire-over"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Trump Threatens Iran After Chants for His Death Erupted at Khamenei Funeral",
+      "desc": "US President Donald Trump issued a warning to Iran, stating the US would 'decimate' the country in response to alleged assassination plots and chants for his death at Ayatollah Ali Khamenei's funeral. This escalates rhetoric amid ongoing tensions.",
+      "location": "Iran",
+      "lat": 32.0000,
+      "lng": 53.0000,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Russia Hits Kyiv with Ballistic Missiles and Drones, Wounding 11",
+      "desc": "In a significant escalation, Russia launched ballistic missiles and 121 drones targeting Kyiv. The attacks injured at least 11 people, marking one of the deadliest months in the ongoing conflict.",
+      "location": "Kyiv, Ukraine",
+      "lat": 50.4501,
+      "lng": 30.5234,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Big Fall in Oil, Gas, and Cargo Ships Taking US-Backed Hormuz Route After New Strikes",
+      "desc": "Data indicates a substantial decline in maritime traffic, including oil, gas, and cargo ships, utilizing the Strait of Hormuz. This reduction follows a series of recent attacks in the strategically vital waterway.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7750,
+      "lng": 55.7286,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Bomb Explosions Injure 18 in Damascus During Macron's Visit",
+      "desc": "Multiple bomb explosions occurred in Damascus, injuring 18 people. The blasts took place as French President Macron was reportedly welcomed at the presidential palace by Syrian President Bashar al-Assad, raising concerns about security.",
+      "location": "Damascus, Syria",
+      "lat": 33.5138,
+      "lng": 36.3044,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Headteacher Among Four Killed in Deadliest Israeli Attack on Lebanon Since Latest Ceasefire",
+      "desc": "An Israeli strike in Lebanon resulted in the deaths of four individuals, including a headteacher. This incident is reported as the deadliest attack on Lebanon since the most recent ceasefire was established, violating the terms of de-escalation.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8623,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Palestinians Mourn Gaza World Cup Screenings Organiser Killed in Israeli Strike",
+      "desc": "Mohammed al-Wahidi, an aid worker known for organizing World Cup screenings in Gaza, was killed in an Israeli strike. He had become a prominent humanitarian figure during the ongoing conflict.",
+      "location": "Gaza",
+      "lat": 31.4167,
+      "lng": 34.3333,
+      "date": "Jul 11, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o"
+    },
+    {
+      "id": 11,
+      "type": "proxy",
+      "title": "Houthi Threat to Maritime Shipping Remains a Concern",
+      "desc": "While attention has shifted to the Strait of Hormuz, the Houthi threat to maritime shipping in other regions continues to be a significant concern. Past analyses suggested the international response has been inadequate.",
+      "location": "Red Sea",
+      "lat": 18.0000,
+      "lng": 42.0000,
+      "date": "Jul 11, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/a-fresh-look-at-the-houthi-threat-to-maritime-shipping/"
+    },
+    {
+      "id": 12,
+      "type": "cyber",
+      "title": "Cuba Suffers Second Nationwide Blackout in Five Days",
+      "desc": "Cuba experienced its second nationwide power outage in just five days, raising concerns about the stability of its energy infrastructure. The cause of the repeated blackouts remains under investigation.",
+      "location": "Cuba",
+      "lat": 21.5000,
+      "lng": -80.0000,
+      "date": "Jul 11, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days"
+    },
+    {
+      "id": 13,
+      "type": "cyber",
+      "title": "Meta Backtracks on AI-Image Feature Due to Privacy Backlash",
+      "desc": "Meta has retracted its 'Muse Image' AI feature for Instagram following widespread criticism over privacy concerns and user consent. The decision highlights the ongoing challenges in deploying AI technologies responsibly.",
+      "location": "Global",
+      "lat": 0.0000,
+      "lng": 0.0000,
+      "date": "Jul 11, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
