@@ -1,1 +1,187 @@
-{"lastUpdated": "2026-07-12T06:59:37-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 12, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US Strikes Iran, Iran Strikes Gulf Neighbors, Closes Strait of Hormuz", "desc": "Following a series of U.S. strikes on Iranian targets, Iran retaliated by launching missiles and drones at U.S. facilities in multiple Gulf states, including Qatar, UAE, Kuwait, Bahrain, Oman, and Jordan. Iran also announced the closure of the Strait of Hormuz, a critical chokepoint for global oil trade, further escalating regional tensions.", "location": "Strait of Hormuz / Persian Gulf", "lat": 26.8206, "lng": 53.2830, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/us-strikes-iran-tehran-hits-gulf-states-says-strait-hormuz-closed"}, {"id": 2, "type": "kinetic", "title": "US CENTCOM Completes Third Round of Strikes on Iran", "desc": "The U.S. Central Command (CENTCOM) announced the completion of its third round of strikes against Iranian targets, underscoring the ongoing military exchanges between the two nations. These strikes are in response to Iran's alleged attacks on commercial shipping.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-jazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss"}, {"id": 3, "type": "kinetic", "title": "IRGC Vows Crushing Response to Further US Attacks", "desc": "Iran's Islamic Revolutionary Guard Corps (IRGC) issued a strong warning, vowing a 'crushing response' to any additional U.S. military actions against Iran. This statement indicates a readiness for further escalation.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-jazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss"}, {"id": 4, "type": "kinetic", "title": "Iran Closes Strait of Hormuz After US Bombing", "desc": "In retaliation for U.S. bombing raids, Iran announced it had closed the Strait of Hormuz. This move, following previous hostilities and an MoU, severely impacts global shipping and increases regional instability.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 53.2830, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-jazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss"}, {"id": 5, "type": "kinetic", "title": "Missiles and Drones Fired at Gulf States After US Strikes on Iran", "desc": "Following U.S. strikes on Iran, missiles and drones were launched at several Gulf nations, including the UAE, Kuwait, Bahrain, Oman, and Jordan. Three people were injured in Qatar due to falling shrapnel, indicating significant regional impact.", "location": "Persian Gulf Region", "lat": 26.0667, "lng": 50.5577, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-jazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"}, {"id": 6, "type": "kinetic", "title": "US and Iran Trade Strikes; Tehran Closes Strait of Hormuz", "desc": "The U.S. and Iran engaged in significant missile and drone exchanges, with Iran targeting U.S. facilities across the Gulf and declaring the Strait of Hormuz closed. This escalation marks the end of a fragile ceasefire, although negotiations remain a possibility.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 53.2830, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/us-strikes-iran-tehran-hits-gulf-states-says-strait-hormuz-closed"}, {"id": 7, "type": "kinetic", "title": "Iran's IRGC Navy Closes Strait of Hormuz", "desc": "Iran's Revolutionary Guards navy announced the closure of the Strait of Hormuz until further notice, citing an incident involving a vessel attempting to transit an unapproved route. This action further tightens control over the vital waterway.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 53.2830, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/irans-irgc-navy-says-strait-hormuz-closed-until-further-notice-state-media"}, {"id": 8, "type": "kinetic", "title": "US Strikes Iran; Tehran Hits Gulf Neighbors", "desc": "Following new U.S. strikes, Iran announced it had closed the Strait of Hormuz and launched missiles and drones at its Gulf neighbors. These actions are in retaliation for a prior Iranian attack on a commercial vessel.", "location": "Persian Gulf", "lat": 26.0667, "lng": 50.5577, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/iran-strikes-gulf-neighbours-after-new-us-attacks"}, {"id": 9, "type": "kinetic", "title": "US Launches Fresh Strikes as Iran Closes Strait of Hormuz", "desc": "The U.S. military has conducted fresh strikes targeting Iran, prompting Iran to close the Strait of Hormuz. These actions follow an earlier attack on a Cyprus-flagged vessel in the crucial waterway.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 53.2830, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"}, {"id": 10, "type": "kinetic", "title": "US and Iran Trade Strikes After Tankers Hit in Strait of Hormuz", "desc": "The U.S. military reported hitting missile sites and command centers in Iran, while Iran claimed to have attacked U.S. bases. This exchange of fire occurred after commercial tankers were targeted in the Strait of Hormuz.", "location": "Strait of Hormuz", "lat": 26.8206, "lng": 53.2830, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"}, {"id": 11, "type": "kinetic", "title": "Trump Threatens More Strikes on Iran, Iran Warns of 'Fearless' Response", "desc": "President Trump indicated the U.S. would likely conduct further strikes on Iran, stating any future actions would be swift. Iran, in response, warned of a 'fearless' retaliation, heightening tensions between the two nations.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"}, {"id": 12, "type": "kinetic", "title": "Iran's Supreme Leader Pledges Revenge for Slain Father and Predecessor", "desc": "Iran's Supreme Leader Ayatollah Mojtaba Khamenei issued a statement promising vengeance for the deaths of his father and predecessor. He stated that this revenge would depend not only on Iran but also on 'free people around the world'.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 11, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/irans-supreme-leader-pledges-revenge-slain-father-and-predecessor"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-07-12T11:59:42-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 10,
+    "cyber": 1,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Iran Expands Attacks on Gulf States After US Strikes, Closes Strait of Hormuz",
+      "desc": "Following retaliatory US strikes, Iran launched extensive attacks on US facilities in Gulf states and declared the Strait of Hormuz closed. This escalation signifies a severe intensification of the conflict, impacting global trade and regional stability.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7036,
+      "lng": 54.4333,
+      "date": "Jul 12, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/iran-expands-attacks-gulf-states-after-us-strikes-says-strait-hormuz-closed"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US and Iran Trade Strikes Amid Strait of Hormuz Tensions",
+      "desc": "The US military reported hitting missile sites and command centers in Iran, while Iran claimed to have attacked US bases. These exchanges represent a direct kinetic confrontation between the two powers, significantly raising regional tensions.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7036,
+      "lng": 54.4333,
+      "date": "Jul 12, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "US Insists Strait of Hormuz is Open Amid Exchanges with Iran",
+      "desc": "Despite Iran's announcement of closing the Strait of Hormuz and launching attacks, the US maintains that the waterway remains open to traffic. This conflicting information highlights the heightened state of conflict and information warfare.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7036,
+      "lng": 54.4333,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US Strikes 'Approximately' 140 Targets in Iran After Ship Attack",
+      "desc": "In retaliation for an attack on a commercial ship in the Strait of Hormuz, the U.S. military conducted strikes on around 140 targets within Iran. This signifies a significant military response and a direct engagement.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 11, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-iran-strikes-latest-developments"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Iran's IRGC Navy Closes Strait of Hormuz",
+      "desc": "The Iranian Revolutionary Guards navy announced the closure of the Strait of Hormuz, citing an attempt by a vessel to transit an unapproved route. This action directly impacts global maritime commerce and escalates tensions in the region.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7036,
+      "lng": 54.4333,
+      "date": "Jul 12, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/irans-irgc-navy-says-strait-hormuz-closed-until-further-notice-state-media"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "Israeli Forces Kill Five Palestinians in Gaza",
+      "desc": "Israeli forces have killed five Palestinians in Gaza, including a young girl. This incident, occurring since a U.S.-brokered ceasefire, underscores the ongoing fragility of the truce and continued violence.",
+      "location": "Gaza",
+      "lat": 31.2579,
+      "lng": 34.3076,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Israeli Attacks Kill Six in Gaza, Including a Child",
+      "desc": "At least six people, including a 9-year-old girl, were killed in Israeli attacks in the Gaza Strip. Medics reported the incident, while the Israeli military stated they were unaware. Mediators continue efforts to uphold a U.S.-brokered ceasefire.",
+      "location": "Gaza",
+      "lat": 31.2579,
+      "lng": 34.3076,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/israeli-attacks-gaza-kill-six-people-including-girl-medics-say"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Deadliest Israeli Attack on Lebanon Since Ceasefire Kills Four",
+      "desc": "An Israeli attack on Lebanon resulted in the deaths of four individuals, including three women and one man traveling in a car. This is reported as the deadliest incident since the implementation of the latest ceasefire, indicating potential breaches.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8623,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "Syrian Parliament Convenes Amidst Political Transition",
+      "desc": "Syria's new parliament held its inaugural session following the overthrow of Bashar al-Assad. The assembly, tasked with drafting a new constitution, signals a significant step in the country's political transformation, though its immediate powers are limited.",
+      "location": "Damascus",
+      "lat": 33.5138,
+      "lng": 36.2913,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "Bomb Explosions Injure 18 in Damascus During Macron's Visit",
+      "desc": "Eighteen people were injured by bomb explosions in Damascus during a visit by French President Macron. State television reported the Syrian president welcomed Macron, but the blasts indicate ongoing security challenges.",
+      "location": "Damascus",
+      "lat": 33.5138,
+      "lng": 36.2913,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko"
+    },
+    {
+      "id": 11,
+      "type": "cyber",
+      "title": "Pentagon's AI Strategy Faces Funding Challenges",
+      "desc": "The U.S. Pentagon's ambitious artificial intelligence strategy, outlined in recent executive orders, is threatened by a fiscal squeeze on its operations and maintenance accounts. This funding problem could stall critical AI adoption and cyber defense initiatives.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/cogs-of-war/the-pentagons-ai-strategy-has-a-funding-problem/"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Natanz Nuclear Facility",
+      "lat": 33.7236,
+      "lng": 51.7267,
+      "note": "Primary uranium enrichment site"
+    },
+    {
+      "name": "Fordow Enrichment Facility",
+      "lat": 34.8846,
+      "lng": 50.9929,
+      "note": "Underground enrichment — restricted IAEA access"
+    },
+    {
+      "name": "Al Udeid Air Base (CENTCOM)",
+      "lat": 25.1174,
+      "lng": 51.3150,
+      "note": "US forward operating base — Qatar"
+    },
+    {
+      "name": "US 5th Fleet HQ — Bahrain",
+      "lat": 26.1921,
+      "lng": 50.5500,
+      "note": "US Naval Forces Central Command"
+    },
+    {
+      "name": "Hezbollah stronghold — South Beirut",
+      "lat": 33.8518,
+      "lng": 35.4845,
+      "note": "Primary Hezbollah operational area"
+    },
+    {
+      "name": "Houthi operational area — Sanaa",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "note": "Houthi control zone"
+    },
+    {
+      "name": "IRGC HQ — Tehran",
+      "lat": 35.7219,
+      "lng": 51.3347,
+      "note": "Islamic Revolutionary Guard Corps"
+    }
+  ]
+}
