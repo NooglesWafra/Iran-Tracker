@@ -1,1 +1,164 @@
-{"lastUpdated": "2026-07-12T21:59:46-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 18, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US launches new wave of strikes against Iran", "desc": "The US military announced a fresh wave of strikes against Iran on Sunday, aiming to \"continue degrading\" Tehran's ability to attack commercial ships in the Strait of Hormuz. These attacks follow three previous days of tit-for-tat exchanges between the US and Iran as a June ceasefire deal frays.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military"}, {"id": 2, "type": "kinetic", "title": "US bombs Iranian cities again as Hormuz standoff intensifies", "desc": "Iranian state media reported explosions in the port cities of Bandar Abbas, Sirik, and Jask, as well as on Qeshm Island, amidst an escalating standoff in the Strait of Hormuz. This escalation follows renewed US strikes targeting Iran's ability to threaten shipping.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies"}, {"id": 3, "type": "kinetic", "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens", "desc": "The United States has launched a new wave of strikes on Iran, targeting Tehran's capacity to threaten shipping in the Strait of Hormuz. This action is part of an ongoing exchange of fire between the two nations.", "location": "Strait of Hormuz", "lat": 26.7276, "lng": 54.5345, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss"}, {"id": 4, "type": "kinetic", "title": "Israel releases video of huge detonations in Lebanon", "desc": "The Israeli military has released video footage depicting large explosions and detonations in villages located in southern Lebanon. This action is part of the ongoing conflict in the region.", "location": "Southern Lebanon", "lat": 33.2907, "lng": 35.9377, "date": "Jul 12, 2026", "escalation": false, "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss"}, {"id": 5, "type": "kinetic", "title": "Deadly Israeli strikes pound Gaza", "desc": "Israeli military forces have conducted strikes across multiple locations in the Gaza Strip, resulting in casualties. The full extent of the damage and casualties is being assessed.", "location": "Gaza Strip", "lat": 31.3547, "lng": 34.3088, "date": "Jul 12, 2026", "escalation": false, "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss"}, {"id": 6, "type": "kinetic", "title": "Israeli attacks in Gaza kill six people, including a girl, medics say", "desc": "Palestinian health officials reported that Israeli attacks in the Gaza Strip on Sunday killed at least six people, including a 9-year-old girl. The Israeli military stated they were not aware of the specific incident.", "location": "Gaza Strip", "lat": 31.3547, "lng": 34.3088, "date": "Jul 12, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/israeli-attacks-gaza-kill-six-people-including-girl-medics-say"}, {"id": 7, "type": "kinetic", "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire", "desc": "Lebanese state media reported that a headteacher and three other individuals were killed in the deadliest Israeli attack on Lebanon since the latest ceasefire. The victims were travelling in a car after visiting family.", "location": "Lebanon", "lat": 33.8566, "lng": 35.8611, "date": "Jul 12, 2026", "escalation": false, "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss"}, {"id": 8, "type": "kinetic", "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz", "desc": "The US military reported hitting missile sites and command centers in Iran, while Iran stated it attacked US bases. This exchange of strikes follows attacks on tankers in the Strait of Hormuz.", "location": "Strait of Hormuz", "lat": 26.7276, "lng": 54.5345, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"}, {"id": 9, "type": "kinetic", "title": "Iran nuclear and military damage revealed after restricted satellite images released", "desc": "Restricted satellite imagery has revealed damage to Iranian nuclear and military infrastructure, including ballistic missile facilities, nuclear sites, and naval bases, following recent exchanges of strikes.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 12, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss"}, {"id": 10, "type": "kinetic", "title": "Bomb explosions injure 18 in Damascus during Macron's visit", "desc": "Reports indicate that bomb explosions injured 18 people in Damascus. State television confirmed that the Syrian president welcomed Macron at the presidential palace as the reports of the blasts emerged.", "location": "Damascus", "lat": 33.5138, "lng": 36.2913, "date": "Jul 12, 2026", "escalation": false, "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss"}, {"id": 11, "type": "kinetic", "title": "Hezbollah stronghold — South Beirut conflict analysis", "desc": "The ongoing conflict dynamics in Lebanon involve Hezbollah's operational areas, particularly in South Beirut. Recent agreements and escalations highlight the complex security situation in the region, affecting broader regional stability.", "location": "South Beirut", "lat": 33.8518, "lng": 35.4845, "date": "Jul 11, 2026", "escalation": false, "url": "https://warontherocks.com/going-over-the-brink-how-hizballahs-risk-strategy-made-lebanon-impossible-to-ignore/"}, {"id": 12, "type": "kinetic", "title": "Houthi threat to maritime shipping remains a concern", "desc": "The Houthi threat to maritime shipping in the Red Sea and potentially the Strait of Hormuz continues to be a significant concern. Despite shifts in global attention, the underlying issues and the need for international responses persist.", "location": "Red Sea", "lat": 21.2901, "lng": 38.1973, "date": "Jul 11, 2026", "escalation": false, "url": "https://warontherocks.com/a-fresh-look-at-the-houthi-threat-to-maritime-shipping/"}, {"id": 13, "type": "kinetic", "title": "Syrian transitional parliament holds first session", "desc": "Syria's transitional parliament convened for its first session, tasked with drafting a new constitution and establishing democratic foundations. This marks a political milestone following the toppling of Bashar al-Assad.", "location": "Damascus", "lat": 33.5138, "lng": 36.2913, "date": "Jul 12, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/syrian-transitional-parliament-holds-first-session"}, {"id": 14, "type": "kinetic", "title": "Iraqi prime minister to visit Washington; oil and gas deals expected", "desc": "Iraq's prime minister is scheduled to visit Washington to bolster strategic ties, with the signing of oil and gas deals anticipated. This visit occurs amidst ongoing military escalations between the US and Iran, prompting Iraq to balance its relationships.", "location": "Washington D.C.", "lat": 38.9072, "lng": -77.0369, "date": "Jul 12, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/iraqi-prime-minister-visit-washington-monday-oil-and-gas-deals-expected"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-07-13T02:59:44-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 12,
+    "cyber": 0,
+    "nuclear": 0
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US and Iran exchange heavy missile and drone assaults",
+      "desc": "US and Iranian forces engaged in significant missile and drone exchanges, with Iran targeting US facilities across the Gulf and declaring the closure of the Strait of Hormuz. This escalation jeopardizes the interim agreement aimed at reopening the strait and increases concerns over global oil prices.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0590,
+      "lng": 56.0900,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/iran-expands-attacks-gulf-states-after-us-strikes-says-strait-hormuz-closed"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
+      "desc": "Iran launched attacks targeting U.S. military assets in Bahrain, Kuwait, and Jordan. This action follows renewed fighting and escalates regional tensions, particularly concerning the security of the Strait of Hormuz.",
+      "location": "Bahrain",
+      "lat": 27.5141,
+      "lng": 51.5090,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "US launches more strikes on Iran",
+      "desc": "The United States conducted a new wave of strikes targeting Iran, aiming to degrade Tehran's capabilities to threaten shipping in the Strait of Hormuz. This action is part of the ongoing retaliatory exchanges between the two nations.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US-Iran strikes escalate over Strait of Hormuz, oil prices surge",
+      "desc": "The United States military conducted strikes on Iranian targets for a second day, intensifying the conflict over the Strait of Hormuz. Tehran's announcement of closing the strait and the renewed fighting have caused oil prices to spike significantly.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0590,
+      "lng": 56.0900,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-iran-strikes-latest-developments"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Iran announces closure of Strait of Hormuz amid ongoing strikes",
+      "desc": "Following extensive U.S. strikes on its facilities, Iran declared the closure of the vital Strait of Hormuz. This move escalates the conflict and threatens global energy supplies, leading to a sharp increase in oil prices.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0590,
+      "lng": 56.0900,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US insists Strait of Hormuz is open amidst ongoing exchanges with Iran",
+      "desc": "Despite Iranian forces declaring the Strait of Hormuz closed and launching attacks on U.S. allies and bases, the U.S. maintains that the vital waterway remains open. The ongoing military exchanges heighten regional instability.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0590,
+      "lng": 56.0900,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Lebanon conflict intensifies with Israeli attacks",
+      "desc": "Israel conducted significant attacks in Lebanon, resulting in casualties, including a headteacher and three women travelling in a car. These attacks mark the deadliest incident since the most recent ceasefire, indicating a potential escalation of hostilities.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8623,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Six killed in Gaza Strip by Israeli attacks",
+      "desc": "Israeli attacks in the Gaza Strip resulted in the deaths of at least six people, including a 9-year-old girl, according to Palestinian health officials. Mediators are engaged in discussions to secure a ceasefire.",
+      "location": "Gaza Strip",
+      "lat": 31.4125,
+      "lng": 34.3094,
+      "date": "Jul 12, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/israeli-attacks-gaza-kill-six-people-including-girl-medics-say"
+    },
+    {
+      "id": 9,
+      "type": "diplomatic",
+      "title": "Syrian transitional parliament holds first session",
+      "desc": "Syria's new transitional parliament convened for its inaugural session, tasked with drafting a new constitution and establishing democratic foundations following years of conflict. The session marks a significant step in the country's political transition.",
+      "location": "Damascus",
+      "lat": 33.5138,
+      "lng": 36.2919,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/new-syrian-parliament-meets-first-time-damascus"
+    },
+    {
+      "id": 10,
+      "type": "diplomatic",
+      "title": "Iraqi Prime Minister to visit Washington for strategic talks",
+      "desc": "The Prime Minister of Iraq is scheduled to visit Washington for discussions aimed at deepening strategic ties. The visit is expected to result in the signing of oil and gas deals, as part of a broader effort to enhance economic cooperation.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Jul 13, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/iraqi-prime-minister-visit-washington-monday-oil-and-gas-deals-expected"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Bomb explosions injure 18 in Damascus",
+      "desc": "Multiple bomb explosions occurred in Damascus, injuring 18 people. The incident happened during the visit of French President Macron, though state television reported that the Syrian president welcomed Macron at the presidential palace.",
+      "location": "Damascus",
+      "lat": 33.5138,
+      "lng": 36.2919,
+      "date": "Jul 12, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Hizballah conflict with Israel remains active under nominal ceasefire",
+      "desc": "Despite an agreement to terminate military operations, the conflict between Hizballah and Israel remains active. This ongoing tension highlights the fragility of the ceasefire and the persistent threat of escalation in the region.",
+      "location": "Lebanon",
+      "lat": 33.8566,
+      "lng": 35.8623,
+      "date": "Jun 15, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/going-over-the-brink-how-hizballahs-risk-strategy-made-lebanon-impossible-to-ignore/"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
