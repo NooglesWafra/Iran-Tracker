@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-07-13T22:59:48-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 15, "cyber": 1, "nuclear": 1}, "events": [{"id": 1, "type": "kinetic", "title": "US and Iran Exchange Strikes Around Strait of Hormuz", "desc": "The United States and Iran have engaged in reciprocal strikes around the Strait of Hormuz, with both nations claiming control over the strategic waterway. This escalation follows previous attacks on shipping, signaling a heightened state of conflict in the region.", "location": "Strait of Hormuz", "lat": 26.7102, "lng": 53.8070, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss"}, {"id": 2, "type": "kinetic", "title": "US Imposes Maritime Blockade on Iran", "desc": "The U.S. military announced it would begin enforcing a comprehensive maritime blockade on Iran, effective July 14. The blockade is set to cover all Iranian ports, oil terminals, and coastal areas, impacting all vessel traffic regardless of flag.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/us-begin-enforcing-maritime-blockade-iran-tuesday"}, {"id": 3, "type": "kinetic", "title": "Trump Notifies Congress of Resumed Hostilities with Iran", "desc": "President Donald Trump formally notified Congress on July 10 that hostilities against Iran resumed on July 7. This notification opens a new 60-day window for military action in the region without prior congressional approval, citing the need to protect American interests.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/trump-sends-congress-formal-notice-iran-conflict-has-resumed"}, {"id": 4, "type": "kinetic", "title": "US Attacking Iran's Strait of Hormuz Capabilities", "desc": "President Trump stated that the U.S. is targeting Iran's capabilities related to the Strait of Hormuz amid renewed military actions. The U.S. military confirmed launching fresh strikes against Iran, though Trump indicated that a negotiated settlement remains a possibility.", "location": "Strait of Hormuz", "lat": 26.7102, "lng": 53.8070, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/trump-says-us-attacking-iran-capabilities-related-strait-hormuz"}, {"id": 5, "type": "kinetic", "title": "US to Strike Iran's Pickaxe Mountain Nuclear Site", "desc": "President Trump announced the U.S. intention to strike Iran's 'Pickaxe Mountain,' identified as an underground nuclear facility where recent construction has been detected. This statement signals a potential new phase in the conflict, targeting Iran's nuclear infrastructure.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/trump-says-us-strike-irans-pickaxe-mountain-nuclear-site"}, {"id": 6, "type": "kinetic", "title": "UK Bans Support for IRGC", "desc": "The UK has officially banned support for Iran's Islamic Revolutionary Guard Corps (IRGC) under new powers. The group has been linked to death threats and intimidation on British soil, leading to this significant diplomatic and security measure.", "location": "United Kingdom", "lat": 55.3781, "lng": -3.4360, "date": "Jul 13, 2026", "escalation": false, "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss"}, {"id": 7, "type": "kinetic", "title": "US and Iran Trade Fire as Khamenei is Buried", "desc": "The U.S. military's CENTCOM reported hitting 90 Iranian targets in the latest round of strikes, coinciding with the burial of Iran's late Supreme Leader Ali Khamenei. The Iranian health ministry reported 14 deaths since Tuesday, indicating significant casualties from the ongoing conflict.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"}, {"id": 8, "type": "kinetic", "title": "US Strikes Target Iranian Capabilities in Strait of Hormuz", "desc": "The United States has launched strikes aimed at Iran's capabilities associated with the Strait of Hormuz. This action is part of the ongoing military engagement between the two nations, which has seen significant exchanges of fire in the strategic waterway.", "location": "Strait of Hormuz", "lat": 26.7102, "lng": 53.8070, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"}, {"id": 9, "type": "kinetic", "title": "Iran Claims Attacks on US Assets in Regional Allies", "desc": "Following U.S. strikes, Iran claimed to have attacked U.S. military assets in Kuwait, Jordan, Bahrain, and Oman. This broadens the conflict's scope, drawing regional U.S. allies into the direct exchanges of fire.", "location": "Middle East", "lat": 28.1000, "lng": 48.0000, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"}, {"id": 10, "type": "kinetic", "title": "US Strikes Hit 90 Iranian Targets as Fighting Continues", "desc": "CENTCOM reported striking 90 Iranian targets in the latest offensive. This signifies a continued and intense kinetic exchange between the U.S. and Iran, occurring amidst heightened geopolitical tensions and the recent burial of Iran's Supreme Leader.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"}, {"id": 11, "type": "kinetic", "title": "Three Palestinians Killed in Gaza", "desc": "Israeli forces conducted attacks across Gaza, resulting in the deaths of three Palestinians and injuries to fifteen others. This incident underscores the ongoing conflict and humanitarian crisis in the region, despite reports of a ceasefire.", "location": "Gaza Strip", "lat": 31.4000, "lng": 34.3000, "date": "Jul 13, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"}, {"id": 12, "type": "cyber", "title": "Iranian Engineer Convicted of Exporting Technology for Military Drones", "desc": "An Iranian-born engineer has been convicted in the U.S. for conspiring to illegally export technology potentially usable in military drones to an Iranian company linked to the Islamic Revolutionary Guard Corps. This case highlights ongoing efforts to prevent sensitive technology from reaching entities involved in military development.", "location": "Boston, USA", "lat": 42.3601, "lng": -71.0589, "date": "Jul 13, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/iranian-born-engineer-convicted-us-exporting-technology-iran"}, {"id": 13, "type": "nuclear", "title": "Trump Threatens to Strike 'Pickaxe Mountain' Nuclear Site", "desc": "President Trump has threatened to strike Iran's 'Pickaxe Mountain,' identified as an underground nuclear facility, citing recent construction detected via satellite imagery. This statement intensifies concerns over Iran's nuclear program and the potential for direct military action against its nuclear infrastructure.", "location": "Iran", "lat": 32.4279, "lng": 53.6880, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/trump-says-us-strike-irans-pickaxe-mountain-nuclear-site"}, {"id": 14, "type": "kinetic", "title": "UAE Condemns Iranian Tanker Attack Amid Fresh US Strikes", "desc": "The United Arab Emirates has condemned what it called a 'brazen' Iranian attack on tankers. This statement comes as the US continues its strikes against Iran, with President Trump announcing a new blockade and charges for passage through the Strait of Hormuz.", "location": "Strait of Hormuz", "lat": 26.7102, "lng": 53.8070, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"}, {"id": 15, "type": "kinetic", "title": "US and Iran Trade Strikes After Tanker Incidents", "desc": "The US military reported striking missile sites and command centers within Iran, while Iran claimed attacks on US bases in retaliation for incidents involving tankers in the Strait of Hormuz. This exchange marks a significant escalation in the ongoing conflict.", "location": "Strait of Hormuz", "lat": 26.7102, "lng": 53.8070, "date": "Jul 13, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-07-14T03:59:44-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 15,
+    "cyber": 0,
+    "nuclear": 3
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US Strikes Multiple Iranian Targets",
+      "desc": "The US military announced the completion of its latest wave of strikes against Iran, targeting military installations across the country. These strikes occurred over a five-hour period and were authorized by President Trump.",
+      "location": "Iran (multiple locations including Bushehr, Chah Bahar, Jask, Konarak, Abu Musa, Bandar Abbas)",
+      "lat": 30.0000,
+      "lng": 55.0000,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-says-it-has-completed-its-latest-wave-strikes-iran"
+    },
+    {
+      "id": 2,
+      "type": "nuclear",
+      "title": "Trump Threatens Attack on 'Pickaxe Mountain' Nuclear Facility",
+      "desc": "President Donald Trump has explicitly threatened to target Iran's 'Pickaxe Mountain,' a heavily fortified underground nuclear facility, stating that the US will 'take out' this site and warning Iran to be ready.",
+      "location": "Iran (Pickaxe Mountain)",
+      "lat": 30.0000,
+      "lng": 55.0000,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-says-us-strike-irans-pickaxe-mountain-nuclear-site"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Iran Claims Strike on US Air Base in Jordan",
+      "desc": "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed to have targeted a US air base in Jordan with ballistic missiles, urging Jordanians to dismantle American bases in the kingdom.",
+      "location": "Jordan",
+      "lat": 30.5928,
+      "lng": 36.2384,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/iran-says-it-struck-us-air-base-jordan-us-military-ends-five-hours-attacks"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US Imposes Maritime Blockade on Iran",
+      "desc": "The US military announced the commencement of a maritime blockade on all of Iran's ports, oil terminals, and coastal areas, applicable to all vessel traffic regardless of flag.",
+      "location": "Strait of Hormuz / Persian Gulf",
+      "lat": 26.7580,
+      "lng": 53.8303,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-begin-enforcing-maritime-blockade-iran-tuesday"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "US and Iran Exchange Strikes Amid Rising Tensions",
+      "desc": "The US and Iran engaged in reciprocal strikes, with the US military targeting Iranian facilities and Iran claiming attacks on US bases in Kuwait, Jordan, Bahrain, and Oman, exacerbating tensions over the Strait of Hormuz.",
+      "location": "Strait of Hormuz / Persian Gulf / Regional Bases",
+      "lat": 26.7580,
+      "lng": 53.8303,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "UK Bans Support for IRGC Amid Escalation",
+      "desc": "The United Kingdom announced a ban on providing support to Iran's Islamic Revolutionary Guard Corps (IRGC), citing its links to death threats and intimidation within Britain.",
+      "location": "United Kingdom / Iran",
+      "lat": 55.3781,
+      "lng": -3.4360,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "Houthi Claims Attack on Saudi Airport in Retaliation",
+      "desc": "Yemen's Houthi rebels stated they targeted Saudi Arabia's Abha airport in retaliation for a previous strike on Sanaa's international airport.",
+      "location": "Abha, Saudi Arabia",
+      "lat": 18.5373,
+      "lng": 42.4905,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-azeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
+    },
+    {
+      "id": 8,
+      "type": "diplomatic",
+      "title": "US-Iran Trust Broken; Pakistan Urges Talks",
+      "desc": "Pakistan continues to advocate for dialogue between the US and Iran amidst renewed hostilities, though analysts suggest Pakistan has limited influence in de-escalating the current conflict.",
+      "location": "Region (US-Iran relations)",
+      "lat": 25.0000,
+      "lng": 55.0000,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss"
+    },
+    {
+      "id": 9,
+      "type": "kinetic",
+      "title": "US Strikes 'Capabilities Related to Strait of Hormuz'",
+      "desc": "President Trump stated that the United States was targeting Iran's capabilities associated with the Strait of Hormuz as part of ongoing military actions.",
+      "location": "Strait of Hormuz",
+      "lat": 26.7580,
+      "lng": 53.8303,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-says-us-attacking-iran-capabilities-related-strait-hormuz"
+    },
+    {
+      "id": 10,
+      "type": "kinetic",
+      "title": "US Military Completed Latest Strikes on Iran",
+      "desc": "The US military confirmed the completion of its latest round of strikes against Iran, initiated earlier in the day at the direction of President Trump.",
+      "location": "Iran",
+      "lat": 30.0000,
+      "lng": 55.0000,
+      "date": "Jul 13, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-says-it-has-completed-its-latest-wave-strikes-iran"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Trump Notifies Congress of Resumed Hostilities with Iran",
+      "desc": "President Donald Trump formally notified Congress that hostilities against Iran resumed on July 7, initiating a new window for military action without immediate congressional approval.",
+      "location": "Region (US-Iran conflict)",
+      "lat": 25.0000,
+      "lng": 55.0000,
+      "date": "Jul 10, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-sends-congress-formal-notice-iran-conflict-has-resumed"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Iranian-Born Engineer Convicted of Exporting Tech to Iran",
+      "desc": "An Iranian-born engineer has been convicted in the US for conspiring to illegally export technology, potentially usable in military drones, to an Iranian company linked to the IRGC.",
+      "location": "United States / Iran",
+      "lat": 39.7626,
+      "lng": -98.2000,
+      "date": "Jul 13, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/iranian-born-engineer-convicted-us-exporting-technology-iran"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "US and Iran Trade Fire Amid Oil Price Surge",
+      "desc": "Renewed military actions between the US and Iran have coincided with Brent crude oil prices nearing $85 a barrel, signaling concerns over stability in the Strait of Hormuz.",
+      "location": "Strait of Hormuz / Persian Gulf",
+      "lat": 26.7580,
+      "lng": 53.8303,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Lawmakers Demand Release of Findings on Iran School Strike",
+      "desc": "Democratic senators are calling on the Trump administration to publicly disclose the findings of a US military investigation into a strike on a girls' school in Iran earlier this year, which initial reports suggested US forces may have been responsible for.",
+      "location": "Minab, Iran",
+      "lat": 27.1667,
+      "lng": 57.0833,
+      "date": "Jul 13, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/lawmakers-demand-pentagon-release-findings-probe-iran-school-strike"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "US Strikes Hit 90 Iranian Targets Amid Khamenei's Funeral",
+      "desc": "The US Central Command reported striking 90 Iranian targets in the latest wave of attacks, which occurred as Iran held funeral ceremonies for its late Supreme Leader Ali Khamenei, resulting in reported fatalities.",
+      "location": "Iran",
+      "lat": 30.0000,
+      "lng": 55.0000,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
