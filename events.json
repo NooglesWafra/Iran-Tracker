@@ -1,1 +1,200 @@
-{"lastUpdated": "2026-07-14T13:59:48-04:00", "threatLevel": "CRITICAL", "weeklyStats": {"kinetic": 17, "cyber": 0, "nuclear": 0}, "events": [{"id": 1, "type": "kinetic", "title": "US and Iran Trade Strikes Amid Rising Tensions Over Strait of Hormuz", "desc": "The United States and Iran exchanged missile strikes, with the US targeting Iranian missile sites and command centers, and Iran claiming to have attacked US bases. This escalation follows recent attacks on tankers in the Strait of Hormuz and raises concerns about wider regional instability.", "location": "Strait of Hormuz", "lat": 27.2049, "lng": 56.4605, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo"}, {"id": 2, "type": "kinetic", "title": "Iranian Forces Claim to Strike US Military Assets in Multiple Gulf Allies", "desc": "Following US strikes, Iranian forces announced they had targeted US military assets in Kuwait, Jordan, Bahrain, and Oman. This broadens the conflict theater and increases the risk of direct confrontation between Iran and US allies.", "location": "Persian Gulf Region", "lat": 25.0000, "lng": 55.0000, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo"}, {"id": 3, "type": "kinetic", "title": "Chemical Tanker Explodes Off Omani Coast Amid Regional Tensions", "desc": "The chemical tanker Stolt Magnesium caught fire after an explosion attributed to an unidentified external device in the Arabian Sea off Oman. While the crew was safe, the incident adds to concerns about maritime security in the region, which is already heightened due to US-Iran hostilities.", "location": "Arabian Sea (off Oman)", "lat": 20.0000, "lng": 57.0000, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/chemical-tanker-stolt-magnesium-hit-explosion-omani-coast-manager-says"}, {"id": 4, "type": "kinetic", "title": "Russia Accuses Ukraine of Terrorism Over Sea of Azov Drone Attacks", "desc": "Russia has accused Ukraine of terrorism following overnight drone attacks on 11 Russian vessels in the Sea of Azov. Ukraine claims to have struck five tankers, five dry cargo vessels, and a tugboat, escalating conflict along a crucial grain export route.", "location": "Sea of Azov", "lat": 46.2532, "lng": 37.1433, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/russia-accuses-ukraine-terrorism-sea-azov-kyiv-opens-new-front-war"}, {"id": 5, "type": "kinetic", "title": "Israeli Strike Kills 10 Palestinians in Gaza, Including Child and Police Officer", "desc": "An Israeli strike and gunfire in the Gaza Strip resulted in the deaths of at least 10 Palestinians, including a 10-year-old boy and a Hamas police officer. This incident further exacerbates the ongoing conflict and humanitarian crisis in the region.", "location": "Gaza Strip", "lat": 31.4167, "lng": 34.3333, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/israeli-fire-kills-10-gaza-including-10-year-old-officials-say"}, {"id": 6, "type": "kinetic", "title": "Israel Approves Budget for 34 New West Bank Settlements", "desc": "Israel's security cabinet approved a significant budget to establish 34 new settlements in the occupied West Bank. This decision is expected to further escalate tensions in the region and is viewed by international bodies as an obstacle to peace.", "location": "West Bank", "lat": 32.0000, "lng": 35.2500, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/israel-allocates-434-million-34-new-west-bank-settlements"}, {"id": 7, "type": "kinetic", "title": "Houthi Leader Threatens 'Siege' on Saudi Arabia After Yemen Airport Attack", "desc": "A leading Houthi figure has threatened a 'siege' on Saudi Arabia in retaliation for alleged strikes on Yemen's capital. This threat escalates regional tensions and raises concerns about further destabilization in the Arabian Peninsula.", "location": "Saudi Arabia / Yemen", "lat": 21.4719, "lng": 42.8934, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack"}, {"id": 8, "type": "kinetic", "title": "Sudan Faces Escalating Hunger Crisis Due to War and Hormuz Disruption", "desc": "The World Food Programme warns that Sudan is at risk of a deeper hunger crisis. The ongoing conflict, coupled with aid funding cuts and rising agricultural costs linked to the disruption in the Strait of Hormuz, threatens to reverse previous gains in food security.", "location": "Sudan", "lat": 12.8628, "lng": 30.2187, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption"}, {"id": 9, "type": "kinetic", "title": "US Consumer Prices Drop, but Renewed Tensions With Iran Could Revive Inflation", "desc": "A decrease in US consumer prices due to falling energy costs has eased inflation concerns. However, experts warn that the renewed tensions and attacks involving Iran could lead to a resurgence of price increases.", "location": "United States", "lat": 38.0000, "lng": -97.0000, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble"}, {"id": 10, "type": "kinetic", "title": "Trump Backtracks on Hormuz Toll Plan, Pivots to Gulf Investment Deals", "desc": "President Donald Trump has reversed his plan to impose a 20% levy on ships transiting the Strait of Hormuz. Instead, he aims to secure compensation through trade deals with Gulf allies, signaling a shift in US strategy amid heightened tensions with Iran.", "location": "Strait of Hormuz", "lat": 27.2049, "lng": 56.4605, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/trump-retreats-hormuz-20-fee-plan-pivot-gulf-investment-deals"}, {"id": 11, "type": "kinetic", "title": "Return to US-Iran Hostilities a 'Huge Setback' for Civilians, UN Rights Chief States", "desc": "The UN High Commissioner for Human Rights, Volker Turk, has declared the resumption of hostilities between the US and Iran a significant blow to civilians in the region. He warned of severe disruptions to essential supplies and increased instability.", "location": "Middle East", "lat": 25.0000, "lng": 55.0000, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/return-us-iran-hostilities-huge-setback-civilians-un-rights-chief-says"}, {"id": 12, "type": "kinetic", "title": "Trump Hosts Iraqi PM, Emphasizes Potential Economic Deals Amid Intensifying Iran Conflict", "desc": "President Donald Trump met with Iraqi Prime Minister Zaidi, highlighting Iraq's oil reserves and potential deals with US companies. This meeting occurs as the conflict with Iran intensifies, underscoring Iraq's strategic importance.", "location": "White House, Washington D.C.", "lat": 38.8977, "lng": -77.0365, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.al-monitor.com/originals/2026/07/trump-hosts-iraqi-pm-zaidi-iran-war-intensifies"}, {"id": 13, "type": "kinetic", "title": "Cuban Power Grid Collapses Amid US Oil Blockade", "desc": "Cuba experienced its fifth nationwide blackout of 2026 due to a collapse of its power grid, reportedly exacerbated by a US-imposed oil blockade. This outage affects millions and highlights the impact of external sanctions on critical infrastructure.", "location": "Cuba", "lat": 21.5000, "lng": -79.0000, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.aljazeera.com/news/2026/7/14/cubas-power-grid-collapses-again-triggering-third-blackout-in-10-days"}, {"id": 14, "type": "kinetic", "title": "Iran Turning to Red Sea Gateway as New Pressure Point After Hormuz Blockade", "desc": "Following actions impacting the Strait of Hormuz, Iran is reportedly leveraging its Houthi allies to threaten the Bab el-Mandeb gateway to the Red Sea. This strategic move aims to create a new pressure point against the US and its allies, endangering vital energy routes.", "location": "Red Sea / Bab el-Mandeb", "lat": 13.0000, "lng": 43.0000, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.al-monitor.com/originals/2026/07/analysis-after-hormuz-iran-turns-red-sea-gateway-new-pressure-point"}, {"id": 15, "type": "kinetic", "title": "UK Bans Support for Iran's Islamic Revolutionary Guard Corps", "desc": "The UK has announced a ban on support for Iran's Islamic Revolutionary Guard Corps (IRGC), citing its links to death threats and intimidation on British soil. This move reflects growing international pressure on Iran.", "location": "United Kingdom", "lat": 55.0000, "lng": -2.0000, "date": "Jul 14, 2026", "escalation": false, "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go"}, {"id": 16, "type": "kinetic", "title": "Israeli Attack on North Gaza Police Station Kills Eight", "desc": "An Israeli attack on a police station in northern Gaza has resulted in the deaths of eight individuals, including police personnel and a civilian. Gaza's interior ministry condemned the incident as a 'horrific massacre'.", "location": "North Gaza", "lat": 31.57, "lng": 34.45, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight"}, {"id": 17, "type": "kinetic", "title": "Yemen's Houthis Launch Missiles at Saudi Arabia After Strikes on Sanaa Airport", "desc": "Following reported strikes on Sanaa airport, Yemen's Iran-backed Houthis have launched missiles targeting Saudi Arabia, specifically Abha airport. This retaliatory action escalates the conflict in the region.", "location": "Saudi Arabia / Yemen", "lat": 21.4719, "lng": 42.8934, "date": "Jul 14, 2026", "escalation": true, "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo"}], "infrastructure": [{"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"}, {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"}, {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"}, {"name": "US 5th Fleet HQ \u2014 Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"}, {"name": "Hezbollah stronghold \u2014 South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"}, {"name": "Houthi operational area \u2014 Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"}, {"name": "IRGC HQ \u2014 Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}]}
+{
+  "lastUpdated": "2026-07-14T18:59:42-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 14,
+    "cyber": 1,
+    "nuclear": 1
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "Iran Launches Barrage of Missiles and Drones at Bahrain",
+      "desc": "Iranian state media reported that Tehran launched a barrage of missiles and drones targeting a US naval support base in Bahrain's capital. Sirens were heard in the capital following the reported attack.",
+      "location": "Manama, Bahrain",
+      "lat": 26.2206,
+      "lng": 50.5822,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US Military Launches More Strikes Against Iran",
+      "desc": "The U.S. military announced it was conducting further strikes against Iran, which began Tuesday afternoon Eastern Time. These strikes come as the US prepares to reinstate a blockade of Iranian shipping.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-military-says-it-launching-more-strikes-against-iran"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "US and Iran Trade Fire Amid Tensions Over Strait of Hormuz",
+      "desc": "The US military conducted strikes, which Iran claimed were on US military assets in Kuwait, Jordan, Bahrain, and Oman. This exchange of fire escalates tensions around the strategic Strait of Hormuz.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2045,
+      "lng": 54.7930,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "US Strikes 90 Iranian Targets Amidst Retaliation and Burial Ceremonies",
+      "desc": "US Central Command reported hitting 90 Iranian targets in the latest round of strikes. This action occurs concurrently with public mourning ceremonies for Iran's late supreme leader, Ali Khamenei, and follows earlier attacks.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "Iran and US Exchange Strikes Following Tanker Incidents",
+      "desc": "The US military stated it targeted missile sites and command centers in Iran, while Iranian sources claimed attacks on US bases. This follows incidents involving tankers in the Strait of Hormuz.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2045,
+      "lng": 54.7930,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US Continues Strikes Against Iran; Trump Threatens More",
+      "desc": "President Trump indicated the US would likely conduct further strikes against Iran, following recent engagements. He stated that any future actions would be brief.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "diplomatic",
+      "title": "US Senate Democrats Block Defence Bill Over Iran War, Israel Integration",
+      "desc": "The US Senate voted to block debate on the annual defence bill due to disagreements over war funding and provisions for defense cooperation with Israel, highlighting political divisions.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/senate-democrats-block-defence-bill-over-iran-war-israel-provisions"
+    },
+    {
+      "id": 8,
+      "type": "kinetic",
+      "title": "Israeli Strike Kills Seven in North Gaza Police Post",
+      "desc": "An Israeli strike on a police post in northern Gaza resulted in the deaths of seven individuals, including a senior officer in the Hamas-run police force. The Israeli military stated the target was 'terrorists'.",
+      "location": "Gaza City",
+      "lat": 31.5229,
+      "lng": 34.4568,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 9,
+      "type": "cyber",
+      "title": "US Lawmakers Propose Bill to Counter Transnational Repression by China and Iran",
+      "desc": "A bipartisan bill was introduced in the US Congress to enhance penalties for foreign government agents involved in threatening individuals on US soil. This measure targets transnational repression tactics employed by countries like China and Iran.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/lawmakers-seek-counter-china-iran-repression-tactics-us-soil"
+    },
+    {
+      "id": 10,
+      "type": "diplomatic",
+      "title": "Iraq PM States US Troops to Withdraw by September 30",
+      "desc": "During a meeting with President Trump, the Iraqi Prime Minister announced that remaining American counter-ISIS troops would be withdrawn from Iraq by September 30. This announcement aligns with White House support for a withdrawal deadline.",
+      "location": "Baghdad, Iraq",
+      "lat": 33.3128,
+      "lng": 44.3615,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-meeting-iraq-pm-says-us-troops-withdraw-sept-30"
+    },
+    {
+      "id": 11,
+      "type": "nuclear",
+      "title": "US Senate Bill Blocks Debate on Defence Amidst Iran War Concerns",
+      "desc": "US Senate Democrats blocked the annual defence bill, citing concerns over funding for the war with Iran and the integration of defense cooperation with Israel. This action highlights ongoing legislative debates regarding US foreign policy and military engagements.",
+      "location": "Washington D.C.",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/senate-democrats-block-defence-bill-over-iran-war-israel-provisions"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "UAE Condemns Iran's 'Brazen' Tanker Attack Amidst Fresh US Strikes",
+      "desc": "The United Arab Emirates has condemned Iran's attack on tankers as 'brazen'. This condemnation comes as the US conducted its third consecutive night of strikes against Iran, following President Trump's announcement of a new blockade on the Strait of Hormuz.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2045,
+      "lng": 54.7930,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 13,
+      "type": "kinetic",
+      "title": "Yemen's Houthis Launch Missiles at Saudi Arabia Post-Sanaa Airport Strikes",
+      "desc": "Following reported strikes on Sanaa airport, the Iran-backed Houthi movement launched missiles targeting Abha airport in Saudi Arabia. The Houthis attribute the Saudi attack to Saudi Arabia and retaliated against the airport.",
+      "location": "Sanaa, Yemen",
+      "lat": 15.3694,
+      "lng": 44.1910,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "UK Bans Support for Iran's Islamic Revolutionary Guard Corps",
+      "desc": "The UK has enacted a ban on providing support to Iran's Islamic Revolutionary Guard Corps (IRGC). This move, utilizing new government powers, targets the group due to its alleged links to death threats and intimidation within Britain.",
+      "location": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.4360,
+      "date": "Jul 14, 2026",
+      "escalation": false,
+      "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "type": "kinetic",
+      "title": "US Insists Strait of Hormuz Open Amidst Strikes with Iran",
+      "desc": "US officials maintain that the Strait of Hormuz remains open, despite Iran's earlier claims of closing the strait and subsequent attacks on US allies and regional bases. This highlights conflicting narratives and ongoing military posturing.",
+      "location": "Strait of Hormuz",
+      "lat": 27.2045,
+      "lng": 54.7930,
+      "date": "Jul 14, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
+}
