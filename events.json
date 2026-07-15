@@ -1,235 +1,200 @@
 {
-"lastUpdated": "2026-07-15T10:01:57-04:00",
-"threatLevel": "CRITICAL",
-"weeklyStats": {
-"kinetic": 10,
-"cyber": 0,
-"nuclear": 0
-},
-"events": [
-{
-"id": 1,
-"type": "kinetic",
-"title": "US Strikes Marine Control Tower in Iran",
-"desc": "The United States has launched strikes targeting a marine control tower in Iran, escalating the ongoing conflict. This action is part of a broader wave of strikes aimed at degrading Iranian military capabilities, particularly those used against commercial shipping in the Strait of Hormuz.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/us-strikes-marine-control-tower-in-iran?traffic_source=rss"
-},
-{
-"id": 2,
-"type": "kinetic",
-"title": "US Launches New Round of Strikes Against Iran",
-"desc": "The U.S. has initiated a new series of strikes against Iran, coinciding with the reimposition of a naval blockade on Iranian ports. This escalation is part of the ongoing conflict over control of the Strait of Hormuz, a critical global energy chokepoint.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.al-monitor.com/originals/2026/07/us-launches-new-round-strikes-against-iran-escalation-threatens-shipping"
-},
-{
-"id": 3,
-"type": "kinetic",
-"title": "US Military Reports Launching More Strikes Against Iran",
-"desc": "The U.S. military confirmed it is carrying out additional strikes against Iran. These actions come as the U.S. prepares to reinstate a blockade on Iranian shipping, following Iran's assertion of closing the Strait of Hormuz.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 14, 2026",
-"escalation": true,
-"url": "https://www.al-monitor.com/originals/2026/07/us-military-says-it-launching-more-strikes-against-iran"
-},
-{
-"id": 4,
-"type": "kinetic",
-"title": "US Conducts Wave of Strikes on Iran Amid Return to War",
-"desc": "The United States has executed a significant wave of strikes against Iran, marking a return to hostilities. These attacks are intended to further degrade Iranian military capabilities that have been used to target commercial shipping in the Strait of Hormuz.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.al-monitor.com/originals/2026/07/us-reports-wave-strikes-iran-war-returns"
-},
-{
-"id": 5,
-"type": "kinetic",
-"title": "US Expands Sanctions Targeting Iran's Oil and Cryptocurrency Sectors",
-"desc": "The United States has broadened its sanctions regime against Iran, focusing on the nation's oil sector and cryptocurrency activities. This move targets the network of Mohammad Hossein Shamkhani, which is described as a key player in Iran's oil exports and global commodities trading.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 14, 2026",
-"escalation": false,
-"url": "https://www.al-monitor.com/originals/2026/07/us-expands-sanctions-targeting-iran-oil-cryptocurrency-sectors"
-},
-{
-"id": 6,
-"type": "kinetic",
-"title": "Iran Threatens to Block More Trade Routes as US Launches Fresh Strikes",
-"desc": "Iran has issued threats to obstruct additional trade routes in response to the latest U.S. strikes. President Donald Trump has also vowed to target Iran's bridges and power plants if negotiations are not resumed.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
-},
-{
-"id": 7,
-"type": "kinetic",
-"title": "Trump Threatens to Bomb Bridges and Power Plants Unless Iran Resumes Talks",
-"desc": "President Trump has escalated rhetoric by threatening to bomb Iranian infrastructure, including bridges and power plants, unless the country agrees to resume negotiations. This follows several days of exchanges of fire and the U.S. reinstating a blockade of Iranian ports.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
-},
-{
-"id": 8,
-"type": "kinetic",
-"title": "US and Iran Trade Fire as Tensions Rise Over Strait of Hormuz",
-"desc": "The U.S. and Iran have engaged in retaliatory strikes, further intensifying tensions around the Strait of Hormuz. Iran claims to have struck U.S. military assets in Kuwait, Jordan, Bahrain, and Oman in response to U.S. actions.",
-"location": "Strait of Hormuz",
-"lat": 26.7253,
-"lng": 54.4715,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
-},
-{
-"id": 9,
-"type": "kinetic",
-"title": "US and Iran Trade Attacks Amidst New Regime's Ascension",
-"desc": "The U.S. and Iran have exchanged fire during a period of significant political transition in Iran, following the burial of Supreme Leader Ali Khamenei. U.S. Central Command reported striking 90 Iranian targets, with Iran's health ministry stating 14 deaths since Tuesday.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
-},
-{
-"id": 10,
-"type": "kinetic",
-"title": "US Insists Strait of Hormuz is Open Amidst Exchanges with Iran",
-"desc": "U.S. officials maintain that the Strait of Hormuz remains open for navigation, despite Iran's claims of closure and subsequent attacks on U.S. allies and regional bases. Iran has reportedly informed U.S. officials that a recent attack on ships was an 'accident'.",
-"location": "Strait of Hormuz",
-"lat": 26.7253,
-"lng": 54.4715,
-"date": "Jul 15, 2026",
-"escalation": true,
-"url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
-},
-{
-"id": 11,
-"type": "kinetic",
-"title": "Israeli Strike on Gaza Police Post Kills Seven",
-"desc": "An Israeli airstrike on a police post in northern Gaza has resulted in the deaths of seven individuals, including a senior officer from the Hamas-run police force. The Israeli military stated that the targets were 'terrorists'.",
-"location": "Gaza",
-"lat": 31.4167,
-"lng": 34.75,
-"date": "Jul 15, 2026",
-"escalation": false,
-"url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss"
-},
-{
-"id": 12,
-"type": "kinetic",
-"title": "Yemen's Houthis Launch Missiles at Saudi Arabia After Strikes on Sanaa",
-"desc": "The Iran-backed Houthi movement has launched missiles targeting Saudi Arabia, specifically Abha airport, in response to what they claim were Saudi attacks on Sanaa airport. This action further escalates the conflict in Yemen.",
-"location": "Yemen",
-"lat": 15.9235,
-"lng": 47.5567,
-"date": "Jul 15, 2026",
-"escalation": false,
-"url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss"
-},
-{
-"id": 13,
-"type": "diplomatic",
-"title": "G7 Urges Halt to Attacks in Sudan's El-Obeid, Calls for Arms Embargo",
-"desc": "G7 foreign ministers and the EU's foreign policy chief have called for an immediate cessation of hostilities in El-Obeid, Sudan, urging all parties, including the Sudanese army and Rapid Support Forces, to halt actions that endanger civilians. They also advocated for a broader arms embargo.",
-"location": "El-Obeid, Sudan",
-"lat": 13.1804,
-"lng": 30.2185,
-"date": "Jul 15, 2026",
-"escalation": false,
-"url": "https://www.al-monitor.com/originals/2026/07/g7-urges-halt-attacks-sudans-el-obeid-calls-wider-arms-embargo"
-},
-{
-"id": 14,
-"type": "diplomatic",
-"title": "Briton Jailed in Iran Receives Additional Two-Year Sentence",
-"desc": "The family of Craig Foreman, a British national serving a 10-year sentence in Iran for espionage charges he denies, has reported that his sentence has been extended by two years for speaking to the media. This adds to the existing sentence for him and his wife, Lindsay Foreman.",
-"location": "Iran",
-"lat": 32.4279,
-"lng": 53.6880,
-"date": "Jul 15, 2026",
-"escalation": false,
-"url": "https://www.al-monitor.com/originals/2026/07/briton-jailed-iran-given-additional-two-year-sentence-family-says"
-},
-{
-"id": 15,
-"type": "proxy",
-"title": "Far-right Israeli Lawmaker Raids Palestinian School",
-"desc": "An Israeli education committee official has raided a Palestinian school in Jerusalem, threatening its closure due to the display of Palestinian symbols. This action highlights ongoing tensions and Israeli policy within occupied East Jerusalem.",
-"location": "Jerusalem",
-"lat": 31.7683,
-"lng": 35.2137,
-"date": "Jul 15, 2026",
-"escalation": false,
-"url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/far-right-israeli-lawmaker-raids-palestinian-school-and-threatens-shutdown?traffic_source=rss"
-}
-],
-"infrastructure": [
-{
-"name": "Natanz Nuclear Facility",
-"lat": 33.7236,
-"lng": 51.7267,
-"note": "Primary uranium enrichment site"
-},
-{
-"name": "Fordow Enrichment Facility",
-"lat": 34.8846,
-"lng": 50.9929,
-"note": "Underground enrichment — restricted IAEA access"
-},
-{
-"name": "Al Udeid Air Base (CENTCOM)",
-"lat": 25.1174,
-"lng": 51.3150,
-"note": "US forward operating base — Qatar"
-},
-{
-"name": "US 5th Fleet HQ \u2014 Bahrain",
-"lat": 26.1921,
-"lng": 50.5500,
-"note": "US Naval Forces Central Command"
-},
-{
-"name": "Hezbollah stronghold \u2014 South Beirut",
-"lat": 33.8518,
-"lng": 35.4845,
-"note": "Primary Hezbollah operational area"
-},
-{
-"name": "Houthi operational area \u2014 Sanaa",
-"lat": 15.3694,
-"lng": 44.1910,
-"note": "Houthi control zone"
-},
-{
-"name": "IRGC HQ \u2014 Tehran",
-"lat": 35.7219,
-"lng": 51.3347,
-"note": "Islamic Revolutionary Guard Corps"
-}
-]
+  "lastUpdated": "2026-07-15T15:01:42-04:00",
+  "threatLevel": "CRITICAL",
+  "weeklyStats": {
+    "kinetic": 9,
+    "cyber": 3,
+    "nuclear": 1
+  },
+  "events": [
+    {
+      "id": 1,
+      "type": "kinetic",
+      "title": "US Launches Fresh Strikes on Iran Amidst Escalating Tensions",
+      "desc": "The United States has launched a new wave of strikes across Iran, targeting infrastructure and military sites. This action follows repeated exchanges of fire between the two nations and raises concerns about the collapse of a fragile ceasefire. US President Donald Trump has vowed further escalation, threatening to strike bridges and power plants if Iran does not resume talks.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 2,
+      "type": "kinetic",
+      "title": "US and Iran Trade Fire for Fourth Consecutive Day",
+      "desc": "The United States and Iran have exchanged fire for the fourth day in a row, as tensions continue to rise over the Strait of Hormuz. The US has resumed blockading Iranian ports, and President Trump has threatened to bomb key infrastructure if Iran does not return to negotiations.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0000,
+      "lng": 56.0000,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 3,
+      "type": "kinetic",
+      "title": "Israeli Strike Kills Seven in North Gaza",
+      "desc": "An Israeli strike on a police post in northern Gaza has resulted in the deaths of seven individuals, including a senior officer in the Hamas-run police force. The Israeli military stated that the targeted individuals were \"terrorists.\"",
+      "location": "Gaza Strip",
+      "lat": 31.3547,
+      "lng": 34.3082,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 4,
+      "type": "kinetic",
+      "title": "Houthi Missiles Target Saudi Arabia After Strikes on Sanaa",
+      "desc": "Yemen's Houthi rebels have launched missiles at Saudi Arabia, reportedly targeting Abha airport. This action is a response to recent strikes on Sanaa airport, with the Houthis blaming Saudi Arabia for the attack in Yemen's capital.",
+      "location": "Yemen",
+      "lat": 15.9237,
+      "lng": 48.0279,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 5,
+      "type": "kinetic",
+      "title": "US and Iran Exchange Strikes; Iran Claims Attacks on US Allies",
+      "desc": "The US and Iran have engaged in retaliatory strikes. Within hours of the latest US attacks, Iran claimed to have struck US military assets in Kuwait, Jordan, Bahrain, and Oman, further escalating regional tensions.",
+      "location": "Middle East",
+      "lat": 28.0000,
+      "lng": 53.0000,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 6,
+      "type": "kinetic",
+      "title": "US Insists Strait of Hormuz is Open Amidst Exchange of Strikes with Iran",
+      "desc": "Despite Iranian forces declaring the Strait of Hormuz closed and launching wide-ranging attacks at US allies and bases, the US insists the vital waterway remains open. This follows a period of intense aerial exchanges between the two nations.",
+      "location": "Strait of Hormuz",
+      "lat": 27.0000,
+      "lng": 56.0000,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 7,
+      "type": "kinetic",
+      "title": "US Strikes Target Iranian Nuclear Site 'Pickaxe Mountain'",
+      "desc": "US President Donald Trump has threatened to attack \"Pickaxe Mountain,\" a fortified underground site linked to Iran's nuclear program. This threat comes amidst escalating tensions and trade of fire between the US and Iran, potentially jeopardizing efforts to end the conflict.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/explainer-what-pickaxe-mountain-iranian-nuclear-linked-site-threatened-trump"
+    },
+    {
+      "id": 8,
+      "type": "diplomatic",
+      "title": "Lebanon and Israel Conclude US-Brokered Talks on 'Pilot Zones'",
+      "desc": "Lebanon and Israel have concluded US-brokered talks in Rome, making progress on a plan that could lead to an Israeli troop withdrawal from parts of southern Lebanon. The talks are part of ongoing negotiations following a new war that erupted between Israel and Hezbollah.",
+      "location": "Rome",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "date": "Jul 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/lebanon-israel-conclude-us-brokered-talks-pilot-zones-rome"
+    },
+    {
+      "id": 9,
+      "type": "cyber",
+      "title": "US Issues Sanctions to Disrupt Iran's Weapon Procurement Network",
+      "desc": "The US government has imposed sanctions on individuals and entities across Iran, Russia, and Nigeria, accusing them of forming an international network to help Iran procure weapons. This action aims to disrupt Iran's defense supply chain.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 15, 2026",
+      "escalation": false,
+      "url": "https://www.al-monitor.com/originals/2026/07/us-says-it-issued-sanctions-disrupt-irans-weapon-procurement"
+    },
+    {
+      "id": 10,
+      "type": "proxy",
+      "title": "Pro-Government Militia Seizes Boat with 'Houthi Weapons Materials' in Yemen",
+      "desc": "A pro-government militia in Yemen claims to have intercepted a boat carrying materials intended for Houthi weapons manufacturing. This seizure highlights the ongoing flow of illicit materials supporting the Houthi insurgency.",
+      "location": "Yemen",
+      "lat": 15.9237,
+      "lng": 48.0279,
+      "date": "Jul 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss"
+    },
+    {
+      "id": 11,
+      "type": "kinetic",
+      "title": "Gas Tanker Explodes in Fire Near Army Barracks in Lebanon",
+      "desc": "A gas tanker has exploded following a fire near Lebanese Army barracks in Hermel. The incident occurred amidst soaring temperatures, raising concerns about infrastructure safety.",
+      "location": "Hermel, Lebanon",
+      "lat": 34.3667,
+      "lng": 36.3833,
+      "date": "Jul 15, 2026",
+      "escalation": false,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/gas-tanker-explodes-in-fire-near-army-barracks-in-lebanon?traffic_source=rss"
+    },
+    {
+      "id": 12,
+      "type": "kinetic",
+      "title": "Father, Mother, Daughter Killed in Israeli Attack on Gaza Home",
+      "desc": "A family, including a father, mother, and their six-year-old daughter, were killed in an Israeli air attack on their home in Gaza. The incident underscores the ongoing civilian casualties in the conflict.",
+      "location": "Gaza Strip",
+      "lat": 31.3547,
+      "lng": 34.3082,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss"
+    },
+    {
+      "id": 13,
+      "type": "cyber",
+      "title": "AI Threat Fusion Center Proposed Amidst Concerns Over Advanced AI Models",
+      "desc": "A proposal for an AI Threat Fusion Center has been put forth following concerns over the potential misuse of advanced AI models like Anthropic's Mythos 5. The U.S. government's intervention to take down the model highlights the complex challenges in managing AI safety and information sharing.",
+      "location": "United States",
+      "lat": 39.8283,
+      "lng": -98.5795,
+      "date": "Jul 15, 2026",
+      "escalation": false,
+      "url": "https://warontherocks.com/before-the-next-mythos-moment-the-case-for-an-ai-threat-fusion-center/"
+    },
+    {
+      "id": 14,
+      "type": "kinetic",
+      "title": "Iran Threatens to Block More Trade Routes as US Launches Fresh Strikes",
+      "desc": "Iran has threatened to obstruct additional trade routes in response to new US strikes. This action escalates the conflict, which has seen daily exchanges of fire between the two nations and the US blockading Iranian ports.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "type": "nuclear",
+      "title": "Trump Threatens 'Pickaxe Mountain', Iranian Nuclear-Linked Site",
+      "desc": "US President Donald Trump has explicitly threatened to strike \"Pickaxe Mountain,\" a fortified underground facility linked to Iran's nuclear program. This statement signals a significant escalation in the ongoing conflict and a potential direct confrontation over Iran's nuclear ambitions.",
+      "location": "Iran",
+      "lat": 32.4279,
+      "lng": 53.6880,
+      "date": "Jul 15, 2026",
+      "escalation": true,
+      "url": "https://www.al-monitor.com/originals/2026/07/explainer-what-pickaxe-mountain-iranian-nuclear-linked-site-threatened-trump"
+    }
+  ],
+  "infrastructure": [
+    {"name": "Natanz Nuclear Facility", "lat": 33.7236, "lng": 51.7267, "note": "Primary uranium enrichment site"},
+    {"name": "Fordow Enrichment Facility", "lat": 34.8846, "lng": 50.9929, "note": "Underground enrichment — restricted IAEA access"},
+    {"name": "Al Udeid Air Base (CENTCOM)", "lat": 25.1174, "lng": 51.3150, "note": "US forward operating base — Qatar"},
+    {"name": "US 5th Fleet HQ — Bahrain", "lat": 26.1921, "lng": 50.5500, "note": "US Naval Forces Central Command"},
+    {"name": "Hezbollah stronghold — South Beirut", "lat": 33.8518, "lng": 35.4845, "note": "Primary Hezbollah operational area"},
+    {"name": "Houthi operational area — Sanaa", "lat": 15.3694, "lng": 44.1910, "note": "Houthi control zone"},
+    {"name": "IRGC HQ — Tehran", "lat": 35.7219, "lng": 51.3347, "note": "Islamic Revolutionary Guard Corps"}
+  ]
 }
